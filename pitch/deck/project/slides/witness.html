@@ -1,0 +1,59 @@
+<section id="witness">
+<h2>Witness-2B: our fine-tune of LFM3</h2>
+<div class="winrow">
+<ul class="grow">
+<li><span class="yellow">7× fewer</span> hallucinations than any rival</li>
+<li>Most accurate, with under half the errors</li>
+<li>Knows when it can’t see, and says what to do</li>
+</ul>
+<div class="example">
+<img class="thumb" src="/_blob/6f3ebf293e4d44dbe323a4674ca9f937" alt="A blood pressure monitor, its display half out of frame and washed out by glare">
+<div class="stack">
+<p class="small">“What is my blood pressure reading?”</p>
+<p class="body yellow">“Glare obscures the reading. Tilt the phone.”</p>
+</div>
+</div>
+</div>
+<div class="duo">
+<div></div>
+<div class="charthead">
+<p class="body">All 500 answers</p>
+<div class="legend">
+<div class="key"><div class="swatch s-right"></div><p class="keytext">Right</p></div>
+<div class="key"><div class="swatch s-partly"></div><p class="keytext">Partly</p></div>
+<div class="key"><div class="swatch s-cant"></div><p class="keytext">“Can’t tell”</p></div>
+<div class="key"><div class="swatch s-wrong"></div><p class="keytext">Wrong</p></div>
+</div>
+</div>
+<div class="charthead">
+<p class="body">Hallucinations, 115 unanswerable photos</p>
+<p class="keytext">Share where the model invents an answer</p>
+</div>
+<p class="slabel yellow">Witness-2B</p>
+<div class="sbar"><p class="seg s-right" style="flex:66">&#160;66%</p><div class="seg s-partly" style="flex:15"></div><div class="seg s-cant" style="flex:6"></div><p class="seg s-wrong" style="flex:13">13%&#160;</p></div>
+<div class="track"><div class="bar" style="width:6.8%"></div><p class="rval yellow">8%</p></div>
+<p class="slabel">Qwen3.5-2B</p>
+<div class="sbar"><p class="seg s-right" style="flex:50">&#160;50%</p><div class="seg s-partly" style="flex:15"></div><p class="seg s-wrong" style="flex:35">35%&#160;</p></div>
+<div class="track"><div class="bar" style="width:68%"></div><p class="rval">80%</p></div>
+<p class="slabel">Qwen3-VL-2B</p>
+<div class="sbar"><p class="seg s-right" style="flex:49">&#160;49%</p><div class="seg s-partly" style="flex:19"></div><p class="seg s-wrong" style="flex:32">32%&#160;</p></div>
+<div class="track"><div class="bar" style="width:59.5%"></div><p class="rval">70%</p></div>
+<p class="slabel">LFM3-VL-2B (stock)</p>
+<div class="sbar"><p class="seg s-right" style="flex:45">&#160;45%</p><div class="seg s-partly" style="flex:20"></div><div class="seg s-cant" style="flex:2"></div><p class="seg s-wrong" style="flex:33">33%&#160;</p></div>
+<div class="track"><div class="bar" style="width:49.3%"></div><p class="rval">58%</p></div>
+<p class="slabel">SmolVLM2-2.2B</p>
+<div class="sbar"><p class="seg s-right" style="flex:45">&#160;45%</p><div class="seg s-partly" style="flex:19"></div><div class="seg s-cant" style="flex:5"></div><p class="seg s-wrong" style="flex:31">31%&#160;</p></div>
+<div class="track"><div class="bar" style="width:48.5%"></div><p class="rval">57%</p></div>
+<p class="slabel">Gemma 4 E2B</p>
+<div class="sbar"><p class="seg s-right" style="flex:39">&#160;39%</p><div class="seg s-partly" style="flex:21"></div><div class="seg s-cant" style="flex:2"></div><p class="seg s-wrong" style="flex:38">38%&#160;</p></div>
+<div class="track"><div class="bar" style="width:48.5%"></div><p class="rval">57%</p></div>
+<p class="slabel">InternVL3.5-2B</p>
+<div class="sbar"><p class="seg s-right" style="flex:39">&#160;39%</p><div class="seg s-partly" style="flex:22"></div><p class="seg s-wrong" style="flex:39">39%&#160;</p></div>
+<div class="track"><div class="bar" style="width:62.9%"></div><p class="rval">74%</p></div>
+</div>
+<div class="foot">
+<div class="brand"><svg width="23" height="24" viewBox="0 0 23 24" aria-label="Private Eye logo"><circle cx="5.4" cy="5.4" r="5.4" fill="#ffd600"/><circle cx="5.4" cy="18.6" r="5.4" fill="#ffd600"/><circle cx="17" cy="12" r="5.4" fill="#ffd600"/></svg><p class="footnote">Private Eye</p></div>
+<p class="footnote">500 VizWiz photos, the same bare question to every model, graded by gpt-6.1-sol.</p>
+<div class="pg"></div>
+</div>
+</section>

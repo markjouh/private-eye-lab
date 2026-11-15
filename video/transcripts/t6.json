@@ -1,0 +1,197 @@
+[
+ {
+  "start": 0.0,
+  "end": 2.34,
+  "text": "I need to find where my water bottle is.",
+  "words": [
+   {
+    "w": "I",
+    "start": 0.0,
+    "end": 0.76
+   },
+   {
+    "w": "need",
+    "start": 0.76,
+    "end": 0.9
+   },
+   {
+    "w": "to",
+    "start": 0.9,
+    "end": 1.04
+   },
+   {
+    "w": "find",
+    "start": 1.04,
+    "end": 1.22
+   },
+   {
+    "w": "where",
+    "start": 1.22,
+    "end": 1.38
+   },
+   {
+    "w": "my",
+    "start": 1.38,
+    "end": 1.46
+   },
+   {
+    "w": "water",
+    "start": 1.46,
+    "end": 1.74
+   },
+   {
+    "w": "bottle",
+    "start": 1.74,
+    "end": 2.0
+   },
+   {
+    "w": "is.",
+    "start": 2.0,
+    "end": 2.34
+   }
+  ]
+ },
+ {
+  "start": 4.5,
+  "end": 5.78,
+  "text": "Find my water bottle.",
+  "words": [
+   {
+    "w": "Find",
+    "start": 4.5,
+    "end": 4.9
+   },
+   {
+    "w": "my",
+    "start": 4.9,
+    "end": 5.08
+   },
+   {
+    "w": "water",
+    "start": 5.08,
+    "end": 5.36
+   },
+   {
+    "w": "bottle.",
+    "start": 5.36,
+    "end": 5.78
+   }
+  ]
+ },
+ {
+  "start": 6.04,
+  "end": 7.24,
+  "text": "Looking for your water bottle.",
+  "words": [
+   {
+    "w": "Looking",
+    "start": 6.04,
+    "end": 6.42
+   },
+   {
+    "w": "for",
+    "start": 6.42,
+    "end": 6.62
+   },
+   {
+    "w": "your",
+    "start": 6.62,
+    "end": 6.72
+   },
+   {
+    "w": "water",
+    "start": 6.72,
+    "end": 6.88
+   },
+   {
+    "w": "bottle.",
+    "start": 6.88,
+    "end": 7.24
+   }
+  ]
+ },
+ {
+  "start": 12.06,
+  "end": 13.82,
+  "text": "Your water bottle is two feet to your left.",
+  "words": [
+   {
+    "w": "Your",
+    "start": 12.06,
+    "end": 12.46
+   },
+   {
+    "w": "water",
+    "start": 12.46,
+    "end": 12.64
+   },
+   {
+    "w": "bottle",
+    "start": 12.64,
+    "end": 12.9
+   },
+   {
+    "w": "is",
+    "start": 12.9,
+    "end": 13.0
+   },
+   {
+    "w": "two",
+    "start": 13.0,
+    "end": 13.14
+   },
+   {
+    "w": "feet",
+    "start": 13.14,
+    "end": 13.3
+   },
+   {
+    "w": "to",
+    "start": 13.3,
+    "end": 13.42
+   },
+   {
+    "w": "your",
+    "start": 13.42,
+    "end": 13.52
+   },
+   {
+    "w": "left.",
+    "start": 13.52,
+    "end": 13.82
+   }
+  ]
+ },
+ {
+  "start": 15.66,
+  "end": 17.32,
+  "text": "That's perfect. Really, really good.",
+  "words": [
+   {
+    "w": "That's",
+    "start": 15.66,
+    "end": 16.06
+   },
+   {
+    "w": "perfect.",
+    "start": 16.06,
+    "end": 16.4
+   },
+   {
+    "w": "Really,",
+    "start": 16.6,
+    "end": 16.92
+   },
+   {
+    "w": "really",
+    "start": 16.94,
+    "end": 17.14
+   },
+   {
+    "w": "good.",
+    "start": 17.14,
+    "end": 17.32
+   }
+  ]
+ }
+]

@@ -1,0 +1,184 @@
+[
+ {
+  "start": 0.0,
+  "end": 0.82,
+  "text": "It's been a ton of fun.",
+  "words": [
+   {
+    "w": "It's",
+    "start": 0.0,
+    "end": 0.14
+   },
+   {
+    "w": "been",
+    "start": 0.14,
+    "end": 0.14
+   },
+   {
+    "w": "a",
+    "start": 0.14,
+    "end": 0.26
+   },
+   {
+    "w": "ton",
+    "start": 0.26,
+    "end": 0.38
+   },
+   {
+    "w": "of",
+    "start": 0.38,
+    "end": 0.52
+   },
+   {
+    "w": "fun.",
+    "start": 0.52,
+    "end": 0.82
+   }
+  ]
+ },
+ {
+  "start": 1.8,
+  "end": 4.36,
+  "text": "Great. Do you mind if I save your face to private eye?",
+  "words": [
+   {
+    "w": "Great.",
+    "start": 1.8,
+    "end": 2.24
+   },
+   {
+    "w": "Do",
+    "start": 2.24,
+    "end": 2.68
+   },
+   {
+    "w": "you",
+    "start": 2.68,
+    "end": 2.76
+   },
+   {
+    "w": "mind",
+    "start": 2.76,
+    "end": 2.9
+   },
+   {
+    "w": "if",
+    "start": 2.9,
+    "end": 3.04
+   },
+   {
+    "w": "I",
+    "start": 3.04,
+    "end": 3.1
+   },
+   {
+    "w": "save",
+    "start": 3.1,
+    "end": 3.46
+   },
+   {
+    "w": "your",
+    "start": 3.46,
+    "end": 3.56
+   },
+   {
+    "w": "face",
+    "start": 3.56,
+    "end": 3.78
+   },
+   {
+    "w": "to",
+    "start": 3.78,
+    "end": 3.92
+   },
+   {
+    "w": "private",
+    "start": 3.92,
+    "end": 4.12
+   },
+   {
+    "w": "eye?",
+    "start": 4.12,
+    "end": 4.36
+   }
+  ]
+ },
+ {
+  "start": 4.6,
+  "end": 5.2,
+  "text": "Sure, go ahead.",
+  "words": [
+   {
+    "w": "Sure,",
+    "start": 4.6,
+    "end": 4.82
+   },
+   {
+    "w": "go",
+    "start": 4.94,
+    "end": 5.0
+   },
+   {
+    "w": "ahead.",
+    "start": 5.0,
+    "end": 5.2
+   }
+  ]
+ },
+ {
+  "start": 6.64,
+  "end": 7.7,
+  "text": "This is Elias.",
+  "words": [
+   {
+    "w": "This",
+    "start": 6.64,
+    "end": 7.08
+   },
+   {
+    "w": "is",
+    "start": 7.08,
+    "end": 7.22
+   },
+   {
+    "w": "Elias.",
+    "start": 7.22,
+    "end": 7.7
+   }
+  ]
+ },
+ {
+  "start": 9.36,
+  "end": 10.22,
+  "text": "Remember Elias.",
+  "words": [
+   {
+    "w": "Remember",
+    "start": 9.36,
+    "end": 9.8
+   },
+   {
+    "w": "Elias.",
+    "start": 9.8,
+    "end": 10.22
+   }
+  ]
+ },
+ {
+  "start": 11.12,
+  "end": 11.96,
+  "text": "Awesome, thanks.",
+  "words": [
+   {
+    "w": "Awesome,",
+    "start": 11.12,
+    "end": 11.56
+   },
+   {
+    "w": "thanks.",
+    "start": 11.78,
+    "end": 11.96
+   }
+  ]
+ }
+]

@@ -1,0 +1,33 @@
+{
+ "model": "LFM3-VL-2B-QAD-Q4_0.gguf",
+ "mmproj": "mmproj-LFM3-VL-2B-Q8_0.gguf",
+ "styled": false,
+ "vizwiz": {
+  "n": 500,
+  "errors": 0,
+  "first_error": null,
+  "empty": 0,
+  "seconds": 82,
+  "mean_words": 3.6,
+  "max_words": 130,
+  "mean_tok_s": 73.4,
+  "mean_prompt_tok": 472.8,
+  "hit_token_cap": 1,
+  "thought": 0,
+  "system_in_user_turn": false
+ },
+ "phone": {
+  "n": 42,
+  "errors": 0,
+  "first_error": null,
+  "empty": 0,
+  "seconds": 7,
+  "mean_words": 3.3,
+  "max_words": 61,
+  "mean_tok_s": 80.5,
+  "mean_prompt_tok": 492.5,
+  "hit_token_cap": 0,
+  "thought": 0,
+  "system_in_user_turn": false
+ }
+}

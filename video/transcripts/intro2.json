@@ -1,0 +1,267 @@
+[
+ {
+  "start": 0.0,
+  "end": 2.84,
+  "text": "This is Private Eye, a multimodal vision assistant for blind people.",
+  "words": [
+   {
+    "w": "This",
+    "start": 0.0,
+    "end": 0.24
+   },
+   {
+    "w": "is",
+    "start": 0.24,
+    "end": 0.32
+   },
+   {
+    "w": "Private",
+    "start": 0.32,
+    "end": 0.56
+   },
+   {
+    "w": "Eye,",
+    "start": 0.56,
+    "end": 0.82
+   },
+   {
+    "w": "a",
+    "start": 1.02,
+    "end": 1.1
+   },
+   {
+    "w": "multimodal",
+    "start": 1.1,
+    "end": 1.62
+   },
+   {
+    "w": "vision",
+    "start": 1.62,
+    "end": 1.84
+   },
+   {
+    "w": "assistant",
+    "start": 1.84,
+    "end": 2.2
+   },
+   {
+    "w": "for",
+    "start": 2.2,
+    "end": 2.4
+   },
+   {
+    "w": "blind",
+    "start": 2.4,
+    "end": 2.58
+   },
+   {
+    "w": "people.",
+    "start": 2.58,
+    "end": 2.84
+   }
+  ]
+ },
+ {
+  "start": 4.16,
+  "end": 5.94,
+  "text": "Everything is run completely on device.",
+  "words": [
+   {
+    "w": "Everything",
+    "start": 4.16,
+    "end": 4.64
+   },
+   {
+    "w": "is",
+    "start": 4.64,
+    "end": 4.8
+   },
+   {
+    "w": "run",
+    "start": 4.8,
+    "end": 4.96
+   },
+   {
+    "w": "completely",
+    "start": 4.96,
+    "end": 5.36
+   },
+   {
+    "w": "on",
+    "start": 5.36,
+    "end": 5.58
+   },
+   {
+    "w": "device.",
+    "start": 5.58,
+    "end": 5.94
+   }
+  ]
+ },
+ {
+  "start": 6.32,
+  "end": 9.42,
+  "text": "To demonstrate this, I'll turn on airplane mode for all our demos today.",
+  "words": [
+   {
+    "w": "To",
+    "start": 6.32,
+    "end": 6.8
+   },
+   {
+    "w": "demonstrate",
+    "start": 6.8,
+    "end": 7.08
+   },
+   {
+    "w": "this,",
+    "start": 7.08,
+    "end": 7.44
+   },
+   {
+    "w": "I'll",
+    "start": 7.62,
+    "end": 7.76
+   },
+   {
+    "w": "turn",
+    "start": 7.76,
+    "end": 7.86
+   },
+   {
+    "w": "on",
+    "start": 7.86,
+    "end": 7.98
+   },
+   {
+    "w": "airplane",
+    "start": 7.98,
+    "end": 8.22
+   },
+   {
+    "w": "mode",
+    "start": 8.22,
+    "end": 8.5
+   },
+   {
+    "w": "for",
+    "start": 8.5,
+    "end": 8.64
+   },
+   {
+    "w": "all",
+    "start": 8.64,
+    "end": 8.76
+   },
+   {
+    "w": "our",
+    "start": 8.76,
+    "end": 8.88
+   },
+   {
+    "w": "demos",
+    "start": 8.88,
+    "end": 9.12
+   },
+   {
+    "w": "today.",
+    "start": 9.12,
+    "end": 9.42
+   }
+  ]
+ },
+ {
+  "start": 10.68,
+  "end": 16.38,
+  "text": "It's easy to use. Just open the app, tap, and you're ready to go.",
+  "words": [
+   {
+    "w": "It's",
+    "start": 10.68,
+    "end": 11.16
+   },
+   {
+    "w": "easy",
+    "start": 11.16,
+    "end": 11.3
+   },
+   {
+    "w": "to",
+    "start": 11.3,
+    "end": 11.42
+   },
+   {
+    "w": "use.",
+    "start": 11.42,
+    "end": 11.7
+   },
+   {
+    "w": "Just",
+    "start": 11.88,
+    "end": 12.04
+   },
+   {
+    "w": "open",
+    "start": 12.04,
+    "end": 12.26
+   },
+   {
+    "w": "the",
+    "start": 12.26,
+    "end": 12.4
+   },
+   {
+    "w": "app,",
+    "start": 12.4,
+    "end": 12.64
+   },
+   {
+    "w": "tap,",
+    "start": 12.96,
+    "end": 13.82
+   },
+   {
+    "w": "and",
+    "start": 14.2,
+    "end": 15.02
+   },
+   {
+    "w": "you're",
+    "start": 15.02,
+    "end": 15.94
+   },
+   {
+    "w": "ready",
+    "start": 15.94,
+    "end": 16.04
+   },
+   {
+    "w": "to",
+    "start": 16.04,
+    "end": 16.16
+   },
+   {
+    "w": "go.",
+    "start": 16.16,
+    "end": 16.38
+   }
+  ]
+ },
+ {
+  "start": 17.46,
+  "end": 18.24,
+  "text": "Laptop computer.",
+  "words": [
+   {
+    "w": "Laptop",
+    "start": 17.46,
+    "end": 17.94
+   },
+   {
+    "w": "computer.",
+    "start": 17.94,
+    "end": 18.24
+   }
+  ]
+ }
+]

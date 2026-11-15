@@ -1,0 +1,35 @@
+{
+ "model": "gemma-4-E2B_q4_0-it.gguf",
+ "mmproj": "gemma-4-E2B-it-mmproj.gguf",
+ "styled": true,
+ "repeat_penalty": 1.1,
+ "server_args": "--image-min-tokens 560 --image-max-tokens 560",
+ "vizwiz": {
+  "n": 500,
+  "errors": 0,
+  "first_error": null,
+  "empty": 0,
+  "seconds": 647,
+  "mean_words": 4.0,
+  "max_words": 151,
+  "mean_tok_s": 14.0,
+  "mean_prompt_tok": 670.3,
+  "hit_token_cap": 0,
+  "thought": 0,
+  "system_in_user_turn": false
+ },
+ "phone": {
+  "n": 42,
+  "errors": 0,
+  "first_error": null,
+  "empty": 0,
+  "seconds": 55,
+  "mean_words": 3.4,
+  "max_words": 10,
+  "mean_tok_s": 12.7,
+  "mean_prompt_tok": 673.0,
+  "hit_token_cap": 0,
+  "thought": 0,
+  "system_in_user_turn": false
+ }
+}

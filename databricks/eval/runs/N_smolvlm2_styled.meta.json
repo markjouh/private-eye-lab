@@ -1,0 +1,35 @@
+{
+ "model": "SmolVLM2-2.2B-Instruct-Q4_K_M.gguf",
+ "mmproj": "mmproj-SmolVLM2-2.2B-Instruct-Q8_0.gguf",
+ "styled": true,
+ "repeat_penalty": 1.1,
+ "server_args": "",
+ "vizwiz": {
+  "n": 500,
+  "errors": 0,
+  "first_error": null,
+  "empty": 0,
+  "seconds": 597,
+  "mean_words": 3.6,
+  "max_words": 162,
+  "mean_tok_s": 17.8,
+  "mean_prompt_tok": 414.3,
+  "hit_token_cap": 5,
+  "thought": 0,
+  "system_in_user_turn": false
+ },
+ "phone": {
+  "n": 42,
+  "errors": 0,
+  "first_error": null,
+  "empty": 0,
+  "seconds": 24,
+  "mean_words": 1.8,
+  "max_words": 9,
+  "mean_tok_s": 33.5,
+  "mean_prompt_tok": 500.5,
+  "hit_token_cap": 0,
+  "thought": 0,
+  "system_in_user_turn": false
+ }
+}

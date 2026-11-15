@@ -1,0 +1,17 @@
+{
+  "v": 5,
+  "createdOnFiles": {"v": 1, "at": "2026-11-15T06:30:44Z"},
+  "lists": "css",
+  "format": {"v": 1, "shared": ["project/deck.css"]},
+  "title": "Private Eye Pitch",
+  "order": ["cover", "intro", "ask", "memory", "mvp", "guess", "digin", "data", "witness", "try"],
+  "cover": "cover",
+  "sections": {
+    "s1": {"description": "Where the idea came from, what Private Eye is and what it can do.", "start": "cover"},
+    "s2": {"description": "The MVP worked, but the model made things up on real photos.", "start": "mvp"},
+    "s3": {"description": "Digging in: the data, the Databricks pipeline, two fine-tuning runs and Witness-2B.", "start": "digin"},
+    "s4": {"description": "Invitation to try the app.", "start": "try"}
+  },
+  "faces": {},
+  "designSystems": []
+}

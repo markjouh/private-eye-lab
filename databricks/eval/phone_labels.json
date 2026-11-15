@@ -1,0 +1,618 @@
+[
+ {
+  "id": "p01",
+  "turn": "145343-588",
+  "question": "What is in front of me?",
+  "answerable": "yes",
+  "reference_answer": "A person in a black T-shirt sitting close, facing left.",
+  "acceptable_answers": [
+   "A person",
+   "Someone sitting in front of you",
+   "A man in a black T-shirt"
+  ],
+  "answer_type": "description",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Person left, blanket front."
+ },
+ {
+  "id": "p02",
+  "turn": "150336-496",
+  "question": "What is this?",
+  "answerable": "yes",
+  "reference_answer": "A can of Red Bull energy drink.",
+  "acceptable_answers": [
+   "Red Bull can",
+   "Red Bull",
+   "Red Bull energy drink, 8.4 ounces"
+  ],
+  "answer_type": "object_identity",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Red bull energy drink."
+ },
+ {
+  "id": "p03",
+  "turn": "150343-092",
+  "question": "What is this?",
+  "answerable": "yes",
+  "reference_answer": "A Red Bull energy drink can, turned to its nutrition facts.",
+  "acceptable_answers": [
+   "Energy drink can",
+   "Red Bull can",
+   "A drink can showing nutrition facts"
+  ],
+  "answer_type": "object_identity",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Soda can."
+ },
+ {
+  "id": "p04",
+  "turn": "150354-700",
+  "question": "What is this describe in detail?",
+  "answerable": "yes",
+  "reference_answer": "A slim 8.4 ounce drink can, nutrition label facing you, on a wooden table.",
+  "acceptable_answers": [
+   "An energy drink can showing its nutrition facts",
+   "A drink can on a table with a laptop behind it",
+   "Red Bull can"
+  ],
+  "answer_type": "description",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Can center, laptop right, phone left, desk below."
+ },
+ {
+  "id": "p05",
+  "turn": "151248-192",
+  "question": "What is this?",
+  "answerable": "yes",
+  "reference_answer": "A phone in a black case on a table, next to a laptop.",
+  "acceptable_answers": [
+   "Phone on table",
+   "A smartphone",
+   "A table with a phone, laptop, ball and keychains"
+  ],
+  "answer_type": "object_identity",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Phone on table."
+ },
+ {
+  "id": "p06",
+  "turn": "151854-968",
+  "question": "Can you tell me what this item is?",
+  "answerable": "yes",
+  "reference_answer": "A pink can of strawberry lemon soda.",
+  "acceptable_answers": [
+   "Strawberry lemon drink can",
+   "Poppi strawberry lemon soda",
+   "A pink and yellow can labelled Strawberry Lemon"
+  ],
+  "answer_type": "object_identity",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Yes, in hand."
+ },
+ {
+  "id": "p07",
+  "turn": "151935-507",
+  "question": "What is this?",
+  "answerable": "yes",
+  "reference_answer": "A bag of SkinnyPop original popcorn.",
+  "acceptable_answers": [
+   "Bag of popcorn",
+   "SkinnyPop popcorn",
+   "Popcorn"
+  ],
+  "answer_type": "object_identity",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Popcorn bag."
+ },
+ {
+  "id": "p08",
+  "turn": "151939-548",
+  "question": "What is this?",
+  "answerable": "yes",
+  "reference_answer": "A Canon camera, with a bag of SkinnyPop popcorn behind it.",
+  "acceptable_answers": [
+   "Camera",
+   "Canon camera",
+   "A camera and a bag of popcorn"
+  ],
+  "answer_type": "object_identity",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Camera."
+ },
+ {
+  "id": "p09",
+  "turn": "152005-834",
+  "question": "What is this?",
+  "answerable": "yes",
+  "reference_answer": "A can of Red Bull energy drink.",
+  "acceptable_answers": [
+   "Energy drink can",
+   "Red Bull can",
+   "Blue and silver drink can"
+  ],
+  "answer_type": "object_identity",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Pink and yellow can."
+ },
+ {
+  "id": "p10",
+  "turn": "152014-356",
+  "question": "What is this?",
+  "answerable": "yes",
+  "reference_answer": "The back of a pink drink can, showing its barcode.",
+  "acceptable_answers": [
+   "Pink can",
+   "Pink soda can",
+   "A pink drink can"
+  ],
+  "answer_type": "object_identity",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Pink can."
+ },
+ {
+  "id": "p11",
+  "turn": "155415-718",
+  "question": "What is this?",
+  "answerable": "yes",
+  "reference_answer": "A large wooden table with chairs around it.",
+  "acceptable_answers": [
+   "Wooden table",
+   "A conference table",
+   "Table"
+  ],
+  "answer_type": "object_identity",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Wooden table."
+ },
+ {
+  "id": "p12",
+  "turn": "155432-119",
+  "question": "What is this?",
+  "answerable": "yes",
+  "reference_answer": "An orange chair at a round white table.",
+  "acceptable_answers": [
+   "Chair",
+   "A chair and a table",
+   "Chairs and a round table"
+  ],
+  "answer_type": "object_identity",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Chair."
+ },
+ {
+  "id": "p13",
+  "turn": "155438-958",
+  "question": "What is this?",
+  "answerable": "yes",
+  "reference_answer": "Water fountains, with a restroom sign pointing left and a wet floor sign.",
+  "acceptable_answers": [
+   "Water fountain",
+   "Drinking fountains",
+   "Restroom sign pointing left",
+   "A hallway with water fountains and a restroom sign"
+  ],
+  "answer_type": "description",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Restroom sign."
+ },
+ {
+  "id": "p14",
+  "turn": "155441-668",
+  "question": "What is this?",
+  "answerable": "yes",
+  "reference_answer": "A drinking fountain with a bottle filler.",
+  "acceptable_answers": [
+   "Water fountain",
+   "Bottle filling station",
+   "Drinking fountain"
+  ],
+  "answer_type": "object_identity",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Water fountain."
+ },
+ {
+  "id": "p15",
+  "turn": "155445-615",
+  "question": "How much water is in here?",
+  "answerable": "no",
+  "reference_answer": "",
+  "acceptable_answers": [],
+  "answer_type": "other",
+  "unanswerable_reason": "not_in_frame",
+  "app_reply_on_phone": "Low."
+ },
+ {
+  "id": "p16",
+  "turn": "155457-068",
+  "question": "Can I throw my pizza in here?",
+  "answerable": "yes",
+  "reference_answer": "No, this bin is for mixed recycling.",
+  "acceptable_answers": [
+   "No",
+   "No, it is a recycling bin"
+  ],
+  "answer_type": "yes_no",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "No."
+ },
+ {
+  "id": "p17",
+  "turn": "155520-560",
+  "question": "Can I throw some trash in here?",
+  "answerable": "yes",
+  "reference_answer": "Yes, this is the trash bin.",
+  "acceptable_answers": [
+   "Yes",
+   "Yes, it says trash"
+  ],
+  "answer_type": "yes_no",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Yes, trash bin."
+ },
+ {
+  "id": "p18",
+  "turn": "155534-019",
+  "question": "What is the sign say?",
+  "answerable": "yes",
+  "reference_answer": "Exit.",
+  "acceptable_answers": [
+   "EXIT",
+   "It says exit"
+  ],
+  "answer_type": "text_reading",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "EXIT"
+ },
+ {
+  "id": "p19",
+  "turn": "155545-424",
+  "question": "What is this?",
+  "answerable": "yes",
+  "reference_answer": "A wall of living plants.",
+  "acceptable_answers": [
+   "Green wall",
+   "Plant wall",
+   "Vertical garden"
+  ],
+  "answer_type": "object_identity",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Vertical green plant wall."
+ },
+ {
+  "id": "p20",
+  "turn": "155553-982",
+  "question": "What time is it?",
+  "answerable": "yes",
+  "reference_answer": "About 3:55.",
+  "acceptable_answers": [
+   "3:55",
+   "3:55 PM",
+   "3:56"
+  ],
+  "answer_type": "text_reading",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "3:00."
+ },
+ {
+  "id": "p21",
+  "turn": "155559-876",
+  "question": "What time is it?",
+  "answerable": "yes",
+  "reference_answer": "3:55.",
+  "acceptable_answers": [
+   "3:55 PM",
+   "3:55 and 58 seconds",
+   "3:56"
+  ],
+  "answer_type": "text_reading",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "3:55 PM."
+ },
+ {
+  "id": "p22",
+  "turn": "155611-148",
+  "question": "What is this?",
+  "answerable": "yes",
+  "reference_answer": "A fire department valve cabinet on the wall.",
+  "acceptable_answers": [
+   "Fire hose cabinet",
+   "Fire valve cabinet",
+   "A wall cabinet with a fire department valve"
+  ],
+  "answer_type": "object_identity",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Display case."
+ },
+ {
+  "id": "p23",
+  "turn": "155643-106",
+  "question": "Which city is this?",
+  "answerable": "no",
+  "reference_answer": "",
+  "acceptable_answers": [],
+  "answer_type": "other",
+  "unanswerable_reason": "not_in_frame",
+  "app_reply_on_phone": "Can't tell."
+ },
+ {
+  "id": "p24",
+  "turn": "155648-392",
+  "question": "What is this?",
+  "answerable": "yes",
+  "reference_answer": "A brown leather ottoman.",
+  "acceptable_answers": [
+   "Ottoman",
+   "Leather stool",
+   "Pouf",
+   "Orange leather footstool"
+  ],
+  "answer_type": "object_identity",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Orange leather ottoman."
+ },
+ {
+  "id": "p25",
+  "turn": "160709-607",
+  "question": "What is this?",
+  "answerable": "yes",
+  "reference_answer": "Emergency signs and an emergency phone beside a call button.",
+  "acceptable_answers": [
+   "Emergency phone panel",
+   "A 911 emergency sign",
+   "Emergency communication station",
+   "Call button and emergency signs"
+  ],
+  "answer_type": "description",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Elevator buttons."
+ },
+ {
+  "id": "p26",
+  "turn": "163021-900",
+  "question": "What color are these?",
+  "answerable": "yes",
+  "reference_answer": "Blue.",
+  "acceptable_answers": [
+   "Blue glasses",
+   "Royal blue"
+  ],
+  "answer_type": "color",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Blue."
+ },
+ {
+  "id": "p27",
+  "turn": "163025-885",
+  "question": "Are they like tinted or just clear?",
+  "answerable": "yes",
+  "reference_answer": "Clear.",
+  "acceptable_answers": [
+   "They are clear",
+   "Clear lenses"
+  ],
+  "answer_type": "other",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Yes, clear."
+ },
+ {
+  "id": "p28",
+  "turn": "163044-029",
+  "question": "Are these open or closed?",
+  "answerable": "yes",
+  "reference_answer": "Open.",
+  "acceptable_answers": [
+   "They are open",
+   "Open, the arms are unfolded"
+  ],
+  "answer_type": "other",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "No, in hand."
+ },
+ {
+  "id": "p29",
+  "turn": "163110-202",
+  "question": "What is this?",
+  "answerable": "yes",
+  "reference_answer": "A black insulated bottle.",
+  "acceptable_answers": [
+   "Black bottle",
+   "Water bottle",
+   "Thermal cup",
+   "Black tumbler"
+  ],
+  "answer_type": "object_identity",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Thermal cup."
+ },
+ {
+  "id": "p30",
+  "turn": "163113-441",
+  "question": "What color is it?",
+  "answerable": "yes",
+  "reference_answer": "Black.",
+  "acceptable_answers": [
+   "Black bottle",
+   "Matte black"
+  ],
+  "answer_type": "color",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Black bottle."
+ },
+ {
+  "id": "p31",
+  "turn": "163116-206",
+  "question": "Do you know the brand?",
+  "answerable": "yes",
+  "reference_answer": "Owala.",
+  "acceptable_answers": [
+   "It is an Owala bottle",
+   "Yes, Owala"
+  ],
+  "answer_type": "text_reading",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Yes, CamelBak."
+ },
+ {
+  "id": "p32",
+  "turn": "163123-431",
+  "question": "Do I open it with this button?",
+  "answerable": "yes",
+  "reference_answer": "Yes, press that button to open the lid.",
+  "acceptable_answers": [
+   "Yes",
+   "Yes, push the button"
+  ],
+  "answer_type": "yes_no",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Yes, push to open."
+ },
+ {
+  "id": "p33",
+  "turn": "163130-998",
+  "question": "Is the inside of this like rubber or like metal?",
+  "answerable": "partly",
+  "reference_answer": "The lid has a rubber seal and a plastic spout.",
+  "acceptable_answers": [
+   "Rubber",
+   "Rubber seal",
+   "Rubber and plastic"
+  ],
+  "answer_type": "other",
+  "unanswerable_reason": "not_in_frame",
+  "app_reply_on_phone": "Yes, rubber."
+ },
+ {
+  "id": "p34",
+  "turn": "163159-887",
+  "question": "What color is this phone?",
+  "answerable": "yes",
+  "reference_answer": "Black.",
+  "acceptable_answers": [
+   "Black phone",
+   "Dark"
+  ],
+  "answer_type": "color",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Black."
+ },
+ {
+  "id": "p35",
+  "turn": "163206-257",
+  "question": "What is on the back of this phone?",
+  "answerable": "yes",
+  "reference_answer": "A black leather card wallet, below the camera.",
+  "acceptable_answers": [
+   "A card holder",
+   "A wallet attachment",
+   "A leather wallet and the camera"
+  ],
+  "answer_type": "description",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Camera."
+ },
+ {
+  "id": "p36",
+  "turn": "163243-788",
+  "question": "What is on the back of his phone?",
+  "answerable": "yes",
+  "reference_answer": "A card in a wallet sleeve, below the camera.",
+  "acceptable_answers": [
+   "A card",
+   "A card holder with a card in it",
+   "A wallet with a card"
+  ],
+  "answer_type": "description",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Card."
+ },
+ {
+  "id": "p37",
+  "turn": "163816-491",
+  "question": "What is this?",
+  "answerable": "yes",
+  "reference_answer": "A laptop.",
+  "acceptable_answers": [
+   "Laptop computer",
+   "MacBook",
+   "An open laptop"
+  ],
+  "answer_type": "object_identity",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Laptop computer."
+ },
+ {
+  "id": "p38",
+  "turn": "164052-076",
+  "question": "What is this?",
+  "answerable": "yes",
+  "reference_answer": "A can of Red Bull Zero.",
+  "acceptable_answers": [
+   "Red Bull Zero",
+   "Red Bull can",
+   "Red Bull energy drink"
+  ],
+  "answer_type": "object_identity",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Red Bull can."
+ },
+ {
+  "id": "p39",
+  "turn": "165010-100",
+  "question": "What is this?",
+  "answerable": "yes",
+  "reference_answer": "A bottle of Kroger purified drinking water.",
+  "acceptable_answers": [
+   "Water bottle",
+   "Bottle of water",
+   "Purified drinking water"
+  ],
+  "answer_type": "object_identity",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Water bottle."
+ },
+ {
+  "id": "p40",
+  "turn": "165840-396",
+  "question": "What is he doing?",
+  "answerable": "yes",
+  "reference_answer": "Drinking from a can, sitting at a table with a laptop.",
+  "acceptable_answers": [
+   "Drinking from a can",
+   "Drinking a soda",
+   "Sitting and drinking"
+  ],
+  "answer_type": "description",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Drinking from can."
+ },
+ {
+  "id": "p41",
+  "turn": "170224-562",
+  "question": "What is this?",
+  "answerable": "yes",
+  "reference_answer": "A smartwatch on a wrist, showing 5:02.",
+  "acceptable_answers": [
+   "Smartwatch",
+   "Apple Watch",
+   "Watch"
+  ],
+  "answer_type": "object_identity",
+  "unanswerable_reason": "not_applicable",
+  "app_reply_on_phone": "Smartwatch on wrist."
+ },
+ {
+  "id": "p42",
+  "turn": "173526-198",
+  "question": "What software is running here?",
+  "answerable": "partly",
+  "reference_answer": "A chat app, probably Discord.",
+  "acceptable_answers": [
+   "Chat application",
+   "Discord",
+   "A messaging app"
+  ],
+  "answer_type": "other",
+  "unanswerable_reason": "not_in_frame",
+  "app_reply_on_phone": "Chat application."
+ }
+]

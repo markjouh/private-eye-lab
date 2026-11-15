@@ -1,0 +1,28 @@
+<section id="data">
+<div class="hrow"><h2>Into the data, on Databricks</h2><svg width="64" height="64" viewBox="0 0 24 24" aria-label="Databricks logo"><path fill="#ff3621" d="M.95 14.184L12 20.403l9.919-5.55v2.21L12 22.662l-10.484-5.96-.565.308v.77L12 24l11.05-6.218v-4.317l-.515-.309L12 19.118l-9.867-5.653v-2.21L12 16.805l11.05-6.218V6.32l-.515-.308L12 11.974 2.647 6.681 12 1.388l7.76 4.368.668-.411v-.566L12 0 .95 6.27v.72L12 13.207l9.919-5.55v2.26L12 15.52 1.515 9.56l-.565.308Z"/></svg></div>
+<ul>
+<li>31% of photos can’t fully answer the question: blurry, dark or out of frame</li>
+<li>Crowd labels are noisy: we overturned 14% and refined another 37%</li>
+</ul>
+<div class="flowwrap">
+<div class="flow">
+<div class="step"><p class="label yellow">1 · DATASET</p><h3>VizWiz</h3><p class="small">20,000 photos taken by blind people, each with a question and 10 crowd answers</p></div>
+<p class="arrow">→</p>
+<div class="step"><div class="tag"><p class="label yellow">2 · AI GATEWAY</p><svg width="28" height="28" viewBox="0 0 24 24" aria-label="Databricks logo"><path fill="#ff3621" d="M.95 14.184L12 20.403l9.919-5.55v2.21L12 22.662l-10.484-5.96-.565.308v.77L12 24l11.05-6.218v-4.317l-.515-.309L12 19.118l-9.867-5.653v-2.21L12 16.805l11.05-6.218V6.32l-.515-.308L12 11.974 2.647 6.681 12 1.388l7.76 4.368.668-.411v-.566L12 0 .95 6.27v.72L12 13.207l9.919-5.55v2.26L12 15.52 1.515 9.56l-.565.308Z"/></svg></div><h3>Relabel in under an hour</h3><p class="small">Two GPT models behind one endpoint rewrite all 20,000 labels for $87. Key kept as a secret, every call logged</p></div>
+<p class="arrow">→</p>
+<div class="step"><div class="tag"><p class="label yellow">3 · UNITY CATALOG</p><svg width="28" height="28" viewBox="0 0 24 24" aria-label="Databricks logo"><path fill="#ff3621" d="M.95 14.184L12 20.403l9.919-5.55v2.21L12 22.662l-10.484-5.96-.565.308v.77L12 24l11.05-6.218v-4.317l-.515-.309L12 19.118l-9.867-5.653v-2.21L12 16.805l11.05-6.218V6.32l-.515-.308L12 11.974 2.647 6.681 12 1.388l7.76 4.368.668-.411v-.566L12 0 .95 6.27v.72L12 13.207l9.919-5.55v2.26L12 15.52 1.515 9.56l-.565.308Z"/></svg></div><h3>One source of truth</h3><p class="small">Every label, answer and grade is a row: 12 tables, with 26,000 photos in a volume beside them</p></div>
+</div>
+<div class="flow">
+<div class="step"><p class="label yellow">4 · FINE-TUNE, RUN 1</p><h3>20,000 examples, 13 min</h3><p class="small">Trained on our own GPU. Invented answers fall from 58% to 9%</p></div>
+<p class="arrow">→</p>
+<div class="step"><div class="tag"><p class="label yellow">5 · AI GATEWAY + MLFLOW</p><svg width="28" height="28" viewBox="0 0 24 24" aria-label="Databricks logo"><path fill="#ff3621" d="M.95 14.184L12 20.403l9.919-5.55v2.21L12 22.662l-10.484-5.96-.565.308v.77L12 24l11.05-6.218v-4.317l-.515-.309L12 19.118l-9.867-5.653v-2.21L12 16.805l11.05-6.218V6.32l-.515-.308L12 11.974 2.647 6.681 12 1.388l7.76 4.368.668-.411v-.566L12 0 .95 6.27v.72L12 13.207l9.919-5.55v2.26L12 15.52 1.515 9.56l-.565.308Z"/></svg></div><h3>Grade it, find the faults</h3><p class="small">gpt-6.1-sol grades each run through the gateway. Run 1 declines 71 photos it could answer and loses left and right</p></div>
+<p class="arrow">→</p>
+<div class="step hot"><p class="label yellow">6 · FINE-TUNE, RUN 2</p><h3>40,000 examples, 25 min</h3><p class="small">Same training, new data: 19,400 tap and where-is-it examples, 6,400 “what to do next” declines. Wrong declines halved. This is Witness-2B</p></div>
+</div>
+</div>
+<div class="foot">
+<div class="brand"><svg width="23" height="24" viewBox="0 0 23 24" aria-label="Private Eye logo"><circle cx="5.4" cy="5.4" r="5.4" fill="#ffd600"/><circle cx="5.4" cy="18.6" r="5.4" fill="#ffd600"/><circle cx="17" cy="12" r="5.4" fill="#ffd600"/></svg><p class="footnote">Private Eye</p></div>
+<p class="footnote">All three runs in MLflow, both model versions in the Unity Catalog registry, dashboard and Genie on top.</p>
+<div class="pg"></div>
+</div>
+</section>

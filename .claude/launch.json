@@ -1,0 +1,52 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "video-studio",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": [
+        "--prefix",
+        "/Users/mark/Documents/s26-eyes-lab/video",
+        "run",
+        "dev",
+        "--",
+        "--port",
+        "3123",
+        "--no-open"
+      ],
+      "port": 3123
+    },
+    {
+      "name": "results-app-local",
+      "runtimeExecutable": "env",
+      "runtimeArgs": [
+        "DATABRICKS_HOST=https://dbc-5bd2d642-3eac.cloud.databricks.com",
+        "DATABRICKS_AUTH_TYPE=external-browser",
+        "DATABRICKS_WAREHOUSE_ID=6d48e02b080f30de",
+        "uv",
+        "run",
+        "--quiet",
+        "--with",
+        "streamlit",
+        "--with",
+        "databricks-sql-connector",
+        "--with",
+        "databricks-sdk",
+        "--with",
+        "pandas",
+        "--with",
+        "pyarrow",
+        "streamlit",
+        "run",
+        "/Users/mark/Documents/s26-eyes-lab/databricks/app/app.py",
+        "--server.port",
+        "8517",
+        "--server.headless",
+        "true",
+        "--browser.gatherUsageStats",
+        "false"
+      ],
+      "port": 8517
+    }
+  ]
+}

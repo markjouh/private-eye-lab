@@ -1,0 +1,19 @@
+[  0.74 -   2.74] Yes, just ahead, beside the nearest chair.
+[  8.22 -   9.76] Okay, uh, what do you see?
+[ 10.42 -  13.24] Two plates of bagels and muffins, metal bottle, and people at tables.
+[ 18.10 -  21.24] So, I'm allergic to poppy seeds. Does this bagel have any seeds?
+[ 21.84 -  22.98] Yes, poppy seeds.
+[ 24.18 -  25.44] Alright, off with that.
+[ 28.10 -  30.26] What about this? What kind of bagel is this?
+[ 30.98 -  31.56] Plain bagel.
+[ 32.22 -  32.48] Great.
+[ 35.56 -  36.08] Hmm.
+[ 38.72 -  40.40] So, I'm also allergic to chocolate.
+[ 40.72 -  42.60] Is this a chocolate donut hole?
+[ 43.28 -  44.74] No, a chocolate donut hole.
+[ 46.90 -  47.82] No eating that.
+[ 50.92 -  51.90] What about this?
+[ 52.32 -  54.36] What kind of donut hole is this?
+[ 54.36 -  65.80] blaze down the hole awesome oh by the way is this my water bottle yes stainless steel water bottle
+[ 67.20 -  78.08] all right again just make sure this isn't a chocolate on a hole right what kind of
+[ 78.08 -  83.14] Don't hold this place down all right well let's dig in

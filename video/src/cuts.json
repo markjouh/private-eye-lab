@@ -1,0 +1,210 @@
+{
+ "intro": [
+  {
+   "start": 0.49,
+   "end": 12.37,
+   "say": "This is Private Eye, an on -device assistant for blind people. Ready. Open the op, top, and you're ready to go. Open laptop on a table, padded bench to the left, carpeted floor beyond."
+  }
+ ],
+ "t1": [
+  {
+   "start": 2.99,
+   "end": 4.83,
+   "say": "About 2 meters away."
+  },
+  {
+   "start": 12.65,
+   "end": 16.57,
+   "say": "Two people to your right. Plate of bagel and donuts on left, bottle center."
+  },
+  {
+   "start": 26.59,
+   "end": 29.05,
+   "say": "No, no visible poppy seeds."
+  },
+  {
+   "start": 38.99,
+   "end": 40.99,
+   "say": "No, chocolate flavor."
+  },
+  {
+   "start": 51.07,
+   "end": 53.09,
+   "say": "No, Glazed Donut"
+  },
+  {
+   "start": 70.19,
+   "end": 71.31,
+   "say": "Thank you."
+  },
+  {
+   "start": 100.29,
+   "end": 101.2,
+   "say": "Thank you."
+  }
+ ],
+ "t2": [
+  {
+   "start": 3.69,
+   "end": 8.85,
+   "say": "Alright, what do you see? People seated at tables in a bright, carpeted room."
+  },
+  {
+   "start": 10.93,
+   "end": 15.07,
+   "say": "So, can you help me look for Elias? Looking for Elias."
+  },
+  {
+   "start": 18.39,
+   "end": 22.29,
+   "say": "Elias, 11 feet, right. Yo, Elias."
+  }
+ ],
+ "t3": [
+  {
+   "start": 0.39,
+   "end": 3.19,
+   "say": "Yes, just ahead, beside the nearest chair."
+  },
+  {
+   "start": 7.87,
+   "end": 13.69,
+   "say": "Okay, uh, what do you see? Two plates of bagels and muffins, metal bottle, and people at tables."
+  },
+  {
+   "start": 17.75,
+   "end": 25.89,
+   "say": "So, I'm allergic to poppy seeds. Does this bagel have any seeds? Yes, poppy seeds. Alright, off with that."
+  },
+  {
+   "start": 27.75,
+   "end": 32.93,
+   "say": "What about this? What kind of bagel is this? Plain bagel. Great."
+  },
+  {
+   "start": 35.21,
+   "end": 36.53,
+   "say": "Hmm."
+  },
+  {
+   "start": 38.37,
+   "end": 45.19,
+   "say": "So, I'm also allergic to chocolate. Is this a chocolate donut hole? No, a chocolate donut hole."
+  },
+  {
+   "start": 46.55,
+   "end": 48.27,
+   "say": "No eating that."
+  },
+  {
+   "start": 50.57,
+   "end": 57.05,
+   "say": "What about this? What kind of donut hole is this? blaze down the hole awesome"
+  },
+  {
+   "start": 59.71,
+   "end": 66.25,
+   "say": "oh by the way is this my water bottle yes stainless steel water bottle"
+  },
+  {
+   "start": 66.85,
+   "end": 68.27,
+   "say": "all right"
+  },
+  {
+   "start": 74.11,
+   "end": 83.59,
+   "say": "again just make sure this isn't a chocolate on a hole right what kind of Don't hold this place down all right well let's dig in"
+  }
+ ],
+ "t4": [
+  {
+   "start": 0,
+   "end": 5.65,
+   "say": "It's been a ton of fun. Great. Do you mind if I save your face to private eye? Sure, go ahead."
+  },
+  {
+   "start": 6.29,
+   "end": 8.15,
+   "say": "This is Elias."
+  },
+  {
+   "start": 9.01,
+   "end": 12.41,
+   "say": "Remember Elias. Awesome, thanks."
+  }
+ ],
+ "t5": [
+  {
+   "start": 11.45,
+   "end": 15.51,
+   "say": "What does this say? Please clean, adapter, yourself."
+  },
+  {
+   "start": 16.61,
+   "end": 24.75,
+   "say": "Alright. Alright. Alright. Alright, now we just like put everything into the table and tell it to work. Yeah."
+  },
+  {
+   "start": 25.47,
+   "end": 28.21,
+   "say": "Wait, we didn't do the object inspection yet."
+  },
+  {
+   "start": 29.03,
+   "end": 34.85,
+   "say": "Oh yeah. Let's do this with water bottles. Get this over water bottle. Wait, let's do multiple sodas."
+  }
+ ],
+ "t6": [
+  {
+   "start": 0,
+   "end": 2.79,
+   "say": "I need to find where my water bottle is."
+  },
+  {
+   "start": 4.15,
+   "end": 7.69,
+   "say": "Find my water bottle. Looking for your water bottle."
+  },
+  {
+   "start": 11.71,
+   "end": 14.27,
+   "say": "Your water bottle is two feet to your left."
+  },
+  {
+   "start": 15.31,
+   "end": 17.77,
+   "say": "That's perfect. Really, really good."
+  }
+ ],
+ "t7": [
+  {
+   "start": 0.25,
+   "end": 8.01,
+   "say": "3, 2, 1, go. 3, 2, 1, go. What mascot is this? Wisconsin Badgers."
+  },
+  {
+   "start": 8.81,
+   "end": 15.19,
+   "say": "Nice. Easy. Very nice. This should be at the end. Or, wait do we have a Let's Dig In in the video?"
+  }
+ ],
+ "intro2": [
+  {
+   "start": 0,
+   "end": 3.29,
+   "say": "This is Private Eye, a multimodal vision assistant for blind people."
+  },
+  {
+   "start": 3.81,
+   "end": 9.87,
+   "say": "Everything is run completely on device. To demonstrate this, I'll turn on airplane mode for all our demos today."
+  },
+  {
+   "start": 10.33,
+   "end": 18.69,
+   "say": "It's easy to use. Just open the app, tap, and you're ready to go. Laptop computer."
+  }
+ ]
+}

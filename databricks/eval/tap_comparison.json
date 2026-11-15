@@ -1,0 +1,632 @@
+[
+ {
+  "tag": "t00",
+  "dir": "phone768",
+  "image": "phone_145345-523.jpg",
+  "reference": "Chair with a fleece draped over it. Someone seated behind it, looking left.",
+  "stock": "Person ahead. Person to your right. Chair left, window front, wall right.",
+  "v1": "Person in a black graphic T-shirt.",
+  "v2": "Chair with a towel draped over it. Person seated beside it, facing left."
+ },
+ {
+  "tag": "t01",
+  "dir": "phone768",
+  "image": "phone_145351-884.jpg",
+  "reference": "Someone seated on your right, hand on their lap. Desk with papers left.",
+  "stock": "Person ahead. Table left, paper on table, chair right.",
+  "v1": "Person in a black shirt and blue patterned top.",
+  "v2": "Person seated on the right, with another person at a desk to the left."
+ },
+ {
+  "tag": "t02",
+  "dir": "phone768",
+  "image": "phone_145524-934.jpg",
+  "reference": "Person seated in an armchair, arm bent. Table left, window and curtains behind.",
+  "stock": "Person ahead. Table left, chair right.",
+  "v1": "Person in black shirt seated beside a window.",
+  "v2": "Person seated beside you, with a towel over their arm. Table to the left."
+ },
+ {
+  "tag": "t03",
+  "dir": "phone768",
+  "image": "phone_145540-877.jpg",
+  "reference": "Person seated beside you, smiling with hand on forehead. Window left, curtains behind.",
+  "stock": "Person ahead. Window left, blanket below.",
+  "v1": "Boy in a black T-shirt, hand on his forehead.",
+  "v2": "A person sits on a chair, hand to their forehead. Window behind them on the left."
+ },
+ {
+  "tag": "t04",
+  "dir": "phone768",
+  "image": "phone_145545-528.jpg",
+  "reference": "Open laptop at table\u2019s edge. Cans and phones beyond; three people seated around table.",
+  "stock": "4 people in view. Laptop left, cans center, phone right.",
+  "v1": "Laptops, phones, and Red Bull cans on a wooden table.",
+  "v2": "Open laptop and drink cans on table. Three people seated around it, using phones."
+ },
+ {
+  "tag": "t05",
+  "dir": "phone768",
+  "image": "phone_145555-521.jpg",
+  "reference": "Table with laptops, drink cans, and keys. Three people seated around it.",
+  "stock": "3 people in view. Table ahead, laptops left, cans center, phone right.",
+  "v1": "Three people at a table with laptops and phones.",
+  "v2": "Open laptop on the table. Three people seated around it, looking at phones."
+ },
+ {
+  "tag": "t06",
+  "dir": "phone768",
+  "image": "phone_145702-901.jpg",
+  "reference": "Laptop and drink cans on table. Two people using laptops across from you.",
+  "stock": "Person to your left. Person to your right. Table, laptop, cans, phone right.",
+  "v1": "Laptops, Red Bull and Coke cans, markers, phone.",
+  "v2": "Open laptop and drink cans on the table. Two people seated across it, using laptops."
+ },
+ {
+  "tag": "t07",
+  "dir": "phone768",
+  "image": "phone_150658-240.jpg",
+  "reference": "Ball and keys. Phone beside laptop. Drink cans behind; someone seated across the table.",
+  "stock": "Person to your right. Can left, can center, phone right, ball front, marker center.",
+  "v1": "Red Bull can, marker, phone, and blue ball.",
+  "v2": "Ball and keys on table. Phone beside a can; laptops beyond, someone seated right."
+ },
+ {
+  "tag": "t08",
+  "dir": "phone768",
+  "image": "phone_150839-349.jpg",
+  "reference": "Table and laptop left. Person seated right, hand on forehead; another seated farther left.",
+  "stock": "Person to your right. Person to your left. Laptop left, phone left, blanket right.",
+  "v1": "Two young men at a table with laptops.",
+  "v2": "Table with laptop on left. Person resting on blanket right; another using laptop behind."
+ },
+ {
+  "tag": "t09",
+  "dir": "phone768",
+  "image": "phone_152201-079.jpg",
+  "reference": "Drink cans beside a laptop. Phone on the right. Someone using another laptop opposite.",
+  "stock": "Person to your right. Person to your left. Laptop left, cans center, phone right.",
+  "v1": "Laptop, soda cans, and a smartphone on a wooden table.",
+  "v2": "Open drink cans and a cable on the table. Laptops beyond; someone seated opposite."
+ },
+ {
+  "tag": "t10",
+  "dir": "phone768",
+  "image": "phone_153845-641.jpg",
+  "reference": "Too blurry to identify anything. Hold still.",
+  "stock": "Nothing visible.",
+  "v1": "Can't tell, image too blurry.",
+  "v2": "Too blurry, hold the phone still."
+ },
+ {
+  "tag": "t11",
+  "dir": "phone768",
+  "image": "phone_154719-938.jpg",
+  "reference": "Tables and chairs nearby. People seated beyond. Balconies rise toward a skylight.",
+  "stock": "5 people in view. Wood walls, glass railing, ceiling lights.",
+  "v1": "Multi-level atrium with wooden balconies and glass railings.",
+  "v2": "Open atrium with tables and people below. Glass railings and a skylight above."
+ },
+ {
+  "tag": "t12",
+  "dir": "phone768",
+  "image": "phone_161411-194.jpg",
+  "reference": "Laptop corner at lower left. Capped water bottle centered. Someone behind the table.",
+  "stock": "THING Water bottle.",
+  "v1": "Plastic water bottle.",
+  "v2": "Table edge on the left. Water bottle ahead, person standing behind it."
+ },
+ {
+  "tag": "t13",
+  "dir": "phone768",
+  "image": "phone_162627-481.jpg",
+  "reference": "Too dark, turn on a light.",
+  "stock": "Nothing visible.",
+  "v1": "Too dark to tell.",
+  "v2": "Too dark, turn on a light."
+ },
+ {
+  "tag": "t14",
+  "dir": "phone768",
+  "image": "phone_163804-795.jpg",
+  "reference": "Open laptop on the table, charging cable on its right. Another laptop behind.",
+  "stock": "THING Laptop computer.",
+  "v1": "Laptop computer.",
+  "v2": "Open laptop on a desk, with another laptop behind it."
+ },
+ {
+  "tag": "t15",
+  "dir": "phone768",
+  "image": "phone_164103-480.jpg",
+  "reference": "Red Bull Zero energy drink, 250 millilitre can, 8.4 fluid ounces.",
+  "stock": "THING Red Bull Zero can.",
+  "v1": "Red Bull Zero can.",
+  "v2": "Red Bull Zero energy drink, 8.4 fluid ounce can."
+ },
+ {
+  "tag": "t16",
+  "dir": "phone768",
+  "image": "phone_164602-924.jpg",
+  "reference": "Open Apple laptop displaying a web browser, with a large trackpad below the keyboard.",
+  "stock": "THING Laptop computer.",
+  "v1": "Open laptop computer.",
+  "v2": "Open laptop on a table. Another person seated behind it, with another laptop."
+ },
+ {
+  "tag": "t17",
+  "dir": "phone768",
+  "image": "phone_164624-260.jpg",
+  "reference": "Laptop at the table\u2019s edge. Another laptop opposite, with someone seated behind it.",
+  "stock": "Person ahead. Laptop ahead, table below.",
+  "v1": "Laptop computer.",
+  "v2": "Laptops on a table. Someone seated behind them, with kitchen counters beyond."
+ },
+ {
+  "tag": "t18",
+  "dir": "phone768",
+  "image": "phone_170717-029.jpg",
+  "reference": "Open laptop on the left. Cable curves right, beside an upright water bottle.",
+  "stock": "Laptop left, water bottle right.",
+  "v1": "Laptop computer.",
+  "v2": "Open laptop on the left, water bottle on the right. Cable between them."
+ },
+ {
+  "tag": "t19",
+  "dir": "phone768",
+  "image": "phone_172151-385.jpg",
+  "reference": "Open laptop on the table. Someone seated opposite behind another laptop. Refrigerator farther back.",
+  "stock": "Person ahead. Laptop front, screen left, keyboard below.",
+  "v1": "Laptop computer.",
+  "v2": "Open laptop on the table. Another person seated behind it, looking at a screen."
+ },
+ {
+  "tag": "t20",
+  "dir": "phone768",
+  "image": "phone_172928-776.jpg",
+  "reference": "Laptop with a sleep mask across its keyboard. Bottles right; someone seated opposite.",
+  "stock": "Person ahead. Laptop left, water bottle right, thermos far right.",
+  "v1": "Laptop, water bottle, and metal thermos.",
+  "v2": "Laptop with a case on the keyboard. Water bottle and metal flask to the right. Someone seated opposite."
+ },
+ {
+  "tag": "t21",
+  "dir": "phone768",
+  "image": "phone_173109-719.jpg",
+  "reference": "Hand holding a padded eye mask. Metal bottle and laptop behind; someone seated opposite.",
+  "stock": "2 people to your left. Sleeve mask center, bottle right, laptop back.",
+  "v1": "Gray sleep mask, metal water bottle, and Dell laptop.",
+  "v2": "Gray sleep mask on the table. Metal bottle behind it, laptop farther back."
+ },
+ {
+  "tag": "t22",
+  "dir": "phone768",
+  "image": "phone_173128-846.jpg",
+  "reference": "Person leaning forward on your left; another standing right. Refrigerators and counter behind.",
+  "stock": "Person to your right. Person to your left. Ceiling above, counter left, floor below.",
+  "v1": "Two people, one seated and one standing.",
+  "v2": "Two people close ahead, one seated left and one standing right. Counter behind them."
+ },
+ {
+  "tag": "t23",
+  "dir": "phone768",
+  "image": "phone_173540-851.jpg",
+  "reference": "Sleep mask on table. Water bottle behind it; open laptop left, partly hiding someone.",
+  "stock": "Person to your right. Person to your left. Water bottle center, eye mask front left, laptop back left.",
+  "v1": "Water bottle and gray sleep mask.",
+  "v2": "Eye mask on the table. Water bottle behind it, laptop to the left."
+ },
+ {
+  "tag": "t24",
+  "dir": "phone768",
+  "image": "phone_173815-330.jpg",
+  "reference": "Phone and open laptop on table. Bottle behind; someone seated beyond, looking right.",
+  "stock": "Person to your right. Person to your left. Table ahead, laptop left, phone center, bottle right.",
+  "v1": "Laptops, phone, glasses, and water bottle on a table.",
+  "v2": "Laptops and phone on tables. Glasses and bottle beside them; someone seated opposite."
+ },
+ {
+  "tag": "t25",
+  "dir": "phone768",
+  "image": "phone_174203-383.jpg",
+  "reference": "Too dark, turn on a light.",
+  "stock": "Nothing visible.",
+  "v1": "Too dark to tell.",
+  "v2": "Too dark, turn on a light."
+ },
+ {
+  "tag": "t26",
+  "dir": "phone768",
+  "image": "phone_180050-620.jpg",
+  "reference": "Person standing close on your left. Closed metal elevator doors on your right.",
+  "stock": "Person to your left. Elevator door right, wooden wall left.",
+  "v1": "Young man with curly hair, white T-shirt and name tag.",
+  "v2": "Person standing beside an elevator door. Metal doors on the right, wood paneling behind."
+ },
+ {
+  "tag": "t27",
+  "dir": "phone768",
+  "image": "phone_180558-186.jpg",
+  "reference": "People standing either side. Person in a red top ahead; cabinets behind.",
+  "stock": "4 people in view. Cabinet left, counter front, floor below.",
+  "v1": "Person in red shirt and dark blue pants.",
+  "v2": "People standing close ahead and to your sides. Counter behind them on the left."
+ },
+ {
+  "tag": "t28",
+  "dir": "phone768",
+  "image": "phone_180602-151.jpg",
+  "reference": "Person wearing a lanyard stands close left. Another stands right. Waste bin behind them.",
+  "stock": "THING Person.",
+  "v1": "Man in white T-shirt, with another person beside him.",
+  "v2": "Person in a white shirt close on your left. Another person stands by the counter behind."
+ },
+ {
+  "tag": "t29",
+  "dir": "phone768",
+  "image": "phone_184545-144.jpg",
+  "reference": "Table edge right. Person seated beside it. Glass display case behind them.",
+  "stock": "Person ahead. Table right, chair center, floor left.",
+  "v1": "Person in a gray hoodie seated at a table.",
+  "v2": "Round table on your right. Someone seated beside it, holding a phone."
+ },
+ {
+  "tag": "t30",
+  "dir": "coco768",
+  "image": "000000042528.jpg",
+  "reference": "Feet resting on a wooden chair. A hand holds a phone beside a window.",
+  "stock": "Person to your right. Chair left, phone right.",
+  "v1": "Wooden chair and Samsung cell phone.",
+  "v2": "Stool with someone's feet on the left. Hand holding a phone on the right."
+ },
+ {
+  "tag": "t31",
+  "dir": "coco768",
+  "image": "000000046031.jpg",
+  "reference": "Desk with an open laptop, mice on either side, and a monitor behind left.",
+  "stock": "Laptop center, mouse right, keyboard left.",
+  "v1": "Laptop, mouse, speakers, and monitor.",
+  "v2": "Mouse on the right, laptop in the middle. Mouse pad and monitor to the left."
+ },
+ {
+  "tag": "t32",
+  "dir": "coco768",
+  "image": "000000055022.jpg",
+  "reference": "Bicycle wheel at your feet. More bicycles behind it. Person by the doorway.",
+  "stock": "2 people to your right. Bike front, bike left, rack right.",
+  "v1": "Pink bicycle with flowers on the handlebars.",
+  "v2": "Pink bicycle with flowers on the handlebars. More bikes behind it; someone standing beyond."
+ },
+ {
+  "tag": "t33",
+  "dir": "coco768",
+  "image": "000000057597.jpg",
+  "reference": "Soccer ball on the field, players running after it. Referee right, spectators beyond.",
+  "stock": "17 people in view. Soccer ball left, grass below.",
+  "v1": "Soccer game with players chasing the ball.",
+  "v2": "Soccer ball on the field. Players running toward it, with spectators behind a fence."
+ },
+ {
+  "tag": "t34",
+  "dir": "coco768",
+  "image": "000000058393.jpg",
+  "reference": "Bench ahead. Two people sitting beyond it, facing the water. Railing behind them.",
+  "stock": "Person to your right. Person ahead. Ocean ahead, bench below.",
+  "v1": "Two people sitting on a bench facing the ocean.",
+  "v2": "Bench ahead. Two people sit facing the sea beyond it."
+ },
+ {
+  "tag": "t35",
+  "dir": "coco768",
+  "image": "000000093261.jpg",
+  "reference": "Sand underfoot. Person kneeling on a beach towel, handling a kite; another sits right.",
+  "stock": "Person to your left. Person to your right. Kite in front, towel below, sand around.",
+  "v1": "Boy kneeling on a beach with a kite.",
+  "v2": "Sand underfoot. Someone kneels on a towel, assembling a kite."
+ },
+ {
+  "tag": "t36",
+  "dir": "coco768",
+  "image": "000000099024.jpg",
+  "reference": "Scissors lower right. Kite centered, with someone seated upper left, tying its frame.",
+  "stock": "Person to your left. Plastic sheet front, sticks bottom left, scissors bottom right.",
+  "v1": "Person making a kite on the floor.",
+  "v2": "Sticks on the floor left, scissors right. Someone sits behind a frame, assembling it."
+ },
+ {
+  "tag": "t37",
+  "dir": "coco768",
+  "image": "000000114871.jpg",
+  "reference": "Banana across the front of a plate, with buttered bread behind it.",
+  "stock": "Banana front, cheese back.",
+  "v1": "Banana and cheese on a white plate.",
+  "v2": "Plate with a banana and two slices of cheese."
+ },
+ {
+  "tag": "t38",
+  "dir": "coco768",
+  "image": "000000129054.jpg",
+  "reference": "A herd of zebras stands in a grassy field. Trees dot the hillside beyond.",
+  "stock": "Zebras ahead, grass below.",
+  "v1": "Zebras grazing in a grassy field.",
+  "v2": "Grassy field with a herd of zebras. Rolling hills beyond them."
+ },
+ {
+  "tag": "t39",
+  "dir": "coco768",
+  "image": "000000139077.jpg",
+  "reference": "Loose cables on the floor, right. Someone holding a controller faces the television.",
+  "stock": "Person to your left. TV ahead, cabinet right, stairs left.",
+  "v1": "A young boy holding a Wii controller.",
+  "v2": "Cords on the floor. Person holding a controller; TV cabinet and stairs behind."
+ },
+ {
+  "tag": "t40",
+  "dir": "coco768",
+  "image": "000000170955.jpg",
+  "reference": "Stone urn and pedestal on the left. Person walking beside an ornate wall.",
+  "stock": "Person to your right. Statue left, building right.",
+  "v1": "Man in a dark suit and blue tie.",
+  "v2": "A person in a suit walks past an ornate building entrance. Steps on the left."
+ },
+ {
+  "tag": "t41",
+  "dir": "coco768",
+  "image": "000000171788.jpg",
+  "reference": "Tennis player swinging a racket, ball beside their raised leg. Clay court markings.",
+  "stock": "Person ahead. Racket right, ball far right.",
+  "v1": "Tennis player on a clay court.",
+  "v2": "A tennis player swings a racket on a clay court. Ball to the right."
+ },
+ {
+  "tag": "t42",
+  "dir": "coco768",
+  "image": "000000177893.jpg",
+  "reference": "Road at your feet. Red Metro Rapid bus across the street, palm trees behind.",
+  "stock": "Bus ahead, lamp right.",
+  "v1": "Red and silver Metro Rapid bus.",
+  "v2": "Road ahead. Metro Rapid bus across it, with palm trees behind."
+ },
+ {
+  "tag": "t43",
+  "dir": "coco768",
+  "image": "000000192607.jpg",
+  "reference": "Muddy pickup truck on uneven dirt. Person standing by its front. Trees behind.",
+  "stock": "Person to your right. Truck left, ground right.",
+  "v1": "Muddy pickup truck and man in red shirt.",
+  "v2": "Muddy pickup truck on the left. Person standing beside its front, with trees behind."
+ },
+ {
+  "tag": "t44",
+  "dir": "coco768",
+  "image": "000000208363.jpg",
+  "reference": "People seated close together eating pizza. Open pizza boxes across laps; more people behind.",
+  "stock": "15 people in view. Pizza boxes left, pizza in hand center, chairs below.",
+  "v1": "People eating pizza.",
+  "v2": "People seated around tables eating pizza. More people sit behind them."
+ },
+ {
+  "tag": "t45",
+  "dir": "coco768",
+  "image": "000000229747.jpg",
+  "reference": "Passenger jet overhead, seen from below, nose pointing toward the upper left.",
+  "stock": "THING Airplane.",
+  "v1": "Airplane flying through the sky.",
+  "v2": "Passenger jet flying overhead, nose pointing up and left."
+ },
+ {
+  "tag": "t46",
+  "dir": "coco768",
+  "image": "000000232692.jpg",
+  "reference": "Water and a ramp. A wakeboarder jumps behind it; people in the water beyond.",
+  "stock": "4 people in view. Ramp ahead, water left.",
+  "v1": "Water skier on a ramp.",
+  "v2": "Water ramp on the right. A skier rides behind it; people swim farther back."
+ },
+ {
+  "tag": "t47",
+  "dir": "coco768",
+  "image": "000000274460.jpg",
+  "reference": "Surfboards on the sand beside seated people. A group stands behind them; buildings beyond.",
+  "stock": "15 people in view. Sand in front, surfboards left and right.",
+  "v1": "Group of people on a beach with surfboards.",
+  "v2": "Surfboards on the sand. People sitting and standing behind them; buildings beyond."
+ },
+ {
+  "tag": "t48",
+  "dir": "coco768",
+  "image": "000000284991.jpg",
+  "reference": "Person on your right drinking from a bottle. Barred window behind them.",
+  "stock": "Person ahead. Window left, bottle center, hand center.",
+  "v1": "Man drinking from a red bottle.",
+  "v2": "Person drinking from a bottle on the right. Window behind them, with scenery outside."
+ },
+ {
+  "tag": "t49",
+  "dir": "coco768",
+  "image": "000000292060.jpg",
+  "reference": "Stove on the left, sink in the corner, refrigerator on the right. Cabinets above.",
+  "stock": "Stove left, sink center, fridge right.",
+  "v1": "White kitchen with stove, sink and ceiling fan.",
+  "v2": "Stove on the left, sink ahead. Refrigerator at right; cabinets and ceiling fan above."
+ },
+ {
+  "tag": "t50",
+  "dir": "coco768",
+  "image": "000000296657.jpg",
+  "reference": "Grass underfoot. Several people jump among trees, with a path behind them.",
+  "stock": "5 people in view. Grass below, trees behind.",
+  "v1": "Group of men jumping in front of trees.",
+  "v2": "People jumping on grass. Trees and a path behind them."
+ },
+ {
+  "tag": "t51",
+  "dir": "coco768",
+  "image": "000000343803.jpg",
+  "reference": "Person throwing a flying disc on a brick path. Lawn, trees and building beyond.",
+  "stock": "Person ahead. Frisbee right, grass left, tree back.",
+  "v1": "Man throwing an orange frisbee.",
+  "v2": "Person on a brick path, throwing an orange disc. Lawn and building behind."
+ },
+ {
+  "tag": "t52",
+  "dir": "coco768",
+  "image": "000000353051.jpg",
+  "reference": "Horse grazing on the right. Person bending beside a trough, gate behind them.",
+  "stock": "Person to your left. Horse right, fence left.",
+  "v1": "Woman in red boots beside a grazing brown horse.",
+  "v2": "Horse grazing on the right. Person bending beside a gate on the left."
+ },
+ {
+  "tag": "t53",
+  "dir": "coco768",
+  "image": "000000375493.jpg",
+  "reference": "A person stands on grass beside a fire hydrant. Cats and a crosswalk behind.",
+  "stock": "Person ahead. Fire hydrant front, grass left.",
+  "v1": "Yellow fire hydrant.",
+  "v2": "Person standing beside a fire hydrant. Cats on the grass to their left. Road behind."
+ },
+ {
+  "tag": "t54",
+  "dir": "coco768",
+  "image": "000000397351.jpg",
+  "reference": "Carrot piles on a stall. Vendor holds a bunch behind them; truck beyond.",
+  "stock": "Person to your left. Carrots left, truck right.",
+  "v1": "Carrots and a vegetable stand.",
+  "v2": "Piles of carrots at a market stall. Vendor behind them, holding a bunch; truck beyond."
+ },
+ {
+  "tag": "t55",
+  "dir": "coco768",
+  "image": "000000405306.jpg",
+  "reference": "A gray tabby cat lying on purple fabric, with a paw stretched toward the camera.",
+  "stock": "THING Cat.",
+  "v1": "Tabby cat lying on pink fabric.",
+  "v2": "A tabby cat lying on a purple blanket, with its paw close to the camera."
+ },
+ {
+  "tag": "t56",
+  "dir": "coco768",
+  "image": "000000430377.jpg",
+  "reference": "Skis angle across the snow. Someone holds ski poles, with ski lifts behind.",
+  "stock": "Person ahead. Person to your left. Skiers ahead, poles left, snow below.",
+  "v1": "Woman on skis holding poles.",
+  "v2": "Skier holding poles on snow. Chairlift overhead, another skier farther left."
+ },
+ {
+  "tag": "t57",
+  "dir": "coco768",
+  "image": "000000443303.jpg",
+  "reference": "A cat lies on clothes in an open suitcase. A box behind it.",
+  "stock": "THING Cat.",
+  "v1": "Orange and white cat in an open suitcase.",
+  "v2": "Open suitcase on the bed, with a cat curled inside. Small box behind it."
+ },
+ {
+  "tag": "t58",
+  "dir": "coco768",
+  "image": "000000469828.jpg",
+  "reference": "Snowy ski slope. Skier turning left of center; course poles and trees behind.",
+  "stock": "Person to your left. Snow ahead, trees right.",
+  "v1": "Snowy slope with skiers and pine trees.",
+  "v2": "Snowy slope. A skier crouches left of a gate; trees and fencing behind."
+ },
+ {
+  "tag": "t59",
+  "dir": "coco768",
+  "image": "000000504589.jpg",
+  "reference": "Sand underfoot. Person left reaches for a flying disc; another runs toward it. Trees behind.",
+  "stock": "3 people in view. Sand in front, tree behind.",
+  "v1": "Two people playing frisbee on a sandy beach.",
+  "v2": "Sandy beach. Person reaching left, another playing frisbee on the right. Trees behind."
+ },
+ {
+  "tag": "t60",
+  "dir": "coco768",
+  "image": "000000513041.jpg",
+  "reference": "Wine glasses flank a pizza. Someone points at it; another stands behind the table.",
+  "stock": "Person to your left. Person to your right. Wine glass left, pizza center, wine glass right.",
+  "v1": "Pizza on a wooden board, with wine glasses.",
+  "v2": "Two wine glasses flank a pizza on the table. Someone points at it."
+ },
+ {
+  "tag": "t61",
+  "dir": "coco768",
+  "image": "000000520659.jpg",
+  "reference": "Low fence ahead. Surfboards lined up behind it. People standing under tents beyond.",
+  "stock": "6 people in view. Surfboards left, tent center, grass front.",
+  "v1": "Surf Tech tent and surfboards.",
+  "v2": "Surfboards lined up under a tent. People on the beach beyond."
+ },
+ {
+  "tag": "t62",
+  "dir": "coco768",
+  "image": "000000529122.jpg",
+  "reference": "Two customers at a pastry display counter. Staff member behind it, menu boards above.",
+  "stock": "Person ahead. Pastries below, counter right, display case front.",
+  "v1": "Bakery counter with pastries and a cashier.",
+  "v2": "Two people at a bakery counter. Pastries below; worker behind the register."
+ },
+ {
+  "tag": "t63",
+  "dir": "coco768",
+  "image": "000000532481.jpg",
+  "reference": "Breaking waves ahead. A kiteboarder is airborne; houses line the far shore.",
+  "stock": "Person ahead. Water front, kite left, board center.",
+  "v1": "Kiteboarder mid-air over ocean waves.",
+  "v2": "Waves in the foreground. A kiteboarder jumps above them; houses line the shore beyond."
+ },
+ {
+  "tag": "t64",
+  "dir": "coco768",
+  "image": "000000536343.jpg",
+  "reference": "Open metal-lined box ahead, with exposed wall framing behind and to the right.",
+  "stock": "Bathtub front, wood panels center, shelves right.",
+  "v1": "Bathtub.",
+  "v2": "Bathtub with exposed wall framing and wooden supports behind it."
+ },
+ {
+  "tag": "t65",
+  "dir": "coco768",
+  "image": "000000544605.jpg",
+  "reference": "Signpost ahead with street signs and a no-left-turn sign. Pedestrian signal below.",
+  "stock": "Pole, sign, wall ahead.",
+  "v1": "Street signs and traffic signal against a gray wall.",
+  "v2": "Pole with street signs and a no-trucks sign. Traffic light below; building wall behind."
+ },
+ {
+  "tag": "t66",
+  "dir": "coco768",
+  "image": "000000545100.jpg",
+  "reference": "Railing across the foreground. Person on the right photographing the street; buildings beyond.",
+  "stock": "3 people in view. Railing left, fence front, buildings right.",
+  "v1": "Man in gray suit taking a photo with his phone.",
+  "v2": "Railing ahead. Person photographing the street on the right; basketball court below."
+ },
+ {
+  "tag": "t67",
+  "dir": "coco768",
+  "image": "000000550471.jpg",
+  "reference": "White plate with a thick orange slice, scattered greens, and a fork.",
+  "stock": "THING Orange.",
+  "v1": "Orange half on a plate with greens.",
+  "v2": "Plate with a halved orange, greens and a fork. Another plate behind it."
+ },
+ {
+  "tag": "t68",
+  "dir": "coco768",
+  "image": "000000554579.jpg",
+  "reference": "Dog standing on the carpet. Three people stand behind it, by a Christmas tree.",
+  "stock": "4 people in view. Dog front, handbag right, skirt left.",
+  "v1": "Three women and a tan dog.",
+  "v2": "Dog standing on the carpet. Three people behind it, with a Christmas tree between them."
+ },
+ {
+  "tag": "t69",
+  "dir": "coco768",
+  "image": "000000559348.jpg",
+  "reference": "Player on the field to the left. Batter, catcher and umpire beyond; stands behind.",
+  "stock": "5 people in view. Field ahead, home plate right, bases left.",
+  "v1": "Baseball game, with batter and pitcher.",
+  "v2": "Base on the right. Player ahead left; batter, catcher and umpire at home plate."
+ }
+]

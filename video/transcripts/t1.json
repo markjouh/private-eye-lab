@@ -1,0 +1,223 @@
+[
+ {
+  "start": 3.34,
+  "end": 4.38,
+  "text": "About 2 meters away.",
+  "words": [
+   {
+    "w": "About",
+    "start": 3.34,
+    "end": 3.78
+   },
+   {
+    "w": "2",
+    "start": 3.78,
+    "end": 3.9
+   },
+   {
+    "w": "meters",
+    "start": 3.9,
+    "end": 4.12
+   },
+   {
+    "w": "away.",
+    "start": 4.12,
+    "end": 4.38
+   }
+  ]
+ },
+ {
+  "start": 13.0,
+  "end": 14.14,
+  "text": "Two people to your right.",
+  "words": [
+   {
+    "w": "Two",
+    "start": 13.0,
+    "end": 13.44
+   },
+   {
+    "w": "people",
+    "start": 13.44,
+    "end": 13.68
+   },
+   {
+    "w": "to",
+    "start": 13.68,
+    "end": 13.8
+   },
+   {
+    "w": "your",
+    "start": 13.8,
+    "end": 13.9
+   },
+   {
+    "w": "right.",
+    "start": 13.9,
+    "end": 14.14
+   }
+  ]
+ },
+ {
+  "start": 14.32,
+  "end": 16.12,
+  "text": "Plate of bagel and donuts on left, bottle center.",
+  "words": [
+   {
+    "w": "Plate",
+    "start": 14.32,
+    "end": 14.54
+   },
+   {
+    "w": "of",
+    "start": 14.54,
+    "end": 14.64
+   },
+   {
+    "w": "bagel",
+    "start": 14.64,
+    "end": 14.86
+   },
+   {
+    "w": "and",
+    "start": 14.86,
+    "end": 14.98
+   },
+   {
+    "w": "donuts",
+    "start": 14.98,
+    "end": 15.18
+   },
+   {
+    "w": "on",
+    "start": 15.18,
+    "end": 15.32
+   },
+   {
+    "w": "left,",
+    "start": 15.32,
+    "end": 15.52
+   },
+   {
+    "w": "bottle",
+    "start": 15.66,
+    "end": 15.88
+   },
+   {
+    "w": "center.",
+    "start": 15.88,
+    "end": 16.12
+   }
+  ]
+ },
+ {
+  "start": 26.94,
+  "end": 28.6,
+  "text": "No, no visible poppy seeds.",
+  "words": [
+   {
+    "w": "No,",
+    "start": 26.94,
+    "end": 27.48
+   },
+   {
+    "w": "no",
+    "start": 27.62,
+    "end": 27.76
+   },
+   {
+    "w": "visible",
+    "start": 27.76,
+    "end": 28.02
+   },
+   {
+    "w": "poppy",
+    "start": 28.02,
+    "end": 28.32
+   },
+   {
+    "w": "seeds.",
+    "start": 28.32,
+    "end": 28.6
+   }
+  ]
+ },
+ {
+  "start": 39.34,
+  "end": 40.54,
+  "text": "No, chocolate flavor.",
+  "words": [
+   {
+    "w": "No,",
+    "start": 39.34,
+    "end": 39.88
+   },
+   {
+    "w": "chocolate",
+    "start": 40.02,
+    "end": 40.32
+   },
+   {
+    "w": "flavor.",
+    "start": 40.32,
+    "end": 40.54
+   }
+  ]
+ },
+ {
+  "start": 51.42,
+  "end": 52.64,
+  "text": "No, Glazed Donut",
+  "words": [
+   {
+    "w": "No,",
+    "start": 51.42,
+    "end": 51.94
+   },
+   {
+    "w": "Glazed",
+    "start": 52.12,
+    "end": 52.32
+   },
+   {
+    "w": "Donut",
+    "start": 52.32,
+    "end": 52.64
+   }
+  ]
+ },
+ {
+  "start": 70.54,
+  "end": 70.86,
+  "text": "Thank you.",
+  "words": [
+   {
+    "w": "Thank",
+    "start": 70.54,
+    "end": 70.86
+   },
+   {
+    "w": "you.",
+    "start": 70.86,
+    "end": 70.86
+   }
+  ]
+ },
+ {
+  "start": 100.64,
+  "end": 100.96,
+  "text": "Thank you.",
+  "words": [
+   {
+    "w": "Thank",
+    "start": 100.64,
+    "end": 100.8
+   },
+   {
+    "w": "you.",
+    "start": 100.8,
+    "end": 100.96
+   }
+  ]
+ }
+]

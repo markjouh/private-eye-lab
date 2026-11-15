@@ -1,0 +1,25 @@
+{
+  "name": "eyes-video",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "remotion studio",
+    "render": "remotion render Demo out/demo.mp4",
+    "ingest": "bash scripts/ingest.sh",
+    "cuts": "node scripts/cuts.mjs",
+    "sync": "uv run -q scripts/sync.py",
+    "transcribe": "uv run -q scripts/transcribe.py"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.543",
+    "@remotion/media": "^4.0.543",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "remotion": "^4.0.543"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "typescript": "^7.0.2"
+  }
+}

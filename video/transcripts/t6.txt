@@ -1,0 +1,5 @@
+[  0.00 -   2.34] I need to find where my water bottle is.
+[  4.50 -   5.78] Find my water bottle.
+[  6.04 -   7.24] Looking for your water bottle.
+[ 12.06 -  13.82] Your water bottle is two feet to your left.
+[ 15.66 -  17.32] That's perfect. Really, really good.

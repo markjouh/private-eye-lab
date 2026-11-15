@@ -1,0 +1,5 @@
+[  0.00 -   2.84] This is Private Eye, a multimodal vision assistant for blind people.
+[  4.16 -   5.94] Everything is run completely on device.
+[  6.32 -   9.42] To demonstrate this, I'll turn on airplane mode for all our demos today.
+[ 10.68 -  16.38] It's easy to use. Just open the app, tap, and you're ready to go.
+[ 17.46 -  18.24] Laptop computer.

@@ -1,0 +1,4 @@
+[  0.84 -   4.50] This is Private Eye, an on-device assistant for blind people.
+[  5.28 -   5.68] Ready.
+[  5.90 -   8.80] Open the op, top, and you're ready to go.
+[  9.00 -  11.92] Open laptop on a table, padded bench to the left, carpeted floor beyond.

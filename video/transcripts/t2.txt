@@ -1,0 +1,6 @@
+[  4.04 -   5.52] Alright, what do you see?
+[  6.24 -   8.40] People seated at tables in a bright, carpeted room.
+[ 11.28 -  13.18] So, can you help me look for Elias?
+[ 13.58 -  14.62] Looking for Elias.
+[ 18.74 -  20.18] Elias, 11 feet, right.
+[ 20.78 -  21.84] Yo, Elias.

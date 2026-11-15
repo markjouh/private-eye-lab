@@ -1,0 +1,1316 @@
+# image	condition	truth (by eye: yes = plainly there, no = plainly not, blank = partly visible). For: eyes-cli check <gguf> <mmproj> --batch search_checks.tsv
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-144828-834.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-144828-834.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-144828-834.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-144828-834.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-144828-834.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-144855-817.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-144855-817.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-144855-817.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-144855-817.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-144855-817.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145106-772.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145106-772.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145106-772.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145106-772.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145106-772.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145141-657.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145141-657.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145141-657.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145141-657.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145141-657.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145143-527.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145143-527.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145143-527.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145143-527.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145143-527.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145144-752.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145144-752.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145144-752.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145144-752.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145144-752.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145145-698.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145145-698.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145145-698.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145145-698.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145145-698.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145343-588.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145343-588.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145343-588.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145343-588.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145343-588.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145345-523.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145345-523.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145345-523.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145345-523.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145345-523.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145349-278.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145349-278.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145349-278.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145349-278.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145349-278.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145351-884.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145351-884.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145351-884.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145351-884.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145351-884.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145523-336.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145523-336.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145523-336.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145523-336.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145523-336.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145524-934.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145524-934.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145524-934.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145524-934.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145524-934.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145540-877.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145540-877.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145540-877.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145540-877.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145540-877.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145545-528.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145545-528.jpg	there is a chair in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145545-528.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145545-528.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145545-528.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145550-212.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145550-212.jpg	there is a chair in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145550-212.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145550-212.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145550-212.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145555-521.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145555-521.jpg	there is a chair in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145555-521.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145555-521.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145555-521.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145702-901.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145702-901.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145702-901.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145702-901.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145702-901.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145848-914.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145848-914.jpg	there is a chair in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145848-914.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145848-914.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-145848-914.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150336-496.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150336-496.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150336-496.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150336-496.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150336-496.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150339-011.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150339-011.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150339-011.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150339-011.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150339-011.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150343-092.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150343-092.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150343-092.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150343-092.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150343-092.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150345-548.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150345-548.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150345-548.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150345-548.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150345-548.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150348-232.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150348-232.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150348-232.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150348-232.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150348-232.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150354-700.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150354-700.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150354-700.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150354-700.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150354-700.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150411-485.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150411-485.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150411-485.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150411-485.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150411-485.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150414-694.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150414-694.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150414-694.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150414-694.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150414-694.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150417-830.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150417-830.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150417-830.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150417-830.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150417-830.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150421-215.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150421-215.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150421-215.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150421-215.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150421-215.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150424-026.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150424-026.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150424-026.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150424-026.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150424-026.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150658-240.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150658-240.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150658-240.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150658-240.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150658-240.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150659-895.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150659-895.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150659-895.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150659-895.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150659-895.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150748-567.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150748-567.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150748-567.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150748-567.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150748-567.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150752-467.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150752-467.jpg	there is a chair in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150752-467.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150752-467.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150752-467.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150839-349.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150839-349.jpg	there is a chair in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150839-349.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150839-349.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150839-349.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150936-714.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150936-714.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150936-714.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150936-714.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-150936-714.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151000-951.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151000-951.jpg	there is a chair in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151000-951.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151000-951.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151000-951.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151245-731.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151245-731.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151245-731.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151245-731.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151245-731.jpg	there is a can in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151248-192.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151248-192.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151248-192.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151248-192.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151248-192.jpg	there is a can in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151251-384.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151251-384.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151251-384.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151251-384.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151251-384.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151253-919.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151253-919.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151253-919.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151253-919.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151253-919.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151809-087.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151809-087.jpg	there is a chair in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151809-087.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151809-087.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151809-087.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151815-272.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151815-272.jpg	there is a chair in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151815-272.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151815-272.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151815-272.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151822-234.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151822-234.jpg	there is a chair in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151822-234.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151822-234.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151822-234.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151846-782.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151846-782.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151846-782.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151846-782.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151846-782.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151854-968.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151854-968.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151854-968.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151854-968.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151854-968.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151902-549.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151902-549.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151902-549.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151902-549.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151902-549.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151909-128.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151909-128.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151909-128.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151909-128.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151909-128.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151935-507.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151935-507.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151935-507.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151935-507.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151935-507.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151939-548.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151939-548.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151939-548.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151939-548.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151939-548.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151943-696.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151943-696.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151943-696.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151943-696.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151943-696.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151949-686.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151949-686.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151949-686.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151949-686.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151949-686.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151952-326.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151952-326.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151952-326.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151952-326.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151952-326.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151956-784.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151956-784.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151956-784.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151956-784.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-151956-784.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-152005-834.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-152005-834.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-152005-834.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-152005-834.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-152005-834.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-152008-730.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-152008-730.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-152008-730.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-152008-730.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-152008-730.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-152010-897.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-152010-897.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-152010-897.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-152010-897.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-152010-897.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-152014-356.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-152014-356.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-152014-356.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-152014-356.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-152014-356.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-152032-682.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-152032-682.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-152032-682.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-152032-682.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-152032-682.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-152201-079.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-152201-079.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-152201-079.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-152201-079.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-152201-079.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-153845-641.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-153845-641.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-153845-641.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-153845-641.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-153845-641.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-154641-150.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-154641-150.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-154641-150.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-154641-150.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-154641-150.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-154715-865.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-154715-865.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-154715-865.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-154715-865.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-154715-865.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-154719-938.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-154719-938.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-154719-938.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-154719-938.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-154719-938.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-154747-423.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-154747-423.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-154747-423.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-154747-423.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-154747-423.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-154755-464.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-154755-464.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-154755-464.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-154755-464.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-154755-464.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-154757-493.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-154757-493.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-154757-493.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-154757-493.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-154757-493.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155143-662.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155143-662.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155143-662.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155143-662.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155143-662.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155342-522.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155342-522.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155342-522.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155342-522.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155342-522.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155401-631.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155401-631.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155401-631.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155401-631.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155401-631.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155415-718.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155415-718.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155415-718.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155415-718.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155415-718.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155432-119.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155432-119.jpg	there is a chair in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155432-119.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155432-119.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155432-119.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155438-958.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155438-958.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155438-958.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155438-958.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155438-958.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155441-668.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155441-668.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155441-668.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155441-668.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155441-668.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155445-615.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155445-615.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155445-615.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155445-615.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155445-615.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155457-068.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155457-068.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155457-068.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155457-068.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155457-068.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155500-756.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155500-756.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155500-756.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155500-756.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155500-756.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155503-387.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155503-387.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155503-387.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155503-387.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155503-387.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155506-371.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155506-371.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155506-371.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155506-371.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155506-371.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155511-137.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155511-137.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155511-137.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155511-137.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155511-137.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155520-560.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155520-560.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155520-560.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155520-560.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155520-560.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155534-019.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155534-019.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155534-019.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155534-019.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155534-019.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155545-424.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155545-424.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155545-424.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155545-424.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155545-424.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155553-982.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155553-982.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155553-982.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155553-982.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155553-982.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155556-613.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155556-613.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155556-613.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155556-613.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155556-613.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155559-876.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155559-876.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155559-876.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155559-876.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155559-876.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155602-797.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155602-797.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155602-797.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155602-797.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155602-797.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155611-148.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155611-148.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155611-148.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155611-148.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155611-148.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155643-106.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155643-106.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155643-106.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155643-106.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155643-106.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155648-392.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155648-392.jpg	there is a chair in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155648-392.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155648-392.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155648-392.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155722-942.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155722-942.jpg	there is a chair in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155722-942.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155722-942.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155722-942.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155725-212.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155725-212.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155725-212.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155725-212.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-155725-212.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-160138-535.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-160138-535.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-160138-535.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-160138-535.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-160138-535.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-160709-607.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-160709-607.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-160709-607.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-160709-607.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-160709-607.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-160711-124.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-160711-124.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-160711-124.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-160711-124.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-160711-124.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-160715-285.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-160715-285.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-160715-285.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-160715-285.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-160715-285.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-161401-324.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-161401-324.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-161401-324.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-161401-324.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-161401-324.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-161411-194.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-161411-194.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-161411-194.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-161411-194.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-161411-194.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-161413-208.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-161413-208.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-161413-208.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-161413-208.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-161413-208.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-161421-843.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-161421-843.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-161421-843.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-161421-843.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-161421-843.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-161433-342.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-161433-342.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-161433-342.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-161433-342.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-161433-342.jpg	there is a can in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-162549-794.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-162549-794.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-162549-794.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-162549-794.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-162549-794.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-162627-481.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-162627-481.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-162627-481.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-162627-481.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-162627-481.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-162630-012.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-162630-012.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-162630-012.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-162630-012.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-162630-012.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163018-621.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163018-621.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163018-621.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163018-621.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163018-621.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163021-900.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163021-900.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163021-900.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163021-900.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163021-900.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163025-885.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163025-885.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163025-885.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163025-885.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163025-885.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163034-526.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163034-526.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163034-526.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163034-526.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163034-526.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163044-029.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163044-029.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163044-029.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163044-029.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163044-029.jpg	there is a can in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163050-768.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163050-768.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163050-768.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163050-768.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163050-768.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163110-202.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163110-202.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163110-202.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163110-202.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163110-202.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163113-441.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163113-441.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163113-441.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163113-441.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163113-441.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163116-206.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163116-206.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163116-206.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163116-206.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163116-206.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163123-431.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163123-431.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163123-431.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163123-431.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163123-431.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163130-998.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163130-998.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163130-998.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163130-998.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163130-998.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163139-513.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163139-513.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163139-513.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163139-513.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163139-513.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163159-887.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163159-887.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163159-887.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163159-887.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163159-887.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163206-257.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163206-257.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163206-257.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163206-257.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163206-257.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163210-593.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163210-593.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163210-593.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163210-593.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163210-593.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163221-054.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163221-054.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163221-054.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163221-054.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163221-054.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163224-927.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163224-927.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163224-927.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163224-927.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163224-927.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163243-788.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163243-788.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163243-788.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163243-788.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163243-788.jpg	there is a can in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163255-303.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163255-303.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163255-303.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163255-303.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163255-303.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163259-711.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163259-711.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163259-711.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163259-711.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163259-711.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163302-496.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163302-496.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163302-496.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163302-496.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163302-496.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163326-298.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163326-298.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163326-298.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163326-298.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163326-298.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163332-976.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163332-976.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163332-976.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163332-976.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163332-976.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163340-898.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163340-898.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163340-898.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163340-898.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163340-898.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163351-115.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163351-115.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163351-115.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163351-115.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163351-115.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163354-586.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163354-586.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163354-586.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163354-586.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163354-586.jpg	there is a can in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163400-650.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163400-650.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163400-650.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163400-650.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163400-650.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163406-287.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163406-287.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163406-287.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163406-287.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163406-287.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163413-818.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163413-818.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163413-818.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163413-818.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163413-818.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163419-884.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163419-884.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163419-884.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163419-884.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163419-884.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163423-007.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163423-007.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163423-007.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163423-007.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163423-007.jpg	there is a can in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163429-685.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163429-685.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163429-685.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163429-685.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163429-685.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163804-795.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163804-795.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163804-795.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163804-795.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163804-795.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163816-491.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163816-491.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163816-491.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163816-491.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163816-491.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163831-271.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163831-271.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163831-271.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163831-271.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163831-271.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163835-010.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163835-010.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163835-010.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163835-010.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-163835-010.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164048-585.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164048-585.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164048-585.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164048-585.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164048-585.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164052-076.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164052-076.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164052-076.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164052-076.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164052-076.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164054-687.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164054-687.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164054-687.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164054-687.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164054-687.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164057-650.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164057-650.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164057-650.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164057-650.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164057-650.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164100-557.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164100-557.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164100-557.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164100-557.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164100-557.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164103-480.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164103-480.jpg	there is a chair in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164103-480.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164103-480.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164103-480.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164552-320.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164552-320.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164552-320.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164552-320.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164552-320.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164602-924.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164602-924.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164602-924.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164602-924.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164602-924.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164624-260.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164624-260.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164624-260.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164624-260.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164624-260.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164628-416.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164628-416.jpg	there is a chair in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164628-416.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164628-416.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164628-416.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164645-216.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164645-216.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164645-216.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164645-216.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164645-216.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164702-920.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164702-920.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164702-920.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164702-920.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164702-920.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164932-453.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164932-453.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164932-453.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164932-453.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164932-453.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164937-095.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164937-095.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164937-095.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164937-095.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164937-095.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164944-251.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164944-251.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164944-251.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164944-251.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-164944-251.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165010-100.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165010-100.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165010-100.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165010-100.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165010-100.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165011-987.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165011-987.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165011-987.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165011-987.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165011-987.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165014-513.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165014-513.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165014-513.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165014-513.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165014-513.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165018-856.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165018-856.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165018-856.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165018-856.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165018-856.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165101-713.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165101-713.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165101-713.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165101-713.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165101-713.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165359-459.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165359-459.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165359-459.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165359-459.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165359-459.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165443-256.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165443-256.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165443-256.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165443-256.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165443-256.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165458-921.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165458-921.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165458-921.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165458-921.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165458-921.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165515-387.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165515-387.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165515-387.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165515-387.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165515-387.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165521-745.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165521-745.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165521-745.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165521-745.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165521-745.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165527-792.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165527-792.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165527-792.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165527-792.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165527-792.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165610-797.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165610-797.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165610-797.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165610-797.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165610-797.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165614-969.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165614-969.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165614-969.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165614-969.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165614-969.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165621-358.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165621-358.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165621-358.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165621-358.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165621-358.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165624-394.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165624-394.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165624-394.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165624-394.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165624-394.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165628-210.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165628-210.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165628-210.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165628-210.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165628-210.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165840-396.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165840-396.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165840-396.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165840-396.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-165840-396.jpg	there is a can in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170026-156.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170026-156.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170026-156.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170026-156.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170026-156.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170031-451.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170031-451.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170031-451.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170031-451.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170031-451.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170036-416.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170036-416.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170036-416.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170036-416.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170036-416.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170221-526.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170221-526.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170221-526.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170221-526.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170221-526.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170224-562.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170224-562.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170224-562.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170224-562.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170224-562.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170239-201.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170239-201.jpg	there is a chair in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170239-201.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170239-201.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170239-201.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170303-294.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170303-294.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170303-294.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170303-294.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170303-294.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170410-538.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170410-538.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170410-538.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170410-538.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170410-538.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170412-947.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170412-947.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170412-947.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170412-947.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170412-947.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170419-169.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170419-169.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170419-169.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170419-169.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170419-169.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170425-696.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170425-696.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170425-696.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170425-696.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170425-696.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170446-264.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170446-264.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170446-264.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170446-264.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170446-264.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170451-945.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170451-945.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170451-945.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170451-945.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170451-945.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170509-207.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170509-207.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170509-207.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170509-207.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170509-207.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170708-121.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170708-121.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170708-121.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170708-121.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170708-121.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170717-029.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170717-029.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170717-029.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170717-029.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170717-029.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170718-789.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170718-789.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170718-789.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170718-789.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-170718-789.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171439-253.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171439-253.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171439-253.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171439-253.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171439-253.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171448-429.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171448-429.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171448-429.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171448-429.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171448-429.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171454-851.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171454-851.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171454-851.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171454-851.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171454-851.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171500-439.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171500-439.jpg	there is a chair in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171500-439.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171500-439.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171500-439.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171506-201.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171506-201.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171506-201.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171506-201.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171506-201.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171517-590.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171517-590.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171517-590.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171517-590.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171517-590.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171520-118.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171520-118.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171520-118.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171520-118.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-171520-118.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172014-431.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172014-431.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172014-431.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172014-431.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172014-431.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172151-385.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172151-385.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172151-385.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172151-385.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172151-385.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172618-771.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172618-771.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172618-771.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172618-771.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172618-771.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172622-461.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172622-461.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172622-461.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172622-461.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172622-461.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172624-524.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172624-524.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172624-524.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172624-524.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172624-524.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172627-163.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172627-163.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172627-163.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172627-163.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172627-163.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172628-940.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172628-940.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172628-940.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172628-940.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172628-940.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172631-726.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172631-726.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172631-726.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172631-726.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172631-726.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172850-111.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172850-111.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172850-111.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172850-111.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172850-111.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172858-365.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172858-365.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172858-365.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172858-365.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172858-365.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172901-845.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172901-845.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172901-845.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172901-845.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172901-845.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172904-119.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172904-119.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172904-119.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172904-119.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172904-119.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172919-199.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172919-199.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172919-199.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172919-199.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172919-199.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172928-776.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172928-776.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172928-776.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172928-776.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-172928-776.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173008-400.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173008-400.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173008-400.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173008-400.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173008-400.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173011-936.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173011-936.jpg	there is a chair in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173011-936.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173011-936.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173011-936.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173020-573.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173020-573.jpg	there is a chair in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173020-573.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173020-573.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173020-573.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173025-237.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173025-237.jpg	there is a chair in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173025-237.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173025-237.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173025-237.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173030-136.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173030-136.jpg	there is a chair in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173030-136.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173030-136.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173030-136.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173057-926.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173057-926.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173057-926.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173057-926.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173057-926.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173100-500.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173100-500.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173100-500.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173100-500.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173100-500.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173104-569.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173104-569.jpg	there is a chair in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173104-569.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173104-569.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173104-569.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173109-719.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173109-719.jpg	there is a chair in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173109-719.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173109-719.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173109-719.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173112-829.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173112-829.jpg	there is a chair in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173112-829.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173112-829.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173112-829.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173116-159.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173116-159.jpg	there is a chair in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173116-159.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173116-159.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173116-159.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173125-340.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173125-340.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173125-340.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173125-340.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173125-340.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173126-398.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173126-398.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173126-398.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173126-398.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173126-398.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173127-621.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173127-621.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173127-621.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173127-621.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173127-621.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173128-846.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173128-846.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173128-846.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173128-846.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173128-846.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173130-763.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173130-763.jpg	there is a chair in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173130-763.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173130-763.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173130-763.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173134-084.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173134-084.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173134-084.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173134-084.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173134-084.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173502-341.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173502-341.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173502-341.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173502-341.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173502-341.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173507-523.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173507-523.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173507-523.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173507-523.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173507-523.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173510-493.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173510-493.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173510-493.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173510-493.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173510-493.jpg	there is a can in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173514-908.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173514-908.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173514-908.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173514-908.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173514-908.jpg	there is a can in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173526-198.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173526-198.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173526-198.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173526-198.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173526-198.jpg	there is a can in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173540-851.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173540-851.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173540-851.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173540-851.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173540-851.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173623-005.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173623-005.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173623-005.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173623-005.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173623-005.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173810-301.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173810-301.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173810-301.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173810-301.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173810-301.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173815-330.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173815-330.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173815-330.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173815-330.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173815-330.jpg	there is a can in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173819-652.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173819-652.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173819-652.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173819-652.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173819-652.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173824-981.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173824-981.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173824-981.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173824-981.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173824-981.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173829-550.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173829-550.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173829-550.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173829-550.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173829-550.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173831-725.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173831-725.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173831-725.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173831-725.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173831-725.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173834-250.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173834-250.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173834-250.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173834-250.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173834-250.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173836-372.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173836-372.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173836-372.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173836-372.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173836-372.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173838-442.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173838-442.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173838-442.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173838-442.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173838-442.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173950-947.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173950-947.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173950-947.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173950-947.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173950-947.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173957-155.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173957-155.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173957-155.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173957-155.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-173957-155.jpg	there is a can in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174203-383.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174203-383.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174203-383.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174203-383.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174203-383.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174205-469.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174205-469.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174205-469.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174205-469.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174205-469.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174209-660.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174209-660.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174209-660.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174209-660.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174209-660.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174212-598.jpg	there is a person in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174212-598.jpg	there is a chair in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174212-598.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174212-598.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174212-598.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174304-364.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174304-364.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174304-364.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174304-364.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174304-364.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174905-966.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174905-966.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174905-966.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174905-966.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174905-966.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174910-203.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174910-203.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174910-203.jpg	there is a laptop in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174910-203.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174910-203.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174912-643.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174912-643.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174912-643.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174912-643.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174912-643.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174915-306.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174915-306.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174915-306.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174915-306.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174915-306.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174918-083.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174918-083.jpg	there is a chair in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174918-083.jpg	there is a laptop in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174918-083.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-174918-083.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175141-268.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175141-268.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175141-268.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175141-268.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175141-268.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175213-694.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175213-694.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175213-694.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175213-694.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175213-694.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175217-333.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175217-333.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175217-333.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175217-333.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175217-333.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175221-632.jpg	there is a person in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175221-632.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175221-632.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175221-632.jpg	there is a bottle in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175221-632.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175240-951.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175240-951.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175240-951.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175240-951.jpg	there is a bottle in view	
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175240-951.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175248-579.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175248-579.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175248-579.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175248-579.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175248-579.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175252-539.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175252-539.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175252-539.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175252-539.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175252-539.jpg	there is a can in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175256-633.jpg	there is a person in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175256-633.jpg	there is a chair in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175256-633.jpg	there is a laptop in view	no
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175256-633.jpg	there is a bottle in view	yes
+/Users/mark/Library/Caches/private-eye-debug/turns/20261114-175256-633.jpg	there is a can in view	no

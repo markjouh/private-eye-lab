@@ -1,0 +1,238 @@
+[
+ {
+  "start": 0.6,
+  "end": 2.52,
+  "text": "3, 2, 1, go.",
+  "words": [
+   {
+    "w": "3,",
+    "start": 0.6,
+    "end": 1.04
+   },
+   {
+    "w": "2,",
+    "start": 1.04,
+    "end": 1.48
+   },
+   {
+    "w": "1,",
+    "start": 1.5,
+    "end": 2.06
+   },
+   {
+    "w": "go.",
+    "start": 2.06,
+    "end": 2.52
+   }
+  ]
+ },
+ {
+  "start": 2.82,
+  "end": 4.32,
+  "text": "3, 2, 1, go.",
+  "words": [
+   {
+    "w": "3,",
+    "start": 2.82,
+    "end": 2.94
+   },
+   {
+    "w": "2,",
+    "start": 3.02,
+    "end": 3.38
+   },
+   {
+    "w": "1,",
+    "start": 3.38,
+    "end": 3.38
+   },
+   {
+    "w": "go.",
+    "start": 3.44,
+    "end": 4.32
+   }
+  ]
+ },
+ {
+  "start": 5.14,
+  "end": 6.24,
+  "text": "What mascot is this?",
+  "words": [
+   {
+    "w": "What",
+    "start": 5.14,
+    "end": 5.34
+   },
+   {
+    "w": "mascot",
+    "start": 5.34,
+    "end": 5.72
+   },
+   {
+    "w": "is",
+    "start": 5.72,
+    "end": 5.98
+   },
+   {
+    "w": "this?",
+    "start": 5.98,
+    "end": 6.24
+   }
+  ]
+ },
+ {
+  "start": 6.58,
+  "end": 7.56,
+  "text": "Wisconsin Badgers.",
+  "words": [
+   {
+    "w": "Wisconsin",
+    "start": 6.58,
+    "end": 7.02
+   },
+   {
+    "w": "Badgers.",
+    "start": 7.02,
+    "end": 7.56
+   }
+  ]
+ },
+ {
+  "start": 9.16,
+  "end": 9.6,
+  "text": "Nice.",
+  "words": [
+   {
+    "w": "Nice.",
+    "start": 9.16,
+    "end": 9.6
+   }
+  ]
+ },
+ {
+  "start": 10.32,
+  "end": 10.52,
+  "text": "Easy.",
+  "words": [
+   {
+    "w": "Easy.",
+    "start": 10.32,
+    "end": 10.52
+   }
+  ]
+ },
+ {
+  "start": 10.88,
+  "end": 12.48,
+  "text": "Very nice. This should be at the end.",
+  "words": [
+   {
+    "w": "Very",
+    "start": 10.88,
+    "end": 11.32
+   },
+   {
+    "w": "nice.",
+    "start": 11.32,
+    "end": 11.46
+   },
+   {
+    "w": "This",
+    "start": 11.72,
+    "end": 11.78
+   },
+   {
+    "w": "should",
+    "start": 11.78,
+    "end": 11.92
+   },
+   {
+    "w": "be",
+    "start": 11.92,
+    "end": 12.02
+   },
+   {
+    "w": "at",
+    "start": 12.02,
+    "end": 12.16
+   },
+   {
+    "w": "the",
+    "start": 12.16,
+    "end": 12.24
+   },
+   {
+    "w": "end.",
+    "start": 12.24,
+    "end": 12.48
+   }
+  ]
+ },
+ {
+  "start": 12.88,
+  "end": 15.08,
+  "text": "Or, wait do we have a Let's Dig In in the video?",
+  "words": [
+   {
+    "w": "Or,",
+    "start": 12.88,
+    "end": 12.94
+   },
+   {
+    "w": "wait",
+    "start": 13.66,
+    "end": 13.8
+   },
+   {
+    "w": "do",
+    "start": 13.8,
+    "end": 13.9
+   },
+   {
+    "w": "we",
+    "start": 13.9,
+    "end": 13.98
+   },
+   {
+    "w": "have",
+    "start": 13.98,
+    "end": 14.1
+   },
+   {
+    "w": "a",
+    "start": 14.1,
+    "end": 14.18
+   },
+   {
+    "w": "Let's",
+    "start": 14.18,
+    "end": 14.42
+   },
+   {
+    "w": "Dig",
+    "start": 14.42,
+    "end": 14.52
+   },
+   {
+    "w": "In",
+    "start": 14.52,
+    "end": 14.68
+   },
+   {
+    "w": "in",
+    "start": 14.68,
+    "end": 14.8
+   },
+   {
+    "w": "the",
+    "start": 14.8,
+    "end": 14.88
+   },
+   {
+    "w": "video?",
+    "start": 14.88,
+    "end": 15.08
+   }
+  ]
+ }
+]

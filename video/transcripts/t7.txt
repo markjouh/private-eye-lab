@@ -1,0 +1,8 @@
+[  0.60 -   2.52] 3, 2, 1, go.
+[  2.82 -   4.32] 3, 2, 1, go.
+[  5.14 -   6.24] What mascot is this?
+[  6.58 -   7.56] Wisconsin Badgers.
+[  9.16 -   9.60] Nice.
+[ 10.32 -  10.52] Easy.
+[ 10.88 -  12.48] Very nice. This should be at the end.
+[ 12.88 -  15.08] Or, wait do we have a Let's Dig In in the video?

@@ -1,0 +1,1897 @@
+turn	kind	target	phone	phone_score	replay	replay_score	box
+20261114-144828-834	person	Charles					
+20261114-144828-834	person	Elias					
+20261114-144828-834	person	Arian					
+20261114-144828-834	person	Mark					
+20261114-144828-834	thing	water bottle					
+20261114-144828-834	thing	jacket					
+20261114-144855-817	person	Charles	sure	0.68	sure	0.59	0.509,0.182,0.304,0.228
+20261114-144855-817	person	Elias				0.05	0.509,0.182,0.304,0.228
+20261114-144855-817	person	Arian				0.01	0.509,0.182,0.304,0.228
+20261114-144855-817	person	Mark				0.17	0.509,0.182,0.304,0.228
+20261114-144855-817	thing	water bottle					
+20261114-144855-817	thing	jacket					
+20261114-145106-772	person	Charles					
+20261114-145106-772	person	Elias					
+20261114-145106-772	person	Arian					
+20261114-145106-772	person	Mark					
+20261114-145106-772	thing	water bottle					
+20261114-145106-772	thing	jacket					
+20261114-145141-657	person	Charles					
+20261114-145141-657	person	Elias					
+20261114-145141-657	person	Arian					
+20261114-145141-657	person	Mark					
+20261114-145141-657	thing	water bottle					
+20261114-145141-657	thing	jacket					
+20261114-145143-527	person	Charles					
+20261114-145143-527	person	Elias					
+20261114-145143-527	person	Arian					
+20261114-145143-527	person	Mark					
+20261114-145143-527	thing	water bottle					
+20261114-145143-527	thing	jacket					
+20261114-145144-752	person	Charles					
+20261114-145144-752	person	Elias					
+20261114-145144-752	person	Arian					
+20261114-145144-752	person	Mark					
+20261114-145144-752	thing	water bottle					
+20261114-145144-752	thing	jacket					
+20261114-145145-698	person	Charles					
+20261114-145145-698	person	Elias					
+20261114-145145-698	person	Arian					
+20261114-145145-698	person	Mark					
+20261114-145145-698	thing	water bottle					
+20261114-145145-698	thing	jacket					
+20261114-145343-588	person	Charles			sure	0.52	0.332,0.216,0.215,0.161
+20261114-145343-588	person	Elias				0.04	0.332,0.216,0.215,0.161
+20261114-145343-588	person	Arian				0.04	0.332,0.216,0.215,0.161
+20261114-145343-588	person	Mark				0.14	0.332,0.216,0.215,0.161
+20261114-145343-588	thing	water bottle					
+20261114-145343-588	thing	jacket					
+20261114-145345-523	person	Charles	sure	0.78	sure	0.62	0.333,0.370,0.182,0.136
+20261114-145345-523	person	Elias				0.12	0.333,0.370,0.182,0.136
+20261114-145345-523	person	Arian				0.07	0.333,0.370,0.182,0.136
+20261114-145345-523	person	Mark				0.09	0.333,0.370,0.182,0.136
+20261114-145345-523	thing	water bottle					
+20261114-145345-523	thing	jacket					
+20261114-145349-278	person	Charles	sure	0.42	sure	0.39	0.509,0.201,0.231,0.174
+20261114-145349-278	person	Elias				0.04	0.509,0.201,0.231,0.174
+20261114-145349-278	person	Arian				0.04	0.509,0.201,0.231,0.174
+20261114-145349-278	person	Mark				0.06	0.509,0.201,0.231,0.174
+20261114-145349-278	thing	water bottle					
+20261114-145349-278	thing	jacket					
+20261114-145351-884	person	Charles					
+20261114-145351-884	person	Elias					
+20261114-145351-884	person	Arian					
+20261114-145351-884	person	Mark					
+20261114-145351-884	thing	water bottle					
+20261114-145351-884	thing	jacket					
+20261114-145523-336	person	Charles					
+20261114-145523-336	person	Elias					
+20261114-145523-336	person	Arian					
+20261114-145523-336	person	Mark					
+20261114-145523-336	thing	water bottle					
+20261114-145523-336	thing	jacket					
+20261114-145524-934	person	Charles	sure	0.75	sure	0.66	0.389,0.315,0.290,0.217
+20261114-145524-934	person	Elias				0.10	0.389,0.315,0.290,0.217
+20261114-145524-934	person	Arian				0.02	0.389,0.315,0.290,0.217
+20261114-145524-934	person	Mark				0.13	0.389,0.315,0.290,0.217
+20261114-145524-934	thing	water bottle					
+20261114-145524-934	thing	jacket					
+20261114-145540-877	person	Charles	sure	0.80	sure	0.57	0.221,0.376,0.198,0.148
+20261114-145540-877	person	Elias				0.10	0.221,0.376,0.198,0.148
+20261114-145540-877	person	Arian				0.05	0.221,0.376,0.198,0.148
+20261114-145540-877	person	Mark				-0.01	0.221,0.376,0.198,0.148
+20261114-145540-877	thing	water bottle					
+20261114-145540-877	thing	jacket					
+20261114-145545-528	person	Charles	sure	0.68	sure	0.51	0.881,0.429,0.115,0.086
+20261114-145545-528	person	Elias	sure	0.71	sure	0.58	0.241,0.465,0.070,0.053
+20261114-145545-528	person	Arian	sure	0.60	sure	0.59	0.701,0.435,0.061,0.045
+20261114-145545-528	person	Mark				0.04	0.881,0.429,0.115,0.086
+20261114-145545-528	thing	water bottle					
+20261114-145545-528	thing	jacket					
+20261114-145550-212	person	Charles	sure	0.70	sure	0.49	0.868,0.447,0.110,0.083
+20261114-145550-212	person	Elias	sure	0.75	sure	0.65	0.252,0.451,0.070,0.053
+20261114-145550-212	person	Arian	sure	0.58	sure	0.52	0.711,0.420,0.061,0.045
+20261114-145550-212	person	Mark				-0.01	0.711,0.420,0.061,0.045
+20261114-145550-212	thing	water bottle					
+20261114-145550-212	thing	jacket					
+20261114-145555-521	person	Charles	sure	0.65	sure	0.41	0.805,0.425,0.107,0.080
+20261114-145555-521	person	Elias	sure	0.69	sure	0.57	0.178,0.443,0.070,0.053
+20261114-145555-521	person	Arian	sure	0.57	sure	0.51	0.646,0.405,0.060,0.045
+20261114-145555-521	person	Mark				-0.01	0.646,0.405,0.060,0.045
+20261114-145555-521	thing	water bottle					
+20261114-145555-521	thing	jacket					
+20261114-145702-901	person	Charles				-0.04	0.257,0.300,0.106,0.080
+20261114-145702-901	person	Elias	sure	0.70	sure	0.66	0.257,0.300,0.106,0.080
+20261114-145702-901	person	Arian				0.02	0.257,0.300,0.106,0.080
+20261114-145702-901	person	Mark				-0.04	0.257,0.300,0.106,0.080
+20261114-145702-901	thing	water bottle					
+20261114-145702-901	thing	jacket					
+20261114-145848-914	person	Charles				-0.02	0.265,0.363,0.083,0.063
+20261114-145848-914	person	Elias	sure	0.72	sure	0.57	0.265,0.363,0.083,0.063
+20261114-145848-914	person	Arian	sure	0.56	sure	0.39	0.916,0.295,0.083,0.062
+20261114-145848-914	person	Mark				0.00	0.265,0.363,0.083,0.063
+20261114-145848-914	thing	water bottle					
+20261114-145848-914	thing	jacket					
+20261114-150336-496	person	Charles					
+20261114-150336-496	person	Elias					
+20261114-150336-496	person	Arian					
+20261114-150336-496	person	Mark					
+20261114-150336-496	thing	water bottle					
+20261114-150336-496	thing	jacket					
+20261114-150339-011	person	Charles					
+20261114-150339-011	person	Elias					
+20261114-150339-011	person	Arian					
+20261114-150339-011	person	Mark					
+20261114-150339-011	thing	water bottle					
+20261114-150339-011	thing	jacket					
+20261114-150343-092	person	Charles					
+20261114-150343-092	person	Elias					
+20261114-150343-092	person	Arian					
+20261114-150343-092	person	Mark					
+20261114-150343-092	thing	water bottle					
+20261114-150343-092	thing	jacket					
+20261114-150345-548	person	Charles					
+20261114-150345-548	person	Elias					
+20261114-150345-548	person	Arian					
+20261114-150345-548	person	Mark					
+20261114-150345-548	thing	water bottle					
+20261114-150345-548	thing	jacket					
+20261114-150348-232	person	Charles					
+20261114-150348-232	person	Elias					
+20261114-150348-232	person	Arian					
+20261114-150348-232	person	Mark					
+20261114-150348-232	thing	water bottle					
+20261114-150348-232	thing	jacket					
+20261114-150354-700	person	Charles					
+20261114-150354-700	person	Elias					
+20261114-150354-700	person	Arian					
+20261114-150354-700	person	Mark					
+20261114-150354-700	thing	water bottle					
+20261114-150354-700	thing	jacket					
+20261114-150411-485	person	Charles					
+20261114-150411-485	person	Elias					
+20261114-150411-485	person	Arian					
+20261114-150411-485	person	Mark					
+20261114-150411-485	thing	water bottle					
+20261114-150411-485	thing	jacket					
+20261114-150414-694	person	Charles					
+20261114-150414-694	person	Elias					
+20261114-150414-694	person	Arian					
+20261114-150414-694	person	Mark					
+20261114-150414-694	thing	water bottle					
+20261114-150414-694	thing	jacket					
+20261114-150417-830	person	Charles					
+20261114-150417-830	person	Elias					
+20261114-150417-830	person	Arian					
+20261114-150417-830	person	Mark					
+20261114-150417-830	thing	water bottle					
+20261114-150417-830	thing	jacket					
+20261114-150421-215	person	Charles					
+20261114-150421-215	person	Elias					
+20261114-150421-215	person	Arian					
+20261114-150421-215	person	Mark					
+20261114-150421-215	thing	water bottle					
+20261114-150421-215	thing	jacket					
+20261114-150424-026	person	Charles					
+20261114-150424-026	person	Elias					
+20261114-150424-026	person	Arian					
+20261114-150424-026	person	Mark					
+20261114-150424-026	thing	water bottle					
+20261114-150424-026	thing	jacket					
+20261114-150658-240	person	Charles					
+20261114-150658-240	person	Elias					
+20261114-150658-240	person	Arian					
+20261114-150658-240	person	Mark					
+20261114-150658-240	thing	water bottle					
+20261114-150658-240	thing	jacket					
+20261114-150659-895	person	Charles					
+20261114-150659-895	person	Elias					
+20261114-150659-895	person	Arian					
+20261114-150659-895	person	Mark					
+20261114-150659-895	thing	water bottle					
+20261114-150659-895	thing	jacket					
+20261114-150748-567	person	Charles					
+20261114-150748-567	person	Elias					
+20261114-150748-567	person	Arian					
+20261114-150748-567	person	Mark					
+20261114-150748-567	thing	water bottle					
+20261114-150748-567	thing	jacket					
+20261114-150752-467	person	Charles				0.08	0.567,0.107,0.110,0.083
+20261114-150752-467	person	Elias				0.01	0.567,0.107,0.110,0.083
+20261114-150752-467	person	Arian				0.09	0.567,0.107,0.110,0.083
+20261114-150752-467	person	Mark				0.04	0.567,0.107,0.110,0.083
+20261114-150752-467	thing	water bottle					
+20261114-150752-467	thing	jacket					
+20261114-150839-349 (taught from)	person	Charles	sure	1.00	sure	1.00	0.588,0.271,0.205,0.154
+20261114-150839-349 (taught from)	person	Elias				0.07	0.588,0.271,0.205,0.154
+20261114-150839-349 (taught from)	person	Arian	sure	0.80	sure	0.71	-0.015,0.186,0.100,0.075
+20261114-150839-349 (taught from)	person	Mark				0.15	0.588,0.271,0.205,0.154
+20261114-150839-349 (taught from)	thing	water bottle					
+20261114-150839-349 (taught from)	thing	jacket					
+20261114-150936-714	person	Charles					
+20261114-150936-714	person	Elias					
+20261114-150936-714	person	Arian					
+20261114-150936-714	person	Mark					
+20261114-150936-714	thing	water bottle					
+20261114-150936-714	thing	jacket					
+20261114-151000-951	person	Charles	sure	0.75	sure	0.54	0.509,0.295,0.179,0.135
+20261114-151000-951	person	Elias				0.12	0.509,0.295,0.179,0.135
+20261114-151000-951	person	Arian	sure	0.79	sure	0.70	-0.014,0.162,0.096,0.072
+20261114-151000-951	person	Mark				0.07	-0.014,0.162,0.096,0.072
+20261114-151000-951	thing	water bottle					
+20261114-151000-951	thing	jacket					
+20261114-151245-731	person	Charles					
+20261114-151245-731	person	Elias					
+20261114-151245-731	person	Arian					
+20261114-151245-731	person	Mark					
+20261114-151245-731	thing	water bottle					
+20261114-151245-731	thing	jacket					
+20261114-151248-192	person	Charles					
+20261114-151248-192	person	Elias					
+20261114-151248-192	person	Arian					
+20261114-151248-192	person	Mark					
+20261114-151248-192	thing	water bottle					
+20261114-151248-192	thing	jacket					
+20261114-151251-384	person	Charles					
+20261114-151251-384	person	Elias					
+20261114-151251-384	person	Arian					
+20261114-151251-384	person	Mark					
+20261114-151251-384	thing	water bottle					
+20261114-151251-384	thing	jacket					
+20261114-151253-919	person	Charles					
+20261114-151253-919	person	Elias					
+20261114-151253-919	person	Arian					
+20261114-151253-919	person	Mark					
+20261114-151253-919	thing	water bottle					
+20261114-151253-919	thing	jacket					
+20261114-151809-087	person	Charles				0.04	0.757,0.384,0.068,0.051
+20261114-151809-087	person	Elias	sure	0.91	sure	0.51	0.231,0.384,0.073,0.055
+20261114-151809-087	person	Arian				-0.02	0.231,0.384,0.073,0.055
+20261114-151809-087	person	Mark				0.00	0.231,0.384,0.073,0.055
+20261114-151809-087	thing	water bottle					
+20261114-151809-087	thing	jacket					
+20261114-151815-272	person	Charles				0.04	0.184,0.424,0.074,0.055
+20261114-151815-272	person	Elias	sure	0.86	sure	0.56	0.184,0.424,0.074,0.055
+20261114-151815-272	person	Arian	sure	0.80	sure	0.60	0.711,0.422,0.067,0.050
+20261114-151815-272	person	Mark				-0.01	0.184,0.424,0.074,0.055
+20261114-151815-272	thing	water bottle					
+20261114-151815-272	thing	jacket					
+20261114-151822-234	person	Charles	sure	0.66	sure	0.65	0.608,0.292,0.124,0.093
+20261114-151822-234	person	Elias				0.04	0.608,0.292,0.124,0.093
+20261114-151822-234	person	Arian	sure	0.81	sure	0.56	0.181,0.248,0.084,0.063
+20261114-151822-234	person	Mark				0.02	0.608,0.292,0.124,0.093
+20261114-151822-234	thing	water bottle					
+20261114-151822-234	thing	jacket					
+20261114-151846-782	person	Charles					
+20261114-151846-782	person	Elias					
+20261114-151846-782	person	Arian					
+20261114-151846-782	person	Mark					
+20261114-151846-782	thing	water bottle					
+20261114-151846-782	thing	jacket					
+20261114-151854-968	person	Charles					
+20261114-151854-968	person	Elias					
+20261114-151854-968	person	Arian					
+20261114-151854-968	person	Mark					
+20261114-151854-968	thing	water bottle					
+20261114-151854-968	thing	jacket					
+20261114-151902-549	person	Charles					
+20261114-151902-549	person	Elias					
+20261114-151902-549	person	Arian					
+20261114-151902-549	person	Mark					
+20261114-151902-549	thing	water bottle					
+20261114-151902-549	thing	jacket					
+20261114-151909-128	person	Charles					
+20261114-151909-128	person	Elias					
+20261114-151909-128	person	Arian					
+20261114-151909-128	person	Mark					
+20261114-151909-128	thing	water bottle					
+20261114-151909-128	thing	jacket					
+20261114-151935-507	person	Charles					
+20261114-151935-507	person	Elias					
+20261114-151935-507	person	Arian					
+20261114-151935-507	person	Mark					
+20261114-151935-507	thing	water bottle					
+20261114-151935-507	thing	jacket					
+20261114-151939-548	person	Charles					
+20261114-151939-548	person	Elias					
+20261114-151939-548	person	Arian					
+20261114-151939-548	person	Mark					
+20261114-151939-548	thing	water bottle					
+20261114-151939-548	thing	jacket					
+20261114-151943-696	person	Charles					
+20261114-151943-696	person	Elias					
+20261114-151943-696	person	Arian					
+20261114-151943-696	person	Mark					
+20261114-151943-696	thing	water bottle					
+20261114-151943-696	thing	jacket					
+20261114-151949-686	person	Charles					
+20261114-151949-686	person	Elias					
+20261114-151949-686	person	Arian					
+20261114-151949-686	person	Mark					
+20261114-151949-686	thing	water bottle					
+20261114-151949-686	thing	jacket					
+20261114-151952-326	person	Charles					
+20261114-151952-326	person	Elias					
+20261114-151952-326	person	Arian					
+20261114-151952-326	person	Mark					
+20261114-151952-326	thing	water bottle					
+20261114-151952-326	thing	jacket					
+20261114-151956-784	person	Charles					
+20261114-151956-784	person	Elias					
+20261114-151956-784	person	Arian					
+20261114-151956-784	person	Mark					
+20261114-151956-784	thing	water bottle					
+20261114-151956-784	thing	jacket					
+20261114-152005-834	person	Charles					
+20261114-152005-834	person	Elias					
+20261114-152005-834	person	Arian					
+20261114-152005-834	person	Mark					
+20261114-152005-834	thing	water bottle					
+20261114-152005-834	thing	jacket					
+20261114-152008-730	person	Charles					
+20261114-152008-730	person	Elias					
+20261114-152008-730	person	Arian					
+20261114-152008-730	person	Mark					
+20261114-152008-730	thing	water bottle					
+20261114-152008-730	thing	jacket					
+20261114-152010-897	person	Charles					
+20261114-152010-897	person	Elias					
+20261114-152010-897	person	Arian					
+20261114-152010-897	person	Mark					
+20261114-152010-897	thing	water bottle					
+20261114-152010-897	thing	jacket					
+20261114-152014-356	person	Charles					
+20261114-152014-356	person	Elias					
+20261114-152014-356	person	Arian					
+20261114-152014-356	person	Mark					
+20261114-152014-356	thing	water bottle					
+20261114-152014-356	thing	jacket					
+20261114-152032-682	person	Charles					
+20261114-152032-682	person	Elias					
+20261114-152032-682	person	Arian					
+20261114-152032-682	person	Mark					
+20261114-152032-682	thing	water bottle					
+20261114-152032-682	thing	jacket					
+20261114-152201-079 (taught from)	person	Charles				-0.02	0.876,0.073,0.107,0.081
+20261114-152201-079 (taught from)	person	Elias				0.01	0.876,0.073,0.107,0.081
+20261114-152201-079 (taught from)	person	Arian	sure	0.87	sure	1.00	0.876,0.073,0.107,0.081
+20261114-152201-079 (taught from)	person	Mark				0.02	0.876,0.073,0.107,0.081
+20261114-152201-079 (taught from)	thing	water bottle					
+20261114-152201-079 (taught from)	thing	jacket					
+20261114-153845-641	person	Charles					
+20261114-153845-641	person	Elias					
+20261114-153845-641	person	Arian					
+20261114-153845-641	person	Mark					
+20261114-153845-641	thing	water bottle					
+20261114-153845-641	thing	jacket					
+20261114-154641-150	person	Charles					
+20261114-154641-150	person	Elias					
+20261114-154641-150	person	Arian					
+20261114-154641-150	person	Mark					
+20261114-154641-150	thing	water bottle					
+20261114-154641-150	thing	jacket					
+20261114-154715-865	person	Charles					
+20261114-154715-865	person	Elias					
+20261114-154715-865	person	Arian					
+20261114-154715-865	person	Mark					
+20261114-154715-865	thing	water bottle					
+20261114-154715-865	thing	jacket					
+20261114-154719-938	person	Charles					
+20261114-154719-938	person	Elias					
+20261114-154719-938	person	Arian					
+20261114-154719-938	person	Mark					
+20261114-154719-938	thing	water bottle					
+20261114-154719-938	thing	jacket					
+20261114-154747-423	person	Charles					
+20261114-154747-423	person	Elias					
+20261114-154747-423	person	Arian					
+20261114-154747-423	person	Mark					
+20261114-154747-423	thing	water bottle					
+20261114-154747-423	thing	jacket					
+20261114-154755-464	person	Charles					
+20261114-154755-464	person	Elias					
+20261114-154755-464	person	Arian					
+20261114-154755-464	person	Mark					
+20261114-154755-464	thing	water bottle					
+20261114-154755-464	thing	jacket					
+20261114-154757-493	person	Charles					
+20261114-154757-493	person	Elias					
+20261114-154757-493	person	Arian					
+20261114-154757-493	person	Mark					
+20261114-154757-493	thing	water bottle					
+20261114-154757-493	thing	jacket					
+20261114-155143-662	person	Charles					
+20261114-155143-662	person	Elias					
+20261114-155143-662	person	Arian					
+20261114-155143-662	person	Mark					
+20261114-155143-662	thing	water bottle					
+20261114-155143-662	thing	jacket					
+20261114-155342-522	person	Charles					
+20261114-155342-522	person	Elias					
+20261114-155342-522	person	Arian					
+20261114-155342-522	person	Mark					
+20261114-155342-522	thing	water bottle					
+20261114-155342-522	thing	jacket					
+20261114-155401-631	person	Charles					
+20261114-155401-631	person	Elias					
+20261114-155401-631	person	Arian					
+20261114-155401-631	person	Mark					
+20261114-155401-631	thing	water bottle					
+20261114-155401-631	thing	jacket					
+20261114-155415-718	person	Charles					
+20261114-155415-718	person	Elias					
+20261114-155415-718	person	Arian					
+20261114-155415-718	person	Mark					
+20261114-155415-718	thing	water bottle					
+20261114-155415-718	thing	jacket					
+20261114-155432-119	person	Charles					
+20261114-155432-119	person	Elias					
+20261114-155432-119	person	Arian					
+20261114-155432-119	person	Mark					
+20261114-155432-119	thing	water bottle					
+20261114-155432-119	thing	jacket					
+20261114-155438-958	person	Charles					
+20261114-155438-958	person	Elias					
+20261114-155438-958	person	Arian					
+20261114-155438-958	person	Mark					
+20261114-155438-958	thing	water bottle					
+20261114-155438-958	thing	jacket					
+20261114-155441-668	person	Charles					
+20261114-155441-668	person	Elias					
+20261114-155441-668	person	Arian					
+20261114-155441-668	person	Mark					
+20261114-155441-668	thing	water bottle					
+20261114-155441-668	thing	jacket					
+20261114-155445-615	person	Charles					
+20261114-155445-615	person	Elias					
+20261114-155445-615	person	Arian					
+20261114-155445-615	person	Mark					
+20261114-155445-615	thing	water bottle					
+20261114-155445-615	thing	jacket					
+20261114-155457-068	person	Charles					
+20261114-155457-068	person	Elias					
+20261114-155457-068	person	Arian					
+20261114-155457-068	person	Mark					
+20261114-155457-068	thing	water bottle					
+20261114-155457-068	thing	jacket					
+20261114-155500-756	person	Charles					
+20261114-155500-756	person	Elias					
+20261114-155500-756	person	Arian					
+20261114-155500-756	person	Mark					
+20261114-155500-756	thing	water bottle					
+20261114-155500-756	thing	jacket					
+20261114-155503-387	person	Charles					
+20261114-155503-387	person	Elias					
+20261114-155503-387	person	Arian					
+20261114-155503-387	person	Mark					
+20261114-155503-387	thing	water bottle					
+20261114-155503-387	thing	jacket					
+20261114-155506-371	person	Charles					
+20261114-155506-371	person	Elias					
+20261114-155506-371	person	Arian					
+20261114-155506-371	person	Mark					
+20261114-155506-371	thing	water bottle					
+20261114-155506-371	thing	jacket					
+20261114-155511-137	person	Charles					
+20261114-155511-137	person	Elias					
+20261114-155511-137	person	Arian					
+20261114-155511-137	person	Mark					
+20261114-155511-137	thing	water bottle					
+20261114-155511-137	thing	jacket					
+20261114-155520-560	person	Charles					
+20261114-155520-560	person	Elias					
+20261114-155520-560	person	Arian					
+20261114-155520-560	person	Mark					
+20261114-155520-560	thing	water bottle					
+20261114-155520-560	thing	jacket					
+20261114-155534-019	person	Charles					
+20261114-155534-019	person	Elias					
+20261114-155534-019	person	Arian					
+20261114-155534-019	person	Mark					
+20261114-155534-019	thing	water bottle					
+20261114-155534-019	thing	jacket					
+20261114-155545-424	person	Charles					
+20261114-155545-424	person	Elias					
+20261114-155545-424	person	Arian					
+20261114-155545-424	person	Mark					
+20261114-155545-424	thing	water bottle					
+20261114-155545-424	thing	jacket					
+20261114-155553-982	person	Charles					
+20261114-155553-982	person	Elias					
+20261114-155553-982	person	Arian					
+20261114-155553-982	person	Mark					
+20261114-155553-982	thing	water bottle					
+20261114-155553-982	thing	jacket					
+20261114-155556-613	person	Charles					
+20261114-155556-613	person	Elias					
+20261114-155556-613	person	Arian					
+20261114-155556-613	person	Mark					
+20261114-155556-613	thing	water bottle					
+20261114-155556-613	thing	jacket					
+20261114-155559-876	person	Charles					
+20261114-155559-876	person	Elias					
+20261114-155559-876	person	Arian					
+20261114-155559-876	person	Mark					
+20261114-155559-876	thing	water bottle					
+20261114-155559-876	thing	jacket					
+20261114-155602-797	person	Charles					
+20261114-155602-797	person	Elias					
+20261114-155602-797	person	Arian					
+20261114-155602-797	person	Mark					
+20261114-155602-797	thing	water bottle					
+20261114-155602-797	thing	jacket					
+20261114-155611-148	person	Charles					
+20261114-155611-148	person	Elias					
+20261114-155611-148	person	Arian					
+20261114-155611-148	person	Mark					
+20261114-155611-148	thing	water bottle					
+20261114-155611-148	thing	jacket					
+20261114-155643-106	person	Charles					
+20261114-155643-106	person	Elias					
+20261114-155643-106	person	Arian					
+20261114-155643-106	person	Mark					
+20261114-155643-106	thing	water bottle					
+20261114-155643-106	thing	jacket					
+20261114-155648-392	person	Charles					
+20261114-155648-392	person	Elias					
+20261114-155648-392	person	Arian					
+20261114-155648-392	person	Mark					
+20261114-155648-392	thing	water bottle					
+20261114-155648-392	thing	jacket					
+20261114-155722-942	person	Charles	sure	0.73	sure	0.64	0.476,0.343,0.108,0.081
+20261114-155722-942	person	Elias				0.19	0.476,0.343,0.108,0.081
+20261114-155722-942	person	Arian				0.02	0.476,0.343,0.108,0.081
+20261114-155722-942	person	Mark				0.05	0.476,0.343,0.108,0.081
+20261114-155722-942	thing	water bottle					
+20261114-155722-942	thing	jacket					
+20261114-155725-212	person	Charles				-0.02	0.444,0.398,0.114,0.085
+20261114-155725-212	person	Elias				0.01	0.444,0.398,0.114,0.085
+20261114-155725-212	person	Arian	sure	0.77	sure	0.74	0.444,0.398,0.114,0.085
+20261114-155725-212	person	Mark				0.04	0.444,0.398,0.114,0.085
+20261114-155725-212	thing	water bottle					
+20261114-155725-212	thing	jacket					
+20261114-160138-535	person	Charles					
+20261114-160138-535	person	Elias					
+20261114-160138-535	person	Arian					
+20261114-160138-535	person	Mark					
+20261114-160138-535	thing	water bottle					
+20261114-160138-535	thing	jacket					
+20261114-160709-607	person	Charles					
+20261114-160709-607	person	Elias					
+20261114-160709-607	person	Arian					
+20261114-160709-607	person	Mark					
+20261114-160709-607	thing	water bottle					
+20261114-160709-607	thing	jacket					
+20261114-160711-124	person	Charles					
+20261114-160711-124	person	Elias					
+20261114-160711-124	person	Arian					
+20261114-160711-124	person	Mark					
+20261114-160711-124	thing	water bottle					
+20261114-160711-124	thing	jacket					
+20261114-160715-285	person	Charles					
+20261114-160715-285	person	Elias					
+20261114-160715-285	person	Arian					
+20261114-160715-285	person	Mark					
+20261114-160715-285	thing	water bottle					
+20261114-160715-285	thing	jacket					
+20261114-161401-324	person	Charles					
+20261114-161401-324	person	Elias					
+20261114-161401-324	person	Arian					
+20261114-161401-324	person	Mark					
+20261114-161401-324	thing	water bottle					
+20261114-161401-324	thing	jacket					
+20261114-161411-194	person	Charles					
+20261114-161411-194	person	Elias					
+20261114-161411-194	person	Arian					
+20261114-161411-194	person	Mark					
+20261114-161411-194	thing	water bottle					
+20261114-161411-194	thing	jacket					
+20261114-161413-208	person	Charles					
+20261114-161413-208	person	Elias					
+20261114-161413-208	person	Arian					
+20261114-161413-208	person	Mark					
+20261114-161413-208	thing	water bottle					
+20261114-161413-208	thing	jacket					
+20261114-161421-843	person	Charles					
+20261114-161421-843	person	Elias					
+20261114-161421-843	person	Arian					
+20261114-161421-843	person	Mark					
+20261114-161421-843	thing	water bottle					
+20261114-161421-843	thing	jacket					
+20261114-161433-342	person	Charles					
+20261114-161433-342	person	Elias					
+20261114-161433-342	person	Arian					
+20261114-161433-342	person	Mark					
+20261114-161433-342	thing	water bottle					
+20261114-161433-342	thing	jacket					
+20261114-162549-794	person	Charles					
+20261114-162549-794	person	Elias					
+20261114-162549-794	person	Arian					
+20261114-162549-794	person	Mark					
+20261114-162549-794	thing	water bottle					
+20261114-162549-794	thing	jacket					
+20261114-162627-481	person	Charles					
+20261114-162627-481	person	Elias					
+20261114-162627-481	person	Arian					
+20261114-162627-481	person	Mark					
+20261114-162627-481	thing	water bottle					
+20261114-162627-481	thing	jacket					
+20261114-162630-012	person	Charles					
+20261114-162630-012	person	Elias					
+20261114-162630-012	person	Arian					
+20261114-162630-012	person	Mark					
+20261114-162630-012	thing	water bottle					
+20261114-162630-012	thing	jacket					
+20261114-163018-621	person	Charles					
+20261114-163018-621	person	Elias					
+20261114-163018-621	person	Arian					
+20261114-163018-621	person	Mark					
+20261114-163018-621	thing	water bottle					
+20261114-163018-621	thing	jacket					
+20261114-163021-900	person	Charles					
+20261114-163021-900	person	Elias					
+20261114-163021-900	person	Arian					
+20261114-163021-900	person	Mark					
+20261114-163021-900	thing	water bottle					
+20261114-163021-900	thing	jacket					
+20261114-163025-885	person	Charles					
+20261114-163025-885	person	Elias					
+20261114-163025-885	person	Arian					
+20261114-163025-885	person	Mark					
+20261114-163025-885	thing	water bottle					
+20261114-163025-885	thing	jacket					
+20261114-163034-526	person	Charles					
+20261114-163034-526	person	Elias					
+20261114-163034-526	person	Arian					
+20261114-163034-526	person	Mark					
+20261114-163034-526	thing	water bottle					
+20261114-163034-526	thing	jacket					
+20261114-163044-029	person	Charles					
+20261114-163044-029	person	Elias					
+20261114-163044-029	person	Arian					
+20261114-163044-029	person	Mark					
+20261114-163044-029	thing	water bottle					
+20261114-163044-029	thing	jacket					
+20261114-163050-768	person	Charles					
+20261114-163050-768	person	Elias					
+20261114-163050-768	person	Arian					
+20261114-163050-768	person	Mark					
+20261114-163050-768	thing	water bottle					
+20261114-163050-768	thing	jacket					
+20261114-163110-202	person	Charles					
+20261114-163110-202	person	Elias					
+20261114-163110-202	person	Arian					
+20261114-163110-202	person	Mark					
+20261114-163110-202	thing	water bottle					
+20261114-163110-202	thing	jacket					
+20261114-163113-441	person	Charles					
+20261114-163113-441	person	Elias					
+20261114-163113-441	person	Arian					
+20261114-163113-441	person	Mark					
+20261114-163113-441	thing	water bottle					
+20261114-163113-441	thing	jacket					
+20261114-163116-206	person	Charles					
+20261114-163116-206	person	Elias					
+20261114-163116-206	person	Arian					
+20261114-163116-206	person	Mark					
+20261114-163116-206	thing	water bottle					
+20261114-163116-206	thing	jacket					
+20261114-163123-431	person	Charles					
+20261114-163123-431	person	Elias					
+20261114-163123-431	person	Arian					
+20261114-163123-431	person	Mark					
+20261114-163123-431	thing	water bottle					
+20261114-163123-431	thing	jacket					
+20261114-163130-998	person	Charles					
+20261114-163130-998	person	Elias					
+20261114-163130-998	person	Arian					
+20261114-163130-998	person	Mark					
+20261114-163130-998	thing	water bottle					
+20261114-163130-998	thing	jacket					
+20261114-163139-513	person	Charles					
+20261114-163139-513	person	Elias					
+20261114-163139-513	person	Arian					
+20261114-163139-513	person	Mark					
+20261114-163139-513	thing	water bottle					
+20261114-163139-513	thing	jacket					
+20261114-163159-887	person	Charles					
+20261114-163159-887	person	Elias					
+20261114-163159-887	person	Arian					
+20261114-163159-887	person	Mark					
+20261114-163159-887	thing	water bottle					
+20261114-163159-887	thing	jacket					
+20261114-163206-257	person	Charles					
+20261114-163206-257	person	Elias					
+20261114-163206-257	person	Arian					
+20261114-163206-257	person	Mark					
+20261114-163206-257	thing	water bottle					
+20261114-163206-257	thing	jacket					
+20261114-163210-593	person	Charles					
+20261114-163210-593	person	Elias					
+20261114-163210-593	person	Arian					
+20261114-163210-593	person	Mark					
+20261114-163210-593	thing	water bottle					
+20261114-163210-593	thing	jacket					
+20261114-163221-054	person	Charles					
+20261114-163221-054	person	Elias					
+20261114-163221-054	person	Arian					
+20261114-163221-054	person	Mark					
+20261114-163221-054	thing	water bottle					
+20261114-163221-054	thing	jacket					
+20261114-163224-927	person	Charles					
+20261114-163224-927	person	Elias					
+20261114-163224-927	person	Arian					
+20261114-163224-927	person	Mark					
+20261114-163224-927	thing	water bottle					
+20261114-163224-927	thing	jacket					
+20261114-163243-788	person	Charles					
+20261114-163243-788	person	Elias					
+20261114-163243-788	person	Arian					
+20261114-163243-788	person	Mark					
+20261114-163243-788	thing	water bottle					
+20261114-163243-788	thing	jacket					
+20261114-163255-303	person	Charles				-0.01	0.285,0.553,0.054,0.040
+20261114-163255-303	person	Elias				-0.05	0.285,0.553,0.054,0.040
+20261114-163255-303	person	Arian				0.02	0.285,0.553,0.054,0.040
+20261114-163255-303	person	Mark				-0.05	0.285,0.553,0.054,0.040
+20261114-163255-303	thing	water bottle					
+20261114-163255-303	thing	jacket					
+20261114-163259-711	person	Charles					
+20261114-163259-711	person	Elias					
+20261114-163259-711	person	Arian					
+20261114-163259-711	person	Mark					
+20261114-163259-711	thing	water bottle					
+20261114-163259-711	thing	jacket					
+20261114-163302-496	person	Charles				0.03	0.540,0.343,0.067,0.051
+20261114-163302-496	person	Elias				-0.03	0.540,0.343,0.067,0.051
+20261114-163302-496	person	Arian				0.04	0.540,0.343,0.067,0.051
+20261114-163302-496	person	Mark				-0.02	0.540,0.343,0.067,0.051
+20261114-163302-496	thing	water bottle					
+20261114-163302-496	thing	jacket					
+20261114-163326-298	person	Charles					
+20261114-163326-298	person	Elias					
+20261114-163326-298	person	Arian					
+20261114-163326-298	person	Mark					
+20261114-163326-298	thing	water bottle					
+20261114-163326-298	thing	jacket					
+20261114-163332-976	person	Charles					
+20261114-163332-976	person	Elias					
+20261114-163332-976	person	Arian					
+20261114-163332-976	person	Mark					
+20261114-163332-976	thing	water bottle					
+20261114-163332-976	thing	jacket					
+20261114-163340-898	person	Charles				0.03	0.741,0.484,0.073,0.054
+20261114-163340-898	person	Elias	sure	0.80	sure	0.58	0.741,0.484,0.073,0.054
+20261114-163340-898	person	Arian				-0.00	0.741,0.484,0.073,0.054
+20261114-163340-898	person	Mark				0.01	0.741,0.484,0.073,0.054
+20261114-163340-898	thing	water bottle					
+20261114-163340-898	thing	jacket					
+20261114-163351-115	person	Charles				0.06	0.744,0.546,0.055,0.041
+20261114-163351-115	person	Elias	sure	0.88	sure	0.66	0.744,0.546,0.055,0.041
+20261114-163351-115	person	Arian				0.00	0.744,0.546,0.055,0.041
+20261114-163351-115	person	Mark				-0.02	0.744,0.546,0.055,0.041
+20261114-163351-115	thing	water bottle					
+20261114-163351-115	thing	jacket					
+20261114-163354-586	person	Charles				0.08	0.727,0.533,0.056,0.042
+20261114-163354-586	person	Elias	sure	0.93	sure	0.71	0.727,0.533,0.056,0.042
+20261114-163354-586	person	Arian				0.06	0.727,0.533,0.056,0.042
+20261114-163354-586	person	Mark				-0.00	0.727,0.533,0.056,0.042
+20261114-163354-586	thing	water bottle					
+20261114-163354-586	thing	jacket					
+20261114-163400-650	person	Charles					
+20261114-163400-650	person	Elias	sure	0.87			
+20261114-163400-650	person	Arian					
+20261114-163400-650	person	Mark					
+20261114-163400-650	thing	water bottle					
+20261114-163400-650	thing	jacket					
+20261114-163406-287	person	Charles				0.07	0.622,0.523,0.042,0.032
+20261114-163406-287	person	Elias	sure	0.88	sure	0.60	0.622,0.523,0.042,0.032
+20261114-163406-287	person	Arian				0.01	0.622,0.523,0.042,0.032
+20261114-163406-287	person	Mark				-0.00	0.622,0.523,0.042,0.032
+20261114-163406-287	thing	water bottle					
+20261114-163406-287	thing	jacket					
+20261114-163413-818	person	Charles				0.09	0.642,0.531,0.045,0.034
+20261114-163413-818	person	Elias	sure	0.89	sure	0.58	0.642,0.531,0.045,0.034
+20261114-163413-818	person	Arian				0.03	0.642,0.531,0.045,0.034
+20261114-163413-818	person	Mark				-0.02	0.642,0.531,0.045,0.034
+20261114-163413-818	thing	water bottle					
+20261114-163413-818	thing	jacket					
+20261114-163419-884	person	Charles					
+20261114-163419-884	person	Elias					
+20261114-163419-884	person	Arian					
+20261114-163419-884	person	Mark					
+20261114-163419-884	thing	water bottle					
+20261114-163419-884	thing	jacket					
+20261114-163423-007	person	Charles				0.05	0.596,0.541,0.050,0.037
+20261114-163423-007	person	Elias	sure	0.92	sure	0.66	0.596,0.541,0.050,0.037
+20261114-163423-007	person	Arian				0.03	0.596,0.541,0.050,0.037
+20261114-163423-007	person	Mark				-0.03	0.596,0.541,0.050,0.037
+20261114-163423-007	thing	water bottle					
+20261114-163423-007	thing	jacket					
+20261114-163429-685	person	Charles					
+20261114-163429-685	person	Elias					
+20261114-163429-685	person	Arian					
+20261114-163429-685	person	Mark					
+20261114-163429-685	thing	water bottle					
+20261114-163429-685	thing	jacket					
+20261114-163804-795	person	Charles					
+20261114-163804-795	person	Elias					
+20261114-163804-795	person	Arian					
+20261114-163804-795	person	Mark					
+20261114-163804-795	thing	water bottle					
+20261114-163804-795	thing	jacket					
+20261114-163816-491	person	Charles					
+20261114-163816-491	person	Elias					
+20261114-163816-491	person	Arian					
+20261114-163816-491	person	Mark					
+20261114-163816-491	thing	water bottle					
+20261114-163816-491	thing	jacket					
+20261114-163831-271	person	Charles					
+20261114-163831-271	person	Elias					
+20261114-163831-271	person	Arian					
+20261114-163831-271	person	Mark					
+20261114-163831-271	thing	water bottle					
+20261114-163831-271	thing	jacket					
+20261114-163835-010	person	Charles					
+20261114-163835-010	person	Elias					
+20261114-163835-010	person	Arian					
+20261114-163835-010	person	Mark					
+20261114-163835-010	thing	water bottle					
+20261114-163835-010	thing	jacket					
+20261114-164048-585	person	Charles					
+20261114-164048-585	person	Elias					
+20261114-164048-585	person	Arian					
+20261114-164048-585	person	Mark					
+20261114-164048-585	thing	water bottle					
+20261114-164048-585	thing	jacket					
+20261114-164052-076	person	Charles					
+20261114-164052-076	person	Elias					
+20261114-164052-076	person	Arian					
+20261114-164052-076	person	Mark					
+20261114-164052-076	thing	water bottle					
+20261114-164052-076	thing	jacket					
+20261114-164054-687	person	Charles					
+20261114-164054-687	person	Elias					
+20261114-164054-687	person	Arian					
+20261114-164054-687	person	Mark					
+20261114-164054-687	thing	water bottle					
+20261114-164054-687	thing	jacket					
+20261114-164057-650	person	Charles					
+20261114-164057-650	person	Elias					
+20261114-164057-650	person	Arian					
+20261114-164057-650	person	Mark					
+20261114-164057-650	thing	water bottle					
+20261114-164057-650	thing	jacket					
+20261114-164100-557	person	Charles					
+20261114-164100-557	person	Elias					
+20261114-164100-557	person	Arian					
+20261114-164100-557	person	Mark					
+20261114-164100-557	thing	water bottle					
+20261114-164100-557	thing	jacket					
+20261114-164103-480	person	Charles					
+20261114-164103-480	person	Elias					
+20261114-164103-480	person	Arian					
+20261114-164103-480	person	Mark					
+20261114-164103-480	thing	water bottle					
+20261114-164103-480	thing	jacket					
+20261114-164552-320	person	Charles					
+20261114-164552-320	person	Elias					
+20261114-164552-320	person	Arian					
+20261114-164552-320	person	Mark					
+20261114-164552-320	thing	water bottle					
+20261114-164552-320	thing	jacket					
+20261114-164602-924	person	Charles					
+20261114-164602-924	person	Elias					
+20261114-164602-924	person	Arian					
+20261114-164602-924	person	Mark					
+20261114-164602-924	thing	water bottle					
+20261114-164602-924	thing	jacket					
+20261114-164624-260	person	Charles	sure	0.75	sure	0.68	0.434,0.261,0.193,0.145
+20261114-164624-260	person	Elias				0.14	0.434,0.261,0.193,0.145
+20261114-164624-260	person	Arian				-0.04	0.434,0.261,0.193,0.145
+20261114-164624-260	person	Mark				0.04	0.434,0.261,0.193,0.145
+20261114-164624-260	thing	water bottle					
+20261114-164624-260	thing	jacket					
+20261114-164628-416	person	Charles					
+20261114-164628-416	person	Elias					
+20261114-164628-416	person	Arian	sure	0.81			
+20261114-164628-416	person	Mark					
+20261114-164628-416	thing	water bottle					
+20261114-164628-416	thing	jacket					
+20261114-164645-216 (taught from)	person	Charles				0.15	0.583,0.415,0.066,0.049
+20261114-164645-216 (taught from)	person	Elias				0.02	0.583,0.415,0.066,0.049
+20261114-164645-216 (taught from)	person	Arian				0.02	0.583,0.415,0.066,0.049
+20261114-164645-216 (taught from)	person	Mark	sure	0.86	sure	1.00	0.583,0.415,0.066,0.049
+20261114-164645-216 (taught from)	thing	water bottle					
+20261114-164645-216 (taught from)	thing	jacket					
+20261114-164702-920	person	Charles					
+20261114-164702-920	person	Elias					
+20261114-164702-920	person	Arian					
+20261114-164702-920	person	Mark					
+20261114-164702-920	thing	water bottle					
+20261114-164702-920	thing	jacket					
+20261114-164932-453	person	Charles				0.17	0.645,0.404,0.075,0.056
+20261114-164932-453	person	Elias				0.03	0.645,0.404,0.075,0.056
+20261114-164932-453	person	Arian				-0.00	0.645,0.404,0.075,0.056
+20261114-164932-453	person	Mark	sure	0.85	sure	0.88	0.645,0.404,0.075,0.056
+20261114-164932-453	thing	water bottle					
+20261114-164932-453	thing	jacket					
+20261114-164937-095	person	Charles				0.14	0.584,0.405,0.073,0.055
+20261114-164937-095	person	Elias				0.05	0.584,0.405,0.073,0.055
+20261114-164937-095	person	Arian				-0.02	0.584,0.405,0.073,0.055
+20261114-164937-095	person	Mark	sure	0.84	sure	0.86	0.584,0.405,0.073,0.055
+20261114-164937-095	thing	water bottle					
+20261114-164937-095	thing	jacket					
+20261114-164944-251	person	Charles				0.19	0.583,0.416,0.071,0.053
+20261114-164944-251	person	Elias				0.05	0.583,0.416,0.071,0.053
+20261114-164944-251	person	Arian				0.08	0.583,0.416,0.071,0.053
+20261114-164944-251	person	Mark	sure	0.86	sure	0.90	0.583,0.416,0.071,0.053
+20261114-164944-251	thing	water bottle					
+20261114-164944-251	thing	jacket					
+20261114-165010-100	person	Charles					
+20261114-165010-100	person	Elias					
+20261114-165010-100	person	Arian					
+20261114-165010-100	person	Mark					
+20261114-165010-100	thing	water bottle					
+20261114-165010-100	thing	jacket					
+20261114-165011-987	person	Charles					
+20261114-165011-987	person	Elias					
+20261114-165011-987	person	Arian					
+20261114-165011-987	person	Mark					
+20261114-165011-987	thing	water bottle					
+20261114-165011-987	thing	jacket					
+20261114-165014-513	person	Charles					
+20261114-165014-513	person	Elias					
+20261114-165014-513	person	Arian					
+20261114-165014-513	person	Mark					
+20261114-165014-513	thing	water bottle					
+20261114-165014-513	thing	jacket					
+20261114-165018-856	person	Charles					
+20261114-165018-856	person	Elias					
+20261114-165018-856	person	Arian					
+20261114-165018-856	person	Mark					
+20261114-165018-856	thing	water bottle					
+20261114-165018-856	thing	jacket					
+20261114-165101-713	person	Charles					
+20261114-165101-713	person	Elias					
+20261114-165101-713	person	Arian					
+20261114-165101-713	person	Mark					
+20261114-165101-713	thing	water bottle					
+20261114-165101-713	thing	jacket					
+20261114-165359-459	person	Charles					
+20261114-165359-459	person	Elias					
+20261114-165359-459	person	Arian					
+20261114-165359-459	person	Mark					
+20261114-165359-459	thing	water bottle					
+20261114-165359-459	thing	jacket					
+20261114-165443-256	person	Charles					
+20261114-165443-256	person	Elias					
+20261114-165443-256	person	Arian					
+20261114-165443-256	person	Mark					
+20261114-165443-256	thing	water bottle					
+20261114-165443-256	thing	jacket					
+20261114-165458-921	person	Charles					
+20261114-165458-921	person	Elias					
+20261114-165458-921	person	Arian					
+20261114-165458-921	person	Mark					
+20261114-165458-921	thing	water bottle					
+20261114-165458-921	thing	jacket					
+20261114-165515-387	person	Charles				0.15	0.644,0.407,0.070,0.052
+20261114-165515-387	person	Elias				0.03	0.644,0.407,0.070,0.052
+20261114-165515-387	person	Arian				0.02	0.644,0.407,0.070,0.052
+20261114-165515-387	person	Mark	sure	0.90	sure	0.89	0.644,0.407,0.070,0.052
+20261114-165515-387	thing	water bottle					
+20261114-165515-387	thing	jacket					
+20261114-165521-745	person	Charles				0.13	0.614,0.511,0.062,0.046
+20261114-165521-745	person	Elias				0.04	0.614,0.511,0.062,0.046
+20261114-165521-745	person	Arian				0.06	0.614,0.511,0.062,0.046
+20261114-165521-745	person	Mark	sure	0.78	sure	0.80	0.614,0.511,0.062,0.046
+20261114-165521-745	thing	water bottle					
+20261114-165521-745	thing	jacket					
+20261114-165527-792	person	Charles				-0.00	0.635,0.546,0.058,0.043
+20261114-165527-792	person	Elias				0.08	0.635,0.546,0.058,0.043
+20261114-165527-792	person	Arian				0.00	0.635,0.546,0.058,0.043
+20261114-165527-792	person	Mark				0.23	0.635,0.546,0.058,0.043
+20261114-165527-792	thing	water bottle					
+20261114-165527-792	thing	jacket					
+20261114-165610-797	person	Charles				0.13	0.590,0.412,0.066,0.049
+20261114-165610-797	person	Elias				0.04	0.590,0.412,0.066,0.049
+20261114-165610-797	person	Arian				0.05	0.590,0.412,0.066,0.049
+20261114-165610-797	person	Mark	sure	0.86	sure	0.92	0.590,0.412,0.066,0.049
+20261114-165610-797	thing	water bottle					
+20261114-165610-797	thing	jacket					
+20261114-165614-969	person	Charles				0.16	0.591,0.421,0.068,0.051
+20261114-165614-969	person	Elias				0.01	0.591,0.421,0.068,0.051
+20261114-165614-969	person	Arian				0.02	0.591,0.421,0.068,0.051
+20261114-165614-969	person	Mark	sure	0.87	sure	0.91	0.591,0.421,0.068,0.051
+20261114-165614-969	thing	water bottle					
+20261114-165614-969	thing	jacket					
+20261114-165621-358	person	Charles				0.08	0.138,0.475,0.050,0.037
+20261114-165621-358	person	Elias				0.03	0.138,0.475,0.050,0.037
+20261114-165621-358	person	Arian				0.05	0.138,0.475,0.050,0.037
+20261114-165621-358	person	Mark	sure	0.61	unsure	0.36	0.138,0.475,0.050,0.037
+20261114-165621-358	thing	water bottle			sure	0.79	0.737,0.015,0.234,0.339
+20261114-165621-358	thing	jacket					
+20261114-165624-394	person	Charles					
+20261114-165624-394	person	Elias					
+20261114-165624-394	person	Arian					
+20261114-165624-394	person	Mark					
+20261114-165624-394	thing	water bottle			sure	0.80	0.750,0.014,0.229,0.339
+20261114-165624-394	thing	jacket					
+20261114-165628-210	person	Charles				0.13	0.425,0.488,0.060,0.045
+20261114-165628-210	person	Elias				0.04	0.425,0.488,0.060,0.045
+20261114-165628-210	person	Arian				0.04	0.425,0.488,0.060,0.045
+20261114-165628-210	person	Mark	sure	0.75	sure	0.78	0.425,0.488,0.060,0.045
+20261114-165628-210	thing	water bottle			unsure	0.63	0.803,0.002,0.197,0.341
+20261114-165628-210	thing	jacket					
+20261114-165840-396	person	Charles				0.00	0.272,0.258,0.123,0.092
+20261114-165840-396	person	Elias				-0.09	0.272,0.258,0.123,0.092
+20261114-165840-396	person	Arian	sure	0.51	sure	0.40	0.272,0.258,0.123,0.092
+20261114-165840-396	person	Mark				-0.09	0.272,0.258,0.123,0.092
+20261114-165840-396	thing	water bottle					
+20261114-165840-396	thing	jacket					
+20261114-170026-156	person	Charles				0.10	0.419,0.516,0.047,0.036
+20261114-170026-156	person	Elias				0.04	0.419,0.516,0.047,0.036
+20261114-170026-156	person	Arian				0.11	0.419,0.516,0.047,0.036
+20261114-170026-156	person	Mark			sure	0.80	0.419,0.516,0.047,0.036
+20261114-170026-156	thing	water bottle			sure	0.75	0.769,0.053,0.231,0.379
+20261114-170026-156	thing	jacket					
+20261114-170031-451	person	Charles					
+20261114-170031-451	person	Elias					
+20261114-170031-451	person	Arian					
+20261114-170031-451	person	Mark	sure	0.65			
+20261114-170031-451	thing	water bottle			sure	0.78	0.786,0.064,0.214,0.370
+20261114-170031-451	thing	jacket					
+20261114-170036-416	person	Charles				0.18	0.521,0.474,0.059,0.044
+20261114-170036-416	person	Elias				0.04	0.521,0.474,0.059,0.044
+20261114-170036-416	person	Arian				0.06	0.521,0.474,0.059,0.044
+20261114-170036-416	person	Mark	sure	0.79	sure	0.88	0.521,0.474,0.059,0.044
+20261114-170036-416	thing	water bottle			sure	0.71	0.772,0.062,0.228,0.369
+20261114-170036-416	thing	jacket					
+20261114-170221-526	person	Charles					
+20261114-170221-526	person	Elias					
+20261114-170221-526	person	Arian					
+20261114-170221-526	person	Mark					
+20261114-170221-526	thing	water bottle					
+20261114-170221-526	thing	jacket					
+20261114-170224-562	person	Charles					
+20261114-170224-562	person	Elias					
+20261114-170224-562	person	Arian					
+20261114-170224-562	person	Mark					
+20261114-170224-562	thing	water bottle					
+20261114-170224-562	thing	jacket					
+20261114-170239-201	person	Charles					
+20261114-170239-201	person	Elias					
+20261114-170239-201	person	Arian					
+20261114-170239-201	person	Mark					
+20261114-170239-201	thing	water bottle					
+20261114-170239-201	thing	jacket					
+20261114-170303-294	person	Charles					
+20261114-170303-294	person	Elias					
+20261114-170303-294	person	Arian					
+20261114-170303-294	person	Mark					
+20261114-170303-294	thing	water bottle					
+20261114-170303-294	thing	jacket					
+20261114-170410-538	person	Charles					
+20261114-170410-538	person	Elias					
+20261114-170410-538	person	Arian					
+20261114-170410-538	person	Mark					
+20261114-170410-538	thing	water bottle					
+20261114-170410-538	thing	jacket					
+20261114-170412-947	person	Charles					
+20261114-170412-947	person	Elias					
+20261114-170412-947	person	Arian					
+20261114-170412-947	person	Mark					
+20261114-170412-947	thing	water bottle					
+20261114-170412-947	thing	jacket					
+20261114-170419-169	person	Charles					
+20261114-170419-169	person	Elias					
+20261114-170419-169	person	Arian					
+20261114-170419-169	person	Mark					
+20261114-170419-169	thing	water bottle					
+20261114-170419-169	thing	jacket					
+20261114-170425-696	person	Charles					
+20261114-170425-696	person	Elias					
+20261114-170425-696	person	Arian					
+20261114-170425-696	person	Mark					
+20261114-170425-696	thing	water bottle					
+20261114-170425-696	thing	jacket					
+20261114-170446-264	person	Charles					
+20261114-170446-264	person	Elias					
+20261114-170446-264	person	Arian					
+20261114-170446-264	person	Mark					
+20261114-170446-264	thing	water bottle					
+20261114-170446-264	thing	jacket					
+20261114-170451-945	person	Charles					
+20261114-170451-945	person	Elias					
+20261114-170451-945	person	Arian					
+20261114-170451-945	person	Mark					
+20261114-170451-945	thing	water bottle					
+20261114-170451-945	thing	jacket					
+20261114-170509-207	person	Charles					
+20261114-170509-207	person	Elias					
+20261114-170509-207	person	Arian					
+20261114-170509-207	person	Mark					
+20261114-170509-207	thing	water bottle					
+20261114-170509-207	thing	jacket					
+20261114-170708-121	person	Charles					
+20261114-170708-121	person	Elias					
+20261114-170708-121	person	Arian					
+20261114-170708-121	person	Mark					
+20261114-170708-121	thing	water bottle					
+20261114-170708-121	thing	jacket					
+20261114-170717-029	person	Charles					
+20261114-170717-029	person	Elias					
+20261114-170717-029	person	Arian					
+20261114-170717-029	person	Mark					
+20261114-170717-029	thing	water bottle					
+20261114-170717-029	thing	jacket					
+20261114-170718-789	person	Charles				-0.07	0.079,0.016,0.162,0.122
+20261114-170718-789	person	Elias				-0.03	0.079,0.016,0.162,0.122
+20261114-170718-789	person	Arian	sure	0.60	sure	0.48	0.079,0.016,0.162,0.122
+20261114-170718-789	person	Mark				-0.03	0.079,0.016,0.162,0.122
+20261114-170718-789	thing	water bottle					
+20261114-170718-789	thing	jacket					
+20261114-171439-253	person	Charles	sure	0.78	sure	0.53	0.459,0.314,0.186,0.140
+20261114-171439-253	person	Elias				0.19	0.459,0.314,0.186,0.140
+20261114-171439-253	person	Arian				0.02	0.459,0.314,0.186,0.140
+20261114-171439-253	person	Mark				0.04	0.459,0.314,0.186,0.140
+20261114-171439-253	thing	water bottle					
+20261114-171439-253	thing	jacket					
+20261114-171448-429	person	Charles					
+20261114-171448-429	person	Elias					
+20261114-171448-429	person	Arian					
+20261114-171448-429	person	Mark					
+20261114-171448-429	thing	water bottle					
+20261114-171448-429	thing	jacket					
+20261114-171454-851	person	Charles					
+20261114-171454-851	person	Elias					
+20261114-171454-851	person	Arian					
+20261114-171454-851	person	Mark					
+20261114-171454-851	thing	water bottle					
+20261114-171454-851	thing	jacket					
+20261114-171500-439	person	Charles					
+20261114-171500-439	person	Elias					
+20261114-171500-439	person	Arian	sure	0.93			
+20261114-171500-439	person	Mark					
+20261114-171500-439	thing	water bottle					
+20261114-171500-439	thing	jacket					
+20261114-171506-201	person	Charles					
+20261114-171506-201	person	Elias					
+20261114-171506-201	person	Arian					
+20261114-171506-201	person	Mark					
+20261114-171506-201	thing	water bottle					
+20261114-171506-201	thing	jacket					
+20261114-171517-590	person	Charles					
+20261114-171517-590	person	Elias					
+20261114-171517-590	person	Arian					
+20261114-171517-590	person	Mark					
+20261114-171517-590	thing	water bottle					
+20261114-171517-590	thing	jacket					
+20261114-171520-118	person	Charles				0.04	0.353,0.358,0.226,0.169
+20261114-171520-118	person	Elias	sure	0.76	sure	0.60	0.353,0.358,0.226,0.169
+20261114-171520-118	person	Arian				0.02	0.353,0.358,0.226,0.169
+20261114-171520-118	person	Mark				-0.01	0.353,0.358,0.226,0.169
+20261114-171520-118	thing	water bottle					
+20261114-171520-118	thing	jacket					
+20261114-172014-431	person	Charles					
+20261114-172014-431	person	Elias					
+20261114-172014-431	person	Arian					
+20261114-172014-431	person	Mark					
+20261114-172014-431	thing	water bottle					
+20261114-172014-431	thing	jacket					
+20261114-172151-385	person	Charles	sure	0.85	sure	0.53	0.499,0.234,0.159,0.119
+20261114-172151-385	person	Elias				0.12	0.499,0.234,0.159,0.119
+20261114-172151-385	person	Arian				0.02	0.499,0.234,0.159,0.119
+20261114-172151-385	person	Mark				0.02	0.499,0.234,0.159,0.119
+20261114-172151-385	thing	water bottle					
+20261114-172151-385	thing	jacket					
+20261114-172618-771	person	Charles					
+20261114-172618-771	person	Elias					
+20261114-172618-771	person	Arian					
+20261114-172618-771	person	Mark					
+20261114-172618-771	thing	water bottle					
+20261114-172618-771	thing	jacket					
+20261114-172622-461	person	Charles					
+20261114-172622-461	person	Elias					
+20261114-172622-461	person	Arian					
+20261114-172622-461	person	Mark					
+20261114-172622-461	thing	water bottle					
+20261114-172622-461	thing	jacket					
+20261114-172624-524	person	Charles					
+20261114-172624-524	person	Elias					
+20261114-172624-524	person	Arian					
+20261114-172624-524	person	Mark					
+20261114-172624-524	thing	water bottle					
+20261114-172624-524	thing	jacket					
+20261114-172627-163	person	Charles					
+20261114-172627-163	person	Elias					
+20261114-172627-163	person	Arian					
+20261114-172627-163	person	Mark					
+20261114-172627-163	thing	water bottle					
+20261114-172627-163	thing	jacket					
+20261114-172628-940	person	Charles					
+20261114-172628-940	person	Elias					
+20261114-172628-940	person	Arian					
+20261114-172628-940	person	Mark					
+20261114-172628-940	thing	water bottle					
+20261114-172628-940	thing	jacket					
+20261114-172631-726	person	Charles					
+20261114-172631-726	person	Elias					
+20261114-172631-726	person	Arian					
+20261114-172631-726	person	Mark					
+20261114-172631-726	thing	water bottle					
+20261114-172631-726	thing	jacket					
+20261114-172850-111	person	Charles					
+20261114-172850-111	person	Elias					
+20261114-172850-111	person	Arian					
+20261114-172850-111	person	Mark					
+20261114-172850-111	thing	water bottle					
+20261114-172850-111	thing	jacket					
+20261114-172858-365	person	Charles					
+20261114-172858-365	person	Elias					
+20261114-172858-365	person	Arian					
+20261114-172858-365	person	Mark					
+20261114-172858-365	thing	water bottle					
+20261114-172858-365	thing	jacket					
+20261114-172901-845	person	Charles					
+20261114-172901-845	person	Elias					
+20261114-172901-845	person	Arian					
+20261114-172901-845	person	Mark					
+20261114-172901-845	thing	water bottle					
+20261114-172901-845	thing	jacket					
+20261114-172904-119	person	Charles					
+20261114-172904-119	person	Elias					
+20261114-172904-119	person	Arian					
+20261114-172904-119	person	Mark					
+20261114-172904-119	thing	water bottle					
+20261114-172904-119	thing	jacket					
+20261114-172919-199	person	Charles					
+20261114-172919-199	person	Elias					
+20261114-172919-199	person	Arian					
+20261114-172919-199	person	Mark					
+20261114-172919-199	thing	water bottle					
+20261114-172919-199	thing	jacket					
+20261114-172928-776	person	Charles					
+20261114-172928-776	person	Elias					
+20261114-172928-776	person	Arian					
+20261114-172928-776	person	Mark					
+20261114-172928-776	thing	water bottle	sure	0.79	sure	0.80	0.846,0.188,0.154,0.339
+20261114-172928-776	thing	jacket					
+20261114-173008-400	person	Charles					
+20261114-173008-400	person	Elias					
+20261114-173008-400	person	Arian					
+20261114-173008-400	person	Mark					
+20261114-173008-400	thing	water bottle	sure	0.81	sure	0.81	0.769,0.000,0.231,0.387
+20261114-173008-400	thing	jacket					
+20261114-173011-936	person	Charles					
+20261114-173011-936	person	Elias					
+20261114-173011-936	person	Arian					
+20261114-173011-936	person	Mark					
+20261114-173011-936	thing	water bottle	sure	0.89	sure	0.93	0.348,0.156,0.222,0.540
+20261114-173011-936	thing	jacket					
+20261114-173020-573	person	Charles					
+20261114-173020-573	person	Elias					
+20261114-173020-573	person	Arian					
+20261114-173020-573	person	Mark					
+20261114-173020-573	thing	water bottle	sure	0.71	sure	0.74	0.423,0.185,0.145,0.233
+20261114-173020-573	thing	jacket					
+20261114-173025-237	person	Charles					
+20261114-173025-237	person	Elias					
+20261114-173025-237	person	Arian					
+20261114-173025-237	person	Mark					
+20261114-173025-237	thing	water bottle					
+20261114-173025-237	thing	jacket					
+20261114-173030-136	person	Charles					
+20261114-173030-136	person	Elias					
+20261114-173030-136	person	Arian					
+20261114-173030-136	person	Mark					
+20261114-173030-136	thing	water bottle	sure	0.75	sure	0.73	0.380,0.079,0.154,0.297
+20261114-173030-136	thing	jacket					
+20261114-173057-926	person	Charles					
+20261114-173057-926	person	Elias					
+20261114-173057-926	person	Arian					
+20261114-173057-926	person	Mark					
+20261114-173057-926	thing	water bottle					
+20261114-173057-926	thing	jacket					
+20261114-173100-500	person	Charles					
+20261114-173100-500	person	Elias					
+20261114-173100-500	person	Arian					
+20261114-173100-500	person	Mark					
+20261114-173100-500	thing	water bottle					
+20261114-173100-500	thing	jacket					
+20261114-173104-569	person	Charles					
+20261114-173104-569	person	Elias					
+20261114-173104-569	person	Arian					
+20261114-173104-569	person	Mark					
+20261114-173104-569	thing	water bottle	unsure	0.66	unsure	0.68	0.587,0.246,0.152,0.175
+20261114-173104-569	thing	jacket					
+20261114-173109-719 (taught from)	person	Charles					
+20261114-173109-719 (taught from)	person	Elias					
+20261114-173109-719 (taught from)	person	Arian					
+20261114-173109-719 (taught from)	person	Mark					
+20261114-173109-719 (taught from)	thing	water bottle	sure	0.91	sure	1.00	0.489,0.031,0.187,0.472
+20261114-173109-719 (taught from)	thing	jacket					
+20261114-173112-829	person	Charles					
+20261114-173112-829	person	Elias					
+20261114-173112-829	person	Arian					
+20261114-173112-829	person	Mark					
+20261114-173112-829	thing	water bottle	sure	0.74	sure	0.74	0.481,0.126,0.170,0.247
+20261114-173112-829	thing	jacket					
+20261114-173116-159	person	Charles					
+20261114-173116-159	person	Elias					
+20261114-173116-159	person	Arian					
+20261114-173116-159	person	Mark					
+20261114-173116-159	thing	water bottle			unsure	0.61	0.216,0.152,0.162,0.281
+20261114-173116-159	thing	jacket					
+20261114-173125-340	person	Charles	sure	0.80	sure	0.53	0.406,0.409,0.205,0.153
+20261114-173125-340	person	Elias				0.08	0.406,0.409,0.205,0.153
+20261114-173125-340	person	Arian				-0.01	0.406,0.409,0.205,0.153
+20261114-173125-340	person	Mark				0.02	0.406,0.409,0.205,0.153
+20261114-173125-340	thing	water bottle					
+20261114-173125-340	thing	jacket					
+20261114-173126-398	person	Charles	sure	0.81	sure	0.53	0.424,0.410,0.199,0.149
+20261114-173126-398	person	Elias				0.09	0.424,0.410,0.199,0.149
+20261114-173126-398	person	Arian				0.01	0.424,0.410,0.199,0.149
+20261114-173126-398	person	Mark				0.04	0.424,0.410,0.199,0.149
+20261114-173126-398	thing	water bottle					
+20261114-173126-398	thing	jacket					
+20261114-173127-621	person	Charles				-0.04	0.284,0.323,0.193,0.145
+20261114-173127-621	person	Elias				-0.04	0.284,0.323,0.193,0.145
+20261114-173127-621	person	Arian	sure	0.71	sure	0.48	0.284,0.323,0.193,0.145
+20261114-173127-621	person	Mark				-0.02	0.284,0.323,0.193,0.145
+20261114-173127-621	thing	water bottle					
+20261114-173127-621	thing	jacket					
+20261114-173128-846	person	Charles					
+20261114-173128-846	person	Elias					
+20261114-173128-846	person	Arian					
+20261114-173128-846	person	Mark					
+20261114-173128-846	thing	water bottle					
+20261114-173128-846	thing	jacket					
+20261114-173130-763	person	Charles				0.02	0.316,0.349,0.145,0.108
+20261114-173130-763	person	Elias	sure	0.96	sure	0.68	0.316,0.349,0.145,0.108
+20261114-173130-763	person	Arian				-0.01	0.316,0.349,0.145,0.108
+20261114-173130-763	person	Mark				0.01	0.316,0.349,0.145,0.108
+20261114-173130-763	thing	water bottle					
+20261114-173130-763	thing	jacket					
+20261114-173134-084	person	Charles				-0.04	0.404,0.293,0.146,0.109
+20261114-173134-084	person	Elias				-0.00	0.404,0.293,0.146,0.109
+20261114-173134-084	person	Arian	sure	0.51	unsure	0.30	0.404,0.293,0.146,0.109
+20261114-173134-084	person	Mark				0.04	0.404,0.293,0.146,0.109
+20261114-173134-084	thing	water bottle					
+20261114-173134-084	thing	jacket					
+20261114-173502-341	person	Charles	sure	0.79	sure	0.57	0.510,0.266,0.165,0.124
+20261114-173502-341	person	Elias				0.15	0.510,0.266,0.165,0.124
+20261114-173502-341	person	Arian				-0.01	0.510,0.266,0.165,0.124
+20261114-173502-341	person	Mark				0.05	0.510,0.266,0.165,0.124
+20261114-173502-341	thing	water bottle	sure	0.84	sure	0.79	0.006,0.486,0.168,0.206
+20261114-173502-341	thing	jacket					
+20261114-173507-523	person	Charles					
+20261114-173507-523	person	Elias					
+20261114-173507-523	person	Arian					
+20261114-173507-523	person	Mark					
+20261114-173507-523	thing	water bottle					
+20261114-173507-523	thing	jacket					
+20261114-173510-493	person	Charles				0.06	0.482,0.261,0.118,0.088
+20261114-173510-493	person	Elias				0.04	0.482,0.261,0.118,0.088
+20261114-173510-493	person	Arian	sure	0.72	sure	0.52	0.482,0.261,0.118,0.088
+20261114-173510-493	person	Mark				-0.02	0.482,0.261,0.118,0.088
+20261114-173510-493	thing	water bottle					
+20261114-173510-493	thing	jacket					
+20261114-173514-908	person	Charles					
+20261114-173514-908	person	Elias					
+20261114-173514-908	person	Arian					
+20261114-173514-908	person	Mark					
+20261114-173514-908	thing	water bottle					
+20261114-173514-908	thing	jacket					
+20261114-173526-198	person	Charles					
+20261114-173526-198	person	Elias					
+20261114-173526-198	person	Arian					
+20261114-173526-198	person	Mark					
+20261114-173526-198	thing	water bottle					
+20261114-173526-198	thing	jacket					
+20261114-173540-851	person	Charles					
+20261114-173540-851	person	Elias					
+20261114-173540-851	person	Arian					
+20261114-173540-851	person	Mark					
+20261114-173540-851	thing	water bottle					
+20261114-173540-851	thing	jacket					
+20261114-173623-005	person	Charles					
+20261114-173623-005	person	Elias					
+20261114-173623-005	person	Arian					
+20261114-173623-005	person	Mark					
+20261114-173623-005	thing	water bottle					
+20261114-173623-005	thing	jacket					
+20261114-173810-301	person	Charles	sure	0.80	sure	0.56	0.586,0.259,0.147,0.110
+20261114-173810-301	person	Elias				0.16	0.586,0.259,0.147,0.110
+20261114-173810-301	person	Arian				-0.03	0.586,0.259,0.147,0.110
+20261114-173810-301	person	Mark				0.02	0.586,0.259,0.147,0.110
+20261114-173810-301	thing	water bottle					
+20261114-173810-301	thing	jacket					
+20261114-173815-330	person	Charles				-0.00	0.637,0.269,0.101,0.076
+20261114-173815-330	person	Elias				0.00	0.637,0.269,0.101,0.076
+20261114-173815-330	person	Arian	sure	0.74	sure	0.50	0.637,0.269,0.101,0.076
+20261114-173815-330	person	Mark				-0.04	0.637,0.269,0.101,0.076
+20261114-173815-330	thing	water bottle					
+20261114-173815-330	thing	jacket					
+20261114-173819-652	person	Charles				-0.04	0.547,0.276,0.184,0.138
+20261114-173819-652	person	Elias	sure	0.42	sure	0.45	0.547,0.276,0.184,0.138
+20261114-173819-652	person	Arian				-0.05	0.547,0.276,0.184,0.138
+20261114-173819-652	person	Mark				0.05	0.547,0.276,0.184,0.138
+20261114-173819-652	thing	water bottle					
+20261114-173819-652	thing	jacket					
+20261114-173824-981	person	Charles					
+20261114-173824-981	person	Elias					
+20261114-173824-981	person	Arian					
+20261114-173824-981	person	Mark					
+20261114-173824-981	thing	water bottle					
+20261114-173824-981	thing	jacket					
+20261114-173829-550	person	Charles					
+20261114-173829-550	person	Elias					
+20261114-173829-550	person	Arian					
+20261114-173829-550	person	Mark					
+20261114-173829-550	thing	water bottle	unsure	0.68	unsure	0.68	0.612,0.000,0.304,0.473
+20261114-173829-550	thing	jacket					
+20261114-173831-725	person	Charles					
+20261114-173831-725	person	Elias					
+20261114-173831-725	person	Arian					
+20261114-173831-725	person	Mark					
+20261114-173831-725	thing	water bottle	unsure	0.66	unsure	0.65	0.634,0.000,0.266,0.318
+20261114-173831-725	thing	jacket					
+20261114-173834-250	person	Charles					
+20261114-173834-250	person	Elias					
+20261114-173834-250	person	Arian					
+20261114-173834-250	person	Mark					
+20261114-173834-250	thing	water bottle	unsure	0.70	unsure	0.67	0.534,0.000,0.239,0.372
+20261114-173834-250	thing	jacket					
+20261114-173836-372	person	Charles					
+20261114-173836-372	person	Elias					
+20261114-173836-372	person	Arian					
+20261114-173836-372	person	Mark					
+20261114-173836-372	thing	water bottle	sure	0.80	sure	0.81	0.453,0.000,0.224,0.370
+20261114-173836-372	thing	jacket					
+20261114-173838-442	person	Charles					
+20261114-173838-442	person	Elias					
+20261114-173838-442	person	Arian					
+20261114-173838-442	person	Mark					
+20261114-173838-442	thing	water bottle	sure	0.84	sure	0.86	0.384,0.000,0.223,0.379
+20261114-173838-442	thing	jacket					
+20261114-173950-947	person	Charles	sure	0.89	sure	0.64	0.472,0.260,0.119,0.089
+20261114-173950-947	person	Elias				0.01	0.472,0.260,0.119,0.089
+20261114-173950-947	person	Arian				0.01	0.472,0.260,0.119,0.089
+20261114-173950-947	person	Mark				0.07	0.472,0.260,0.119,0.089
+20261114-173950-947	thing	water bottle					
+20261114-173950-947	thing	jacket					
+20261114-173957-155	person	Charles				-0.07	0.414,0.301,0.106,0.079
+20261114-173957-155	person	Elias				0.07	0.414,0.301,0.106,0.079
+20261114-173957-155	person	Arian	sure	0.83	sure	0.52	0.414,0.301,0.106,0.079
+20261114-173957-155	person	Mark				-0.02	0.414,0.301,0.106,0.079
+20261114-173957-155	thing	water bottle					
+20261114-173957-155	thing	jacket					
+20261114-174203-383	person	Charles					
+20261114-174203-383	person	Elias					
+20261114-174203-383	person	Arian					
+20261114-174203-383	person	Mark					
+20261114-174203-383	thing	water bottle					
+20261114-174203-383	thing	jacket					
+20261114-174205-469	person	Charles	sure	0.75	sure	0.64	0.310,0.104,0.153,0.115
+20261114-174205-469	person	Elias				0.11	0.310,0.104,0.153,0.115
+20261114-174205-469	person	Arian				-0.01	0.310,0.104,0.153,0.115
+20261114-174205-469	person	Mark				0.05	0.310,0.104,0.153,0.115
+20261114-174205-469	thing	water bottle					
+20261114-174205-469	thing	jacket					
+20261114-174209-660	person	Charles				-0.03	0.374,0.304,0.099,0.074
+20261114-174209-660	person	Elias				-0.00	0.374,0.304,0.099,0.074
+20261114-174209-660	person	Arian	sure	0.85	sure	0.54	0.374,0.304,0.099,0.074
+20261114-174209-660	person	Mark				-0.03	0.374,0.304,0.099,0.074
+20261114-174209-660	thing	water bottle					
+20261114-174209-660	thing	jacket					
+20261114-174212-598	person	Charles					
+20261114-174212-598	person	Elias					
+20261114-174212-598	person	Arian					
+20261114-174212-598	person	Mark					
+20261114-174212-598	thing	water bottle					
+20261114-174212-598	thing	jacket					
+20261114-174304-364	person	Charles					
+20261114-174304-364	person	Elias					
+20261114-174304-364	person	Arian					
+20261114-174304-364	person	Mark					
+20261114-174304-364	thing	water bottle	sure	0.86	sure	0.87	0.479,0.000,0.277,0.502
+20261114-174304-364	thing	jacket					
+20261114-174905-966	person	Charles					
+20261114-174905-966	person	Elias					
+20261114-174905-966	person	Arian					
+20261114-174905-966	person	Mark					
+20261114-174905-966	thing	water bottle	sure	0.85	sure	0.84	0.682,0.030,0.289,0.513
+20261114-174905-966	thing	jacket					
+20261114-174910-203	person	Charles					
+20261114-174910-203	person	Elias					
+20261114-174910-203	person	Arian					
+20261114-174910-203	person	Mark					
+20261114-174910-203	thing	water bottle	sure	0.83	sure	0.86	0.726,0.052,0.273,0.507
+20261114-174910-203	thing	jacket					
+20261114-174912-643	person	Charles					
+20261114-174912-643	person	Elias					
+20261114-174912-643	person	Arian					
+20261114-174912-643	person	Mark					
+20261114-174912-643	thing	water bottle					
+20261114-174912-643	thing	jacket					
+20261114-174915-306	person	Charles					
+20261114-174915-306	person	Elias					
+20261114-174915-306	person	Arian					
+20261114-174915-306	person	Mark					
+20261114-174915-306	thing	water bottle					
+20261114-174915-306	thing	jacket					
+20261114-174918-083	person	Charles					
+20261114-174918-083	person	Elias					
+20261114-174918-083	person	Arian					
+20261114-174918-083	person	Mark					
+20261114-174918-083	thing	water bottle	unsure	0.61	unsure	0.63	0.560,0.000,0.197,0.340
+20261114-174918-083	thing	jacket					
+20261114-175141-268	person	Charles					
+20261114-175141-268	person	Elias					
+20261114-175141-268	person	Arian					
+20261114-175141-268	person	Mark					
+20261114-175141-268	thing	water bottle					
+20261114-175141-268	thing	jacket					
+20261114-175213-694	person	Charles					
+20261114-175213-694	person	Elias					
+20261114-175213-694	person	Arian					
+20261114-175213-694	person	Mark					
+20261114-175213-694	thing	water bottle					
+20261114-175213-694	thing	jacket					
+20261114-175217-333	person	Charles					
+20261114-175217-333	person	Elias					
+20261114-175217-333	person	Arian					
+20261114-175217-333	person	Mark					
+20261114-175217-333	thing	water bottle					
+20261114-175217-333	thing	jacket					
+20261114-175221-632	person	Charles					
+20261114-175221-632	person	Elias					
+20261114-175221-632	person	Arian					
+20261114-175221-632	person	Mark					
+20261114-175221-632	thing	water bottle					
+20261114-175221-632	thing	jacket					
+20261114-175240-951	person	Charles					
+20261114-175240-951	person	Elias					
+20261114-175240-951	person	Arian					
+20261114-175240-951	person	Mark					
+20261114-175240-951	thing	water bottle					
+20261114-175240-951	thing	jacket					
+20261114-175248-579	person	Charles					
+20261114-175248-579	person	Elias					
+20261114-175248-579	person	Arian					
+20261114-175248-579	person	Mark					
+20261114-175248-579	thing	water bottle					
+20261114-175248-579	thing	jacket					
+20261114-175252-539	person	Charles					
+20261114-175252-539	person	Elias					
+20261114-175252-539	person	Arian					
+20261114-175252-539	person	Mark					
+20261114-175252-539	thing	water bottle					
+20261114-175252-539	thing	jacket					
+20261114-175256-633	person	Charles					
+20261114-175256-633	person	Elias					
+20261114-175256-633	person	Arian					
+20261114-175256-633	person	Mark					
+20261114-175256-633	thing	water bottle					
+20261114-175256-633	thing	jacket					
+20261114-175810-968	person	Charles					
+20261114-175810-968	person	Elias					
+20261114-175810-968	person	Arian					
+20261114-175810-968	person	Mark					
+20261114-175810-968	thing	water bottle					
+20261114-175810-968	thing	jacket					
+20261114-175902-416	person	Charles					
+20261114-175902-416	person	Elias					
+20261114-175902-416	person	Arian					
+20261114-175902-416	person	Mark					
+20261114-175902-416	thing	water bottle					
+20261114-175902-416	thing	jacket					
+20261114-175926-714	person	Charles					
+20261114-175926-714	person	Elias					
+20261114-175926-714	person	Arian					
+20261114-175926-714	person	Mark					
+20261114-175926-714	thing	water bottle					
+20261114-175926-714	thing	jacket					
+20261114-175929-641	person	Charles					
+20261114-175929-641	person	Elias					
+20261114-175929-641	person	Arian					
+20261114-175929-641	person	Mark					
+20261114-175929-641	thing	water bottle					
+20261114-175929-641	thing	jacket					
+20261114-175937-425	person	Charles					
+20261114-175937-425	person	Elias					
+20261114-175937-425	person	Arian					
+20261114-175937-425	person	Mark					
+20261114-175937-425	thing	water bottle					
+20261114-175937-425	thing	jacket					
+20261114-175942-547	person	Charles					
+20261114-175942-547	person	Elias					
+20261114-175942-547	person	Arian					
+20261114-175942-547	person	Mark					
+20261114-175942-547	thing	water bottle					
+20261114-175942-547	thing	jacket					
+20261114-180029-037	person	Charles					
+20261114-180029-037	person	Elias					
+20261114-180029-037	person	Arian					
+20261114-180029-037	person	Mark					
+20261114-180029-037	thing	water bottle					
+20261114-180029-037	thing	jacket					
+20261114-180048-739	person	Charles					
+20261114-180048-739	person	Elias					
+20261114-180048-739	person	Arian					
+20261114-180048-739	person	Mark					
+20261114-180048-739	thing	water bottle					
+20261114-180048-739	thing	jacket					
+20261114-180050-620	person	Charles				0.01	0.310,0.230,0.264,0.198
+20261114-180050-620	person	Elias	sure	0.72	sure	0.82	0.310,0.230,0.264,0.198
+20261114-180050-620	person	Arian				-0.03	0.310,0.230,0.264,0.198
+20261114-180050-620	person	Mark				0.00	0.310,0.230,0.264,0.198
+20261114-180050-620	thing	water bottle					
+20261114-180050-620	thing	jacket					
+20261114-180052-383	person	Charles	sure	0.76	sure	0.63	0.085,0.115,0.672,0.504
+20261114-180052-383	person	Elias				0.13	0.085,0.115,0.672,0.504
+20261114-180052-383	person	Arian				0.00	0.085,0.115,0.672,0.504
+20261114-180052-383	person	Mark				0.05	0.085,0.115,0.672,0.504
+20261114-180052-383	thing	water bottle					
+20261114-180052-383	thing	jacket					
+20261114-180055-016	person	Charles	sure	0.82	sure	0.59	0.374,0.230,0.388,0.291
+20261114-180055-016	person	Elias				0.10	0.374,0.230,0.388,0.291
+20261114-180055-016	person	Arian				0.02	0.374,0.230,0.388,0.291
+20261114-180055-016	person	Mark				0.04	0.374,0.230,0.388,0.291
+20261114-180055-016	thing	water bottle					
+20261114-180055-016	thing	jacket					
+20261114-180056-682	person	Charles	sure	0.88	sure	0.62	0.188,0.248,0.459,0.344
+20261114-180056-682	person	Elias				0.11	0.188,0.248,0.459,0.344
+20261114-180056-682	person	Arian				0.01	0.188,0.248,0.459,0.344
+20261114-180056-682	person	Mark				0.06	0.188,0.248,0.459,0.344
+20261114-180056-682	thing	water bottle					
+20261114-180056-682	thing	jacket					
+20261114-180101-865	person	Charles	sure	0.75	sure	0.59	0.359,0.254,0.409,0.307
+20261114-180101-865	person	Elias				0.19	0.359,0.254,0.409,0.307
+20261114-180101-865	person	Arian				-0.01	0.359,0.254,0.409,0.307
+20261114-180101-865	person	Mark				0.13	0.359,0.254,0.409,0.307
+20261114-180101-865	thing	water bottle					
+20261114-180101-865	thing	jacket					
+20261114-180106-910	person	Charles				-0.03	0.340,0.282,0.199,0.149
+20261114-180106-910	person	Elias				-0.06	0.340,0.282,0.199,0.149
+20261114-180106-910	person	Arian	sure	0.80	sure	0.49	0.340,0.282,0.199,0.149
+20261114-180106-910	person	Mark				-0.04	0.340,0.282,0.199,0.149
+20261114-180106-910	thing	water bottle					
+20261114-180106-910	thing	jacket					
+20261114-180109-509 (taught from)	person	Charles				0.07	0.261,0.327,0.226,0.169
+20261114-180109-509 (taught from)	person	Elias	sure	0.99	sure	1.00	0.261,0.327,0.226,0.169
+20261114-180109-509 (taught from)	person	Arian	sure	0.82	sure	0.49	0.576,0.335,0.158,0.119
+20261114-180109-509 (taught from)	person	Mark				0.02	0.261,0.327,0.226,0.169
+20261114-180109-509 (taught from)	thing	water bottle					
+20261114-180109-509 (taught from)	thing	jacket					
+20261114-180558-186	person	Charles					
+20261114-180558-186	person	Elias					
+20261114-180558-186	person	Arian					
+20261114-180558-186	person	Mark					
+20261114-180558-186	thing	water bottle					
+20261114-180558-186	thing	jacket					
+20261114-180602-151	person	Charles				0.07	0.410,0.065,0.389,0.292
+20261114-180602-151	person	Elias	sure	0.56	sure	0.51	0.410,0.065,0.389,0.292
+20261114-180602-151	person	Arian				0.06	0.410,0.065,0.389,0.292
+20261114-180602-151	person	Mark				0.05	0.410,0.065,0.389,0.292
+20261114-180602-151	thing	water bottle					
+20261114-180602-151	thing	jacket					
+20261114-182504-583	person	Charles					
+20261114-182504-583	person	Elias					
+20261114-182504-583	person	Arian					
+20261114-182504-583	person	Mark					
+20261114-182504-583	thing	water bottle					
+20261114-182504-583	thing	jacket					
+20261114-182508-138	person	Charles					
+20261114-182508-138	person	Elias					
+20261114-182508-138	person	Arian					
+20261114-182508-138	person	Mark					
+20261114-182508-138	thing	water bottle					
+20261114-182508-138	thing	jacket					
+20261114-182514-132	person	Charles					
+20261114-182514-132	person	Elias					
+20261114-182514-132	person	Arian					
+20261114-182514-132	person	Mark					
+20261114-182514-132	thing	water bottle					
+20261114-182514-132	thing	jacket					
+20261114-184509-692	person	Charles				0.01	0.459,0.330,0.159,0.119
+20261114-184509-692	person	Elias				0.10	0.459,0.330,0.159,0.119
+20261114-184509-692	person	Arian				0.04	0.459,0.330,0.159,0.119
+20261114-184509-692	person	Mark				0.12	0.459,0.330,0.159,0.119
+20261114-184509-692	thing	water bottle					
+20261114-184509-692	thing	jacket					
+20261114-184516-531	person	Charles				0.05	0.435,0.252,0.215,0.161
+20261114-184516-531	person	Elias				0.01	0.435,0.252,0.215,0.161
+20261114-184516-531	person	Arian				0.13	0.435,0.252,0.215,0.161
+20261114-184516-531	person	Mark				0.10	0.435,0.252,0.215,0.161
+20261114-184516-531	thing	water bottle					
+20261114-184516-531	thing	jacket					
+20261114-184527-497	person	Charles					
+20261114-184527-497	person	Elias					
+20261114-184527-497	person	Arian					
+20261114-184527-497	person	Mark					
+20261114-184527-497	thing	water bottle					
+20261114-184527-497	thing	jacket					
+20261114-184532-156	person	Charles					
+20261114-184532-156	person	Elias					
+20261114-184532-156	person	Arian					
+20261114-184532-156	person	Mark					
+20261114-184532-156	thing	water bottle					
+20261114-184532-156	thing	jacket					
+20261114-184535-685	person	Charles					
+20261114-184535-685	person	Elias					
+20261114-184535-685	person	Arian					
+20261114-184535-685	person	Mark					
+20261114-184535-685	thing	water bottle					
+20261114-184535-685	thing	jacket					
+20261114-184539-868	person	Charles				0.12	0.376,0.421,0.141,0.106
+20261114-184539-868	person	Elias				0.01	0.376,0.421,0.141,0.106
+20261114-184539-868	person	Arian				0.01	0.376,0.421,0.141,0.106
+20261114-184539-868	person	Mark	sure	0.70	sure	0.40	0.376,0.421,0.141,0.106
+20261114-184539-868	thing	water bottle					
+20261114-184539-868	thing	jacket					
+20261114-184542-773	person	Charles				-0.04	0.362,0.519,0.179,0.134
+20261114-184542-773	person	Elias				-0.01	0.362,0.519,0.179,0.134
+20261114-184542-773	person	Arian	sure	0.62	sure	0.70	0.362,0.519,0.179,0.134
+20261114-184542-773	person	Mark				0.04	0.208,0.214,0.054,0.041
+20261114-184542-773	thing	water bottle					
+20261114-184542-773	thing	jacket					
+20261114-184545-144	person	Charles			sure	0.67	0.344,0.397,0.135,0.102
+20261114-184545-144	person	Elias				0.17	0.344,0.397,0.135,0.102
+20261114-184545-144	person	Arian				0.02	0.344,0.397,0.135,0.102
+20261114-184545-144	person	Mark				0.12	0.344,0.397,0.135,0.102
+20261114-184545-144	thing	water bottle					
+20261114-184545-144	thing	jacket					
+20261114-184555-542	person	Charles					
+20261114-184555-542	person	Elias					
+20261114-184555-542	person	Arian					
+20261114-184555-542	person	Mark					
+20261114-184555-542	thing	water bottle					
+20261114-184555-542	thing	jacket					
+20261114-184652-250	person	Charles					
+20261114-184652-250	person	Elias					
+20261114-184652-250	person	Arian					
+20261114-184652-250	person	Mark					
+20261114-184652-250	thing	water bottle					
+20261114-184652-250	thing	jacket					
+20261114-185442-842	person	Charles					
+20261114-185442-842	person	Elias					
+20261114-185442-842	person	Arian					
+20261114-185442-842	person	Mark					
+20261114-185442-842	thing	water bottle					
+20261114-185442-842	thing	jacket					
+20261114-185501-065	person	Charles				0.07	0.323,0.128,0.215,0.161
+20261114-185501-065	person	Elias	sure	0.97	sure	0.59	0.323,0.128,0.215,0.161
+20261114-185501-065	person	Arian				0.08	0.323,0.128,0.215,0.161
+20261114-185501-065	person	Mark				0.04	0.323,0.128,0.215,0.161
+20261114-185501-065	thing	water bottle					
+20261114-185501-065	thing	jacket					
+20261114-185514-995	person	Charles					
+20261114-185514-995	person	Elias					
+20261114-185514-995	person	Arian					
+20261114-185514-995	person	Mark					
+20261114-185514-995	thing	water bottle					
+20261114-185514-995	thing	jacket					
+20261114-192811-983	person	Charles					
+20261114-192811-983	person	Elias					
+20261114-192811-983	person	Arian					
+20261114-192811-983	person	Mark					
+20261114-192811-983	thing	water bottle					
+20261114-192811-983	thing	jacket					
+20261114-193255-077	person	Charles					
+20261114-193255-077	person	Elias					
+20261114-193255-077	person	Arian					
+20261114-193255-077	person	Mark					
+20261114-193255-077	thing	water bottle					
+20261114-193255-077	thing	jacket					
+20261114-193259-903	person	Charles					
+20261114-193259-903	person	Elias					
+20261114-193259-903	person	Arian					
+20261114-193259-903	person	Mark					
+20261114-193259-903	thing	water bottle					
+20261114-193259-903	thing	jacket					
+20261114-193303-231	person	Charles				-0.04	0.164,0.371,0.433,0.325
+20261114-193303-231	person	Elias	sure	0.70	sure	0.48	0.164,0.371,0.433,0.325
+20261114-193303-231	person	Arian				0.06	0.164,0.371,0.433,0.325
+20261114-193303-231	person	Mark				0.06	0.164,0.371,0.433,0.325
+20261114-193303-231	thing	water bottle					
+20261114-193303-231	thing	jacket					
+20261114-193307-742	person	Charles				-0.03	0.469,0.367,0.124,0.093
+20261114-193307-742	person	Elias				-0.07	0.469,0.367,0.124,0.093
+20261114-193307-742	person	Arian	sure	0.69	sure	0.44	0.469,0.367,0.124,0.093
+20261114-193307-742	person	Mark				-0.04	0.469,0.367,0.124,0.093
+20261114-193307-742	thing	water bottle					
+20261114-193307-742	thing	jacket					
+20261114-193312-295	person	Charles	sure	0.79			
+20261114-193312-295	person	Elias					
+20261114-193312-295	person	Arian					
+20261114-193312-295	person	Mark					
+20261114-193312-295	thing	water bottle					
+20261114-193312-295	thing	jacket					
+20261114-193314-892	person	Charles				-0.07	0.202,0.007,0.171,0.128
+20261114-193314-892	person	Elias				-0.06	0.202,0.007,0.171,0.128
+20261114-193314-892	person	Arian	sure	0.70	sure	0.54	0.202,0.007,0.171,0.128
+20261114-193314-892	person	Mark				0.00	0.202,0.007,0.171,0.128
+20261114-193314-892	thing	water bottle					
+20261114-193314-892	thing	jacket					
+20261114-193347-768	person	Charles				-0.01	0.275,0.201,0.214,0.161
+20261114-193347-768	person	Elias				-0.01	0.275,0.201,0.214,0.161
+20261114-193347-768	person	Arian				0.06	0.275,0.201,0.214,0.161
+20261114-193347-768	person	Mark				0.06	0.275,0.201,0.214,0.161
+20261114-193347-768	thing	water bottle					
+20261114-193347-768	thing	jacket					
+20261114-193403-231	person	Charles				0.03	0.411,0.375,0.161,0.120
+20261114-193403-231	person	Elias				-0.01	0.411,0.375,0.161,0.120
+20261114-193403-231	person	Arian				0.07	0.411,0.375,0.161,0.120
+20261114-193403-231	person	Mark				0.10	0.411,0.375,0.161,0.120
+20261114-193403-231	thing	water bottle					
+20261114-193403-231	thing	jacket					
+20261114-193407-207	person	Charles				-0.02	0.437,0.416,0.158,0.118
+20261114-193407-207	person	Elias				0.01	0.437,0.416,0.158,0.118
+20261114-193407-207	person	Arian				0.09	0.437,0.416,0.158,0.118
+20261114-193407-207	person	Mark				0.04	0.437,0.416,0.158,0.118
+20261114-193407-207	thing	water bottle					
+20261114-193407-207	thing	jacket					
+20261114-193541-888	person	Charles					
+20261114-193541-888	person	Elias					
+20261114-193541-888	person	Arian					
+20261114-193541-888	person	Mark					
+20261114-193541-888	thing	water bottle					
+20261114-193541-888	thing	jacket					
+20261114-193638-590	person	Charles	sure	0.81	sure	0.67	0.371,0.260,0.275,0.206
+20261114-193638-590	person	Elias				0.10	0.371,0.260,0.275,0.206
+20261114-193638-590	person	Arian				0.01	0.371,0.260,0.275,0.206
+20261114-193638-590	person	Mark				0.10	0.371,0.260,0.275,0.206
+20261114-193638-590	thing	water bottle					
+20261114-193638-590	thing	jacket					
+20261114-193644-806	person	Charles				0.01	0.274,0.286,0.415,0.311
+20261114-193644-806	person	Elias	sure	0.75	sure	0.75	0.274,0.286,0.415,0.311
+20261114-193644-806	person	Arian				0.07	0.274,0.286,0.415,0.311
+20261114-193644-806	person	Mark				-0.01	0.274,0.286,0.415,0.311
+20261114-193644-806	thing	water bottle					
+20261114-193644-806	thing	jacket					
+20261114-193647-607	person	Charles				-0.01	0.283,0.309,0.420,0.315
+20261114-193647-607	person	Elias	sure	0.75	sure	0.73	0.283,0.309,0.420,0.315
+20261114-193647-607	person	Arian				0.05	0.283,0.309,0.420,0.315
+20261114-193647-607	person	Mark				-0.02	0.283,0.309,0.420,0.315
+20261114-193647-607	thing	water bottle					
+20261114-193647-607	thing	jacket					
+20261114-193655-914	person	Charles				-0.00	0.336,0.345,0.353,0.265
+20261114-193655-914	person	Elias	sure	0.94	sure	0.76	0.336,0.345,0.353,0.265
+20261114-193655-914	person	Arian				0.03	0.336,0.345,0.353,0.265
+20261114-193655-914	person	Mark				-0.02	0.336,0.345,0.353,0.265
+20261114-193655-914	thing	water bottle					
+20261114-193655-914	thing	jacket					
+20261114-193723-420	person	Charles					
+20261114-193723-420	person	Elias					
+20261114-193723-420	person	Arian					
+20261114-193723-420	person	Mark					
+20261114-193723-420	thing	water bottle					
+20261114-193723-420	thing	jacket	unsure	0.62	sure	0.83	0.000,0.221,1.000,0.383
+20261114-193726-091 (taught from)	person	Charles					
+20261114-193726-091 (taught from)	person	Elias					
+20261114-193726-091 (taught from)	person	Arian					
+20261114-193726-091 (taught from)	person	Mark					
+20261114-193726-091 (taught from)	thing	water bottle					
+20261114-193726-091 (taught from)	thing	jacket	unsure	0.68	sure	1.00	0.000,0.192,1.000,0.530
+20261114-193735-603	person	Charles					
+20261114-193735-603	person	Elias					
+20261114-193735-603	person	Arian					
+20261114-193735-603	person	Mark					
+20261114-193735-603	thing	water bottle					
+20261114-193735-603	thing	jacket	unsure	0.67	sure	0.86	0.166,0.243,0.682,0.471
+20261114-193738-690	person	Charles					
+20261114-193738-690	person	Elias					
+20261114-193738-690	person	Arian					
+20261114-193738-690	person	Mark					
+20261114-193738-690	thing	water bottle					
+20261114-193738-690	thing	jacket	unsure	0.67	sure	0.85	0.123,0.222,0.720,0.502
+20261114-193743-881	person	Charles				-0.03	0.463,-0.003,0.066,0.049
+20261114-193743-881	person	Elias				-0.04	0.463,-0.003,0.066,0.049
+20261114-193743-881	person	Arian				0.13	0.463,-0.003,0.066,0.049
+20261114-193743-881	person	Mark				-0.12	0.463,-0.003,0.066,0.049
+20261114-193743-881	thing	water bottle					
+20261114-193743-881	thing	jacket	unsure	0.67	sure	0.84	0.186,0.321,0.589,0.369

@@ -1,0 +1,320 @@
+{
+ "date": "2026-11-14",
+ "judge": "gpt-6.1-sol, text only (the only judge reported; earlier gpt-6.1-terra grades are superseded)",
+ "labeller": "gpt-6.1-sol with photo and crowd answers",
+ "source": "judge_local.py -> eval/judge_sol.log; same grades in workspace.eyes.eval_summary",
+ "vizwiz": {
+  "n": 500,
+  "configs": {
+   "A_app_768": {
+    "right": 218,
+    "partly": 116,
+    "wrong": 166,
+    "answerable_right": 192,
+    "answerable_declined": 9,
+    "unanswerable_declined": 26,
+    "unanswerable_invented": 70,
+    "mean_words": 3.1,
+    "vs_A": [
+     0,
+     0,
+     1.0
+    ]
+   },
+   "B_app_1024": {
+    "right": 219,
+    "partly": 127,
+    "wrong": 154,
+    "answerable_right": 185,
+    "answerable_declined": 12,
+    "unanswerable_declined": 34,
+    "unanswerable_invented": 60,
+    "mean_words": 3.3,
+    "vs_A": [
+     38,
+     28,
+     0.268
+    ]
+   },
+   "C_label_768": {
+    "right": 261,
+    "partly": 89,
+    "wrong": 150,
+    "answerable_right": 164,
+    "answerable_declined": 80,
+    "unanswerable_declined": 97,
+    "unanswerable_invented": 15,
+    "mean_words": 2.5,
+    "vs_A": [
+     98,
+     76,
+     0.111
+    ]
+   },
+   "D_plain_768": {
+    "right": 226,
+    "partly": 100,
+    "wrong": 174,
+    "answerable_right": 189,
+    "answerable_declined": 10,
+    "unanswerable_declined": 37,
+    "unanswerable_invented": 67,
+    "mean_words": 3.2,
+    "vs_A": [
+     49,
+     53,
+     0.767
+    ]
+   },
+   "E_app_q8": {
+    "right": 216,
+    "partly": 117,
+    "wrong": 167,
+    "answerable_right": 185,
+    "answerable_declined": 8,
+    "unanswerable_declined": 31,
+    "unanswerable_invented": 66,
+    "mean_words": 3.2,
+    "vs_A": [
+     29,
+     35,
+     0.532
+    ]
+   },
+   "F_app_q8_f16": {
+    "right": 216,
+    "partly": 121,
+    "wrong": 163,
+    "answerable_right": 186,
+    "answerable_declined": 8,
+    "unanswerable_declined": 30,
+    "unanswerable_invented": 63,
+    "mean_words": 3.2,
+    "vs_A": [
+     31,
+     33,
+     0.901
+    ]
+   },
+   "G_ft_v1_plain": {
+    "right": 326,
+    "partly": 73,
+    "wrong": 101,
+    "answerable_right": 221,
+    "answerable_declined": 71,
+    "unanswerable_declined": 105,
+    "unanswerable_invented": 10,
+    "mean_words": 4.9,
+    "vs_A": [
+     150,
+     50,
+     0.0
+    ]
+   },
+   "H_ft_v1_app": {
+    "right": 312,
+    "partly": 79,
+    "wrong": 109,
+    "answerable_right": 213,
+    "answerable_declined": 65,
+    "unanswerable_declined": 99,
+    "unanswerable_invented": 11,
+    "mean_words": 4.5,
+    "vs_A": [
+     142,
+     53,
+     0.0
+    ]
+   },
+   "G_ft_v2_plain": {
+    "right": 332,
+    "partly": 73,
+    "wrong": 95,
+    "answerable_right": 229,
+    "answerable_declined": 37,
+    "unanswerable_declined": 103,
+    "unanswerable_invented": 9,
+    "mean_words": 5.7,
+    "vs_A": [
+     152,
+     43,
+     0.0
+    ]
+   },
+   "H_ft_v2_app": {
+    "right": 312,
+    "partly": 86,
+    "wrong": 102,
+    "answerable_right": 222,
+    "answerable_declined": 30,
+    "unanswerable_declined": 90,
+    "unanswerable_invented": 16,
+    "mean_words": 4.1,
+    "vs_A": [
+     136,
+     44,
+     0.0
+    ]
+   }
+  },
+  "answerable_or_partly": 385,
+  "not_answerable": 115
+ },
+ "phone": {
+  "n": 42,
+  "configs": {
+   "A_app_768": {
+    "right": 27,
+    "partly": 9,
+    "wrong": 6,
+    "answerable_right": 27,
+    "answerable_declined": 0,
+    "unanswerable_declined": 0,
+    "unanswerable_invented": 1,
+    "mean_words": 2.1,
+    "vs_A": [
+     0,
+     0,
+     1.0
+    ]
+   },
+   "B_app_1024": {
+    "right": 27,
+    "partly": 10,
+    "wrong": 5,
+    "answerable_right": 27,
+    "answerable_declined": 0,
+    "unanswerable_declined": 0,
+    "unanswerable_invented": 1,
+    "mean_words": 2.4,
+    "vs_A": [
+     1,
+     0,
+     1.0
+    ]
+   },
+   "C_label_768": {
+    "right": 25,
+    "partly": 4,
+    "wrong": 13,
+    "answerable_right": 23,
+    "answerable_declined": 9,
+    "unanswerable_declined": 2,
+    "unanswerable_invented": 0,
+    "mean_words": 2.2,
+    "vs_A": [
+     3,
+     9,
+     0.146
+    ]
+   },
+   "D_plain_768": {
+    "right": 27,
+    "partly": 6,
+    "wrong": 9,
+    "answerable_right": 27,
+    "answerable_declined": 0,
+    "unanswerable_declined": 0,
+    "unanswerable_invented": 2,
+    "mean_words": 3.0,
+    "vs_A": [
+     4,
+     6,
+     0.754
+    ]
+   },
+   "E_app_q8": {
+    "right": 27,
+    "partly": 8,
+    "wrong": 7,
+    "answerable_right": 27,
+    "answerable_declined": 0,
+    "unanswerable_declined": 0,
+    "unanswerable_invented": 2,
+    "mean_words": 2.3,
+    "vs_A": [
+     0,
+     1,
+     1.0
+    ]
+   },
+   "F_app_q8_f16": {
+    "right": 27,
+    "partly": 8,
+    "wrong": 7,
+    "answerable_right": 27,
+    "answerable_declined": 0,
+    "unanswerable_declined": 0,
+    "unanswerable_invented": 2,
+    "mean_words": 2.3,
+    "vs_A": [
+     0,
+     1,
+     1.0
+    ]
+   },
+   "G_ft_v1_plain": {
+    "right": 29,
+    "partly": 9,
+    "wrong": 4,
+    "answerable_right": 27,
+    "answerable_declined": 4,
+    "unanswerable_declined": 2,
+    "unanswerable_invented": 0,
+    "mean_words": 4.5,
+    "vs_A": [
+     7,
+     3,
+     0.344
+    ]
+   },
+   "H_ft_v1_app": {
+    "right": 28,
+    "partly": 9,
+    "wrong": 5,
+    "answerable_right": 26,
+    "answerable_declined": 3,
+    "unanswerable_declined": 2,
+    "unanswerable_invented": 0,
+    "mean_words": 4.3,
+    "vs_A": [
+     7,
+     4,
+     0.549
+    ]
+   },
+   "G_ft_v2_plain": {
+    "right": 28,
+    "partly": 9,
+    "wrong": 5,
+    "answerable_right": 26,
+    "answerable_declined": 2,
+    "unanswerable_declined": 2,
+    "unanswerable_invented": 0,
+    "mean_words": 4.7,
+    "vs_A": [
+     6,
+     3,
+     0.508
+    ]
+   },
+   "H_ft_v2_app": {
+    "right": 30,
+    "partly": 8,
+    "wrong": 4,
+    "answerable_right": 28,
+    "answerable_declined": 2,
+    "unanswerable_declined": 2,
+    "unanswerable_invented": 0,
+    "mean_words": 3.9,
+    "vs_A": [
+     8,
+     4,
+     0.388
+    ]
+   }
+  },
+  "answerable_or_partly": 40,
+  "not_answerable": 2
+ }
+}

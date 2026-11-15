@@ -1,0 +1,71 @@
+[phone_145345-523.jpg] scene     Person ahead. Person to your right. Chair with blanket left. Person seated beside it, facing left.
+[phone_145351-884.jpg] scene     Person ahead. Table left, chair right.
+[phone_145524-934.jpg] scene     Person ahead. Table left, chair ahead.
+[phone_145540-877.jpg] scene     Person ahead. Blanket on chair, person seated beside it. Window left.
+[phone_145545-528.jpg] scene     4 people in view. Laptop and drink cans on table.
+[phone_145555-521.jpg] scene     3 people in view. Laptop and drink cans on table. Phone beside laptop.
+[phone_145702-901.jpg] scene     Person to your left. Person to your right. Laptop and drink can on table. Two people seated opposite.
+[phone_150658-240.jpg] scene     Person to your right. Ball and keys on table. Phone right, can left.
+[phone_150839-349.jpg] scene     Person to your right. Person to your left. Blanket-covered chair right, laptop on table left. Someone seated beyond.
+[phone_152201-079.jpg] scene     Person to your right. Person to your left. Laptop and cable left, cans center. Phone right.
+[phone_153845-641.jpg] scene     Too blurry, hold phone still.
+[phone_154719-938.jpg] scene     5 people in view. Tables and chairs below. Glass railings across atrium, skylight above.
+[phone_161411-194.jpg] ONE THING Plastic water bottle.
+[phone_162627-481.jpg] scene     Too dark, turn on light.
+[phone_163804-795.jpg] ONE THING Laptop computer.
+[phone_164103-480.jpg] ONE THING Red Bull Zero energy drink.
+[phone_164602-924.jpg] ONE THING Laptop computer.
+[phone_164624-260.jpg] scene     Person ahead. Laptop on table, another below. Person seated behind it.
+[phone_170717-029.jpg] scene     Open laptop left, water bottle right.
+[phone_172151-385.jpg] scene     Person ahead. Open laptop on table. Another laptop behind it.
+[phone_172928-776.jpg] scene     Person ahead. Laptop left, water bottle and metal flask right.
+[phone_173109-719.jpg] scene     2 people to your left. Gray sleep mask on table, metal bottle behind it.
+[phone_173128-846.jpg] scene     Person to your right. Person to your left. Two people close ahead, one left and one right.
+[phone_173540-851.jpg] scene     Person to your right. Person to your left. Eye mask on table, water bottle behind it. Laptop left.
+[phone_173815-330.jpg] scene     Person to your right. Person to your left. Phone and laptop on table, glasses and bottle beside them.
+[phone_174203-383.jpg] scene     Too dark, turn on light.
+[phone_180050-620.jpg] scene     Person to your left. Wood-paneled wall left, elevator doors right.
+[phone_180558-186.jpg] scene     4 people in view. Counter left, doorway right.
+[phone_180602-151.jpg] scene     Person ahead. Person to your right. Person close left. Counter and another person behind right.
+[phone_184545-144.jpg] scene     Person ahead. Round table right. Person seated beside it.
+[000000042528.jpg] scene     Person to your right. Stool with feet on left.
+[000000046031.jpg] scene     Mouse right, laptop center. Mouse pad and keyboard left.
+[000000055022.jpg] ONE THING Pink bicycle.
+[000000057597.jpg] scene     17 people in view. Soccer ball on turf. Players running right, referee behind them.
+[000000058393.jpg] scene     Person to your right. Person ahead. Bench ahead. Two people sit beyond it, facing sea.
+[000000093261.jpg] scene     Person to your left. Person to your right. Sand, towel and kite ahead. Someone kneels left.
+[000000099024.jpg] scene     Person to your left. Sticks lower left, scissors right.
+[000000114871.jpg] scene     Banana across front of plate, cheese behind it.
+[000000129054.jpg] scene     Grassy field, zebras ahead, shrubs and hills beyond.
+[000000139077.jpg] scene     Person to your left. Cords on floor right. Person holding controller left.
+[000000170955.jpg] scene     Person to your right. Steps and large urn left. Ornate building behind.
+[000000171788.jpg] scene     Person ahead. Tennis racket and ball on clay court.
+[000000177893.jpg] scene     Road ahead, bus across it. Lamp post right.
+[000000192607.jpg] scene     Person to your right. Muddy pickup truck left, beside dirt mound.
+[000000208363.jpg] scene     15 people in view. Open pizza boxes on tables. People seated around them, eating.
+[000000229747.jpg] ONE THING Passenger jet.
+[000000232692.jpg] scene     4 people in view. Water ramp ahead. Water skier behind it, swimmers farther right.
+[000000274460.jpg] scene     15 people in view. Surfboards on sand, people sitting and standing behind them.
+[000000284991.jpg] scene     Person ahead. Red bottle held by person right. Window behind them.
+[000000292060.jpg] scene     Stove left, sink ahead, refrigerator right. Ceiling fan overhead.
+[000000296657.jpg] scene     5 people in view. Grass underfoot. Trees behind, people jumping among them.
+[000000343803.jpg] scene     Person ahead. Brick patio ahead. Person throwing disc.
+[000000353051.jpg] scene     Person to your left. Horse grazing on right. Person bending left.
+[000000375493.jpg] scene     Person ahead. Fire hydrant on grass, right. Person beside it, cats left.
+[000000397351.jpg] scene     Person to your left. Carrots piled across foreground. Truck behind them.
+[000000405306.jpg] scene     Person to your right. Cat lying on bed, with its paw close right.
+[000000430377.jpg] scene     Person ahead. Person to your left. Skis and poles on snow. Chairlift behind, another skier left.
+[000000443303.jpg] ONE THING Orange and white cat.
+[000000469828.jpg] scene     Person to your left. Snowy slope, red course tape overhead. Trees behind.
+[000000504589.jpg] scene     3 people in view. Sandy beach. Person left reaching up, another right.
+[000000513041.jpg] scene     Person to your left. Person to your right. Wine glasses flank pizza on table. Someone points at it.
+[000000520659.jpg] scene     6 people in view. Surfboards on rack, canopy behind them. People beyond tent.
+[000000529122.jpg] scene     3 people in view. Bakery display cases ahead. Counter and cashier behind them.
+[000000532481.jpg] scene     Person ahead. Waves below. Kiteboarder airborne above, houses along shore behind.
+[000000536343.jpg] scene     Bathtub ahead, wooden panels on back wall.
+[000000544605.jpg] scene     Pole with street signs and no-truck sign. Traffic light right.
+[000000545100.jpg] scene     3 people in view. Railing ahead. Person photographing right, basketball court below, street beyond.
+[000000550471.jpg] scene     Orange half on plate, fork behind it.
+[000000554579.jpg] scene     4 people in view. Dog on carpet. Three people behind it, Christmas tree left.
+[000000559348.jpg] scene     5 people in view. Base at lower right. Player left, batter.
+70 descriptions: mean 10.7 words, max 18; the close-up check took a median 29 ms and copied 8 MB of state

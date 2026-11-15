@@ -1,0 +1,71 @@
+[phone_145345-523.jpg] scene     Person ahead. Person to your right. Window left, chair right.
+[phone_145351-884.jpg] scene     Person ahead. Wooden table, papers, chair.
+[phone_145524-934.jpg] scene     Person ahead. Red chair, window left, table far left.
+[phone_145540-877.jpg] scene     Person ahead. Window left, chair right.
+[phone_145545-528.jpg] scene     4 people in view. Laptops, Red Bull cans, phone, notebook.
+[phone_145555-521.jpg] scene     3 people in view. Laptops, phones, Red Bull cans, towel.
+[phone_145702-901.jpg] scene     Person to your left. Person to your right. Laptops, Red Bull cans, soda can, phone, markers.
+[phone_150658-240.jpg] scene     Person to your right. Red Bull can, marker, phone, blue ball, red keychain.
+[phone_150839-349.jpg] scene     Person to your right. Person to your left. Laptop on table, blanket beside you.
+[phone_152201-079.jpg] scene     Person to your right. Person to your left. Laptop, soda cans, phone, marker on table.
+[phone_153845-641.jpg] scene     Can't tell, image too blurry.
+[phone_154719-938.jpg] scene     5 people in view. Wood-paneled atrium, glass railings, ceiling lights.
+[phone_161411-194.jpg] ONE THING Plastic water bottle.
+[phone_162627-481.jpg] scene     Too dark to tell.
+[phone_163804-795.jpg] ONE THING Apple MacBook Pro laptop.
+[phone_164103-480.jpg] ONE THING Red Bull Zero energy drink.
+[phone_164602-924.jpg] ONE THING Apple MacBook Pro laptop.
+[phone_164624-260.jpg] scene     Person ahead. Laptop on table, ahead.
+[phone_170717-029.jpg] scene     Laptop, water bottle, white desk.
+[phone_172151-385.jpg] scene     Person ahead. Laptop, keyboard, white table.
+[phone_172928-776.jpg] scene     Person ahead. Laptop, water bottle, metal flask, headphones.
+[phone_173109-719.jpg] scene     2 people to your left. Gray sleep mask, metal water bottle, laptop.
+[phone_173128-846.jpg] scene     Person to your right. Person to your left. Two people, one in front of other.
+[phone_173540-851.jpg] scene     Person to your right. Person to your left. Water bottle, gray eye mask, laptop.
+[phone_173815-330.jpg] scene     Person to your right. Person to your left. Laptops, phone, water bottle, blue glasses.
+[phone_174203-383.jpg] scene     Too dark to tell.
+[phone_180050-620.jpg] scene     Person to your left. Wooden wall, elevator doors.
+[phone_180558-186.jpg] scene     4 people in view. Countertop and cabinet, left.
+[phone_180602-151.jpg] scene     Person ahead. Person to your right. White cabinet, with slot on top.
+[phone_184545-144.jpg] scene     Person ahead. Round table, blue-and-white plate, chair.
+[000000042528.jpg] scene     Person to your right. Wooden chair, wooden floor, cell phone in hand.
+[000000046031.jpg] scene     Laptop, mouse, keyboard, monitor.
+[000000055022.jpg] scene     2 people to your right. Pink bicycle, with several bicycles behind it.
+[000000057597.jpg] scene     17 people in view. Soccer ball, players, referee, field.
+[000000058393.jpg] scene     Person to your right. Person ahead. White bench, ocean beyond.
+[000000093261.jpg] scene     Person to your left. Person to your right. Kite on towel, sand all around.
+[000000099024.jpg] scene     Person to your left. Tiled floor, kite frame, scissors, colorful sticks.
+[000000114871.jpg] scene     Banana right, cheese slices behind it.
+[000000129054.jpg] scene     Zebras in grassy field.
+[000000139077.jpg] scene     Person to your left. TV, game controller, wooden cabinet, stairs.
+[000000170955.jpg] scene     Person to your right. White building, decorative urn on left.
+[000000171788.jpg] scene     Person ahead. Tennis player with racket, clay court, ball.
+[000000177893.jpg] scene     Red Metro Rapid bus, palm trees behind.
+[000000192607.jpg] scene     Person to your right. Pickup truck, mud-covered, trees behind.
+[000000208363.jpg] scene     15 people in view. Pizza boxes, chairs, people.
+[000000229747.jpg] ONE THING Airplane.
+[000000232692.jpg] scene     4 people in view. Water skier on ramp, splashing water.
+[000000274460.jpg] scene     15 people in view. Surfboards on sand, in front.
+[000000284991.jpg] scene     Person ahead. Red bottle, window with blinds behind.
+[000000292060.jpg] scene     White stove left, sink center, refrigerator right.
+[000000296657.jpg] scene     5 people in view. Grass, trees, bushes.
+[000000343803.jpg] scene     Person ahead. Orange frisbee, brick patio, grassy lawn.
+[000000353051.jpg] scene     Person to your left. Brown horse grazing, green grass, wooden fence.
+[000000375493.jpg] scene     Person ahead. Yellow fire hydrant, tall grass, woman in yellow shirt.
+[000000397351.jpg] scene     Person to your left. Carrots, yellow and red, white truck behind.
+[000000405306.jpg] scene     Person to your right. Cat lying on pink bedding, paw in foreground.
+[000000430377.jpg] scene     Person ahead. Person to your left. Skis and poles, snow-covered slope behind.
+[000000443303.jpg] scene     Orange-and-white cat in open suitcase.
+[000000469828.jpg] scene     Person to your left. Snowy slope, evergreen trees, ski course markers.
+[000000504589.jpg] scene     3 people in view. Frisbee in midair, pine tree behind.
+[000000513041.jpg] scene     Person to your left. Person to your right. Pizza on round board, wine glasses left and right.
+[000000520659.jpg] scene     6 people in view. Surfboards under white tent.
+[000000529122.jpg] scene     3 people in view. Pastry display case, cash register, menu boards.
+[000000532481.jpg] scene     Person ahead. Waves, kiteboarder mid-air, houses behind.
+[000000536343.jpg] scene     Bathtub, sink, wooden panels.
+[000000544605.jpg] scene     Street signs and no-trucks sign on pole.
+[000000545100.jpg] scene     3 people in view. Man in gray suit, basketball court, city buildings.
+[000000550471.jpg] scene     Orange half, microgreens, fork, butter.
+[000000554579.jpg] scene     4 people in view. Dog in front, women behind.
+[000000559348.jpg] scene     5 people in view. Baseball field, batter, catcher, umpire, player.
+70 descriptions: mean 8.9 words, max 17; the close-up check took a median 31 ms and copied 8 MB of state

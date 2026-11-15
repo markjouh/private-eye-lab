@@ -1,0 +1,805 @@
+[
+ {
+  "start": 0.74,
+  "end": 2.74,
+  "text": "Yes, just ahead, beside the nearest chair.",
+  "words": [
+   {
+    "w": "Yes,",
+    "start": 0.74,
+    "end": 1.18
+   },
+   {
+    "w": "just",
+    "start": 1.4,
+    "end": 1.52
+   },
+   {
+    "w": "ahead,",
+    "start": 1.52,
+    "end": 1.78
+   },
+   {
+    "w": "beside",
+    "start": 1.92,
+    "end": 2.1
+   },
+   {
+    "w": "the",
+    "start": 2.1,
+    "end": 2.24
+   },
+   {
+    "w": "nearest",
+    "start": 2.24,
+    "end": 2.44
+   },
+   {
+    "w": "chair.",
+    "start": 2.44,
+    "end": 2.74
+   }
+  ]
+ },
+ {
+  "start": 8.22,
+  "end": 9.76,
+  "text": "Okay, uh, what do you see?",
+  "words": [
+   {
+    "w": "Okay,",
+    "start": 8.22,
+    "end": 8.66
+   },
+   {
+    "w": "uh,",
+    "start": 9.04,
+    "end": 9.14
+   },
+   {
+    "w": "what",
+    "start": 9.28,
+    "end": 9.4
+   },
+   {
+    "w": "do",
+    "start": 9.4,
+    "end": 9.48
+   },
+   {
+    "w": "you",
+    "start": 9.48,
+    "end": 9.54
+   },
+   {
+    "w": "see?",
+    "start": 9.54,
+    "end": 9.76
+   }
+  ]
+ },
+ {
+  "start": 10.42,
+  "end": 13.24,
+  "text": "Two plates of bagels and muffins, metal bottle, and people at tables.",
+  "words": [
+   {
+    "w": "Two",
+    "start": 10.42,
+    "end": 10.8
+   },
+   {
+    "w": "plates",
+    "start": 10.8,
+    "end": 11.02
+   },
+   {
+    "w": "of",
+    "start": 11.02,
+    "end": 11.16
+   },
+   {
+    "w": "bagels",
+    "start": 11.16,
+    "end": 11.42
+   },
+   {
+    "w": "and",
+    "start": 11.42,
+    "end": 11.54
+   },
+   {
+    "w": "muffins,",
+    "start": 11.54,
+    "end": 11.82
+   },
+   {
+    "w": "metal",
+    "start": 11.98,
+    "end": 12.16
+   },
+   {
+    "w": "bottle,",
+    "start": 12.16,
+    "end": 12.4
+   },
+   {
+    "w": "and",
+    "start": 12.54,
+    "end": 12.62
+   },
+   {
+    "w": "people",
+    "start": 12.62,
+    "end": 12.82
+   },
+   {
+    "w": "at",
+    "start": 12.82,
+    "end": 12.96
+   },
+   {
+    "w": "tables.",
+    "start": 12.96,
+    "end": 13.24
+   }
+  ]
+ },
+ {
+  "start": 18.1,
+  "end": 21.24,
+  "text": "So, I'm allergic to poppy seeds. Does this bagel have any seeds?",
+  "words": [
+   {
+    "w": "So,",
+    "start": 18.1,
+    "end": 18.54
+   },
+   {
+    "w": "I'm",
+    "start": 18.88,
+    "end": 19.14
+   },
+   {
+    "w": "allergic",
+    "start": 19.14,
+    "end": 19.32
+   },
+   {
+    "w": "to",
+    "start": 19.32,
+    "end": 19.5
+   },
+   {
+    "w": "poppy",
+    "start": 19.5,
+    "end": 19.72
+   },
+   {
+    "w": "seeds.",
+    "start": 19.72,
+    "end": 20.02
+   },
+   {
+    "w": "Does",
+    "start": 20.22,
+    "end": 20.32
+   },
+   {
+    "w": "this",
+    "start": 20.32,
+    "end": 20.48
+   },
+   {
+    "w": "bagel",
+    "start": 20.48,
+    "end": 20.72
+   },
+   {
+    "w": "have",
+    "start": 20.72,
+    "end": 20.86
+   },
+   {
+    "w": "any",
+    "start": 20.86,
+    "end": 20.98
+   },
+   {
+    "w": "seeds?",
+    "start": 20.98,
+    "end": 21.24
+   }
+  ]
+ },
+ {
+  "start": 21.84,
+  "end": 22.98,
+  "text": "Yes, poppy seeds.",
+  "words": [
+   {
+    "w": "Yes,",
+    "start": 21.84,
+    "end": 22.28
+   },
+   {
+    "w": "poppy",
+    "start": 22.46,
+    "end": 22.7
+   },
+   {
+    "w": "seeds.",
+    "start": 22.7,
+    "end": 22.98
+   }
+  ]
+ },
+ {
+  "start": 24.18,
+  "end": 25.44,
+  "text": "Alright, off with that.",
+  "words": [
+   {
+    "w": "Alright,",
+    "start": 24.18,
+    "end": 24.62
+   },
+   {
+    "w": "off",
+    "start": 24.84,
+    "end": 25.1
+   },
+   {
+    "w": "with",
+    "start": 25.1,
+    "end": 25.22
+   },
+   {
+    "w": "that.",
+    "start": 25.22,
+    "end": 25.44
+   }
+  ]
+ },
+ {
+  "start": 28.1,
+  "end": 30.26,
+  "text": "What about this? What kind of bagel is this?",
+  "words": [
+   {
+    "w": "What",
+    "start": 28.1,
+    "end": 28.62
+   },
+   {
+    "w": "about",
+    "start": 28.62,
+    "end": 28.78
+   },
+   {
+    "w": "this?",
+    "start": 28.78,
+    "end": 29.1
+   },
+   {
+    "w": "What",
+    "start": 29.34,
+    "end": 29.42
+   },
+   {
+    "w": "kind",
+    "start": 29.42,
+    "end": 29.56
+   },
+   {
+    "w": "of",
+    "start": 29.56,
+    "end": 29.62
+   },
+   {
+    "w": "bagel",
+    "start": 29.62,
+    "end": 29.84
+   },
+   {
+    "w": "is",
+    "start": 29.84,
+    "end": 29.96
+   },
+   {
+    "w": "this?",
+    "start": 29.96,
+    "end": 30.26
+   }
+  ]
+ },
+ {
+  "start": 30.98,
+  "end": 31.56,
+  "text": "Plain bagel.",
+  "words": [
+   {
+    "w": "Plain",
+    "start": 30.98,
+    "end": 31.24
+   },
+   {
+    "w": "bagel.",
+    "start": 31.24,
+    "end": 31.56
+   }
+  ]
+ },
+ {
+  "start": 32.22,
+  "end": 32.48,
+  "text": "Great.",
+  "words": [
+   {
+    "w": "Great.",
+    "start": 32.22,
+    "end": 32.48
+   }
+  ]
+ },
+ {
+  "start": 35.56,
+  "end": 36.08,
+  "text": "Hmm.",
+  "words": [
+   {
+    "w": "Hmm.",
+    "start": 35.56,
+    "end": 36.08
+   }
+  ]
+ },
+ {
+  "start": 38.72,
+  "end": 40.4,
+  "text": "So, I'm also allergic to chocolate.",
+  "words": [
+   {
+    "w": "So,",
+    "start": 38.72,
+    "end": 39.24
+   },
+   {
+    "w": "I'm",
+    "start": 39.28,
+    "end": 39.48
+   },
+   {
+    "w": "also",
+    "start": 39.48,
+    "end": 39.64
+   },
+   {
+    "w": "allergic",
+    "start": 39.64,
+    "end": 39.88
+   },
+   {
+    "w": "to",
+    "start": 39.88,
+    "end": 40.04
+   },
+   {
+    "w": "chocolate.",
+    "start": 40.04,
+    "end": 40.4
+   }
+  ]
+ },
+ {
+  "start": 40.72,
+  "end": 42.6,
+  "text": "Is this a chocolate donut hole?",
+  "words": [
+   {
+    "w": "Is",
+    "start": 40.72,
+    "end": 41.08
+   },
+   {
+    "w": "this",
+    "start": 41.08,
+    "end": 41.18
+   },
+   {
+    "w": "a",
+    "start": 41.18,
+    "end": 41.54
+   },
+   {
+    "w": "chocolate",
+    "start": 41.54,
+    "end": 42.16
+   },
+   {
+    "w": "donut",
+    "start": 42.16,
+    "end": 42.36
+   },
+   {
+    "w": "hole?",
+    "start": 42.36,
+    "end": 42.6
+   }
+  ]
+ },
+ {
+  "start": 43.28,
+  "end": 44.74,
+  "text": "No, a chocolate donut hole.",
+  "words": [
+   {
+    "w": "No,",
+    "start": 43.28,
+    "end": 43.78
+   },
+   {
+    "w": "a",
+    "start": 43.88,
+    "end": 44.0
+   },
+   {
+    "w": "chocolate",
+    "start": 44.0,
+    "end": 44.24
+   },
+   {
+    "w": "donut",
+    "start": 44.24,
+    "end": 44.46
+   },
+   {
+    "w": "hole.",
+    "start": 44.46,
+    "end": 44.74
+   }
+  ]
+ },
+ {
+  "start": 46.9,
+  "end": 47.82,
+  "text": "No eating that.",
+  "words": [
+   {
+    "w": "No",
+    "start": 46.9,
+    "end": 47.42
+   },
+   {
+    "w": "eating",
+    "start": 47.42,
+    "end": 47.58
+   },
+   {
+    "w": "that.",
+    "start": 47.58,
+    "end": 47.82
+   }
+  ]
+ },
+ {
+  "start": 50.92,
+  "end": 51.9,
+  "text": "What about this?",
+  "words": [
+   {
+    "w": "What",
+    "start": 50.92,
+    "end": 51.44
+   },
+   {
+    "w": "about",
+    "start": 51.44,
+    "end": 51.56
+   },
+   {
+    "w": "this?",
+    "start": 51.56,
+    "end": 51.9
+   }
+  ]
+ },
+ {
+  "start": 52.32,
+  "end": 54.36,
+  "text": "What kind of donut hole is this?",
+  "words": [
+   {
+    "w": "What",
+    "start": 52.32,
+    "end": 52.84
+   },
+   {
+    "w": "kind",
+    "start": 52.84,
+    "end": 53.52
+   },
+   {
+    "w": "of",
+    "start": 53.52,
+    "end": 53.64
+   },
+   {
+    "w": "donut",
+    "start": 53.64,
+    "end": 53.82
+   },
+   {
+    "w": "hole",
+    "start": 53.82,
+    "end": 54.0
+   },
+   {
+    "w": "is",
+    "start": 54.0,
+    "end": 54.12
+   },
+   {
+    "w": "this?",
+    "start": 54.12,
+    "end": 54.36
+   }
+  ]
+ },
+ {
+  "start": 54.36,
+  "end": 65.8,
+  "text": "blaze down the hole awesome oh by the way is this my water bottle yes stainless steel water bottle",
+  "words": [
+   {
+    "w": "blaze",
+    "start": 54.36,
+    "end": 55.32
+   },
+   {
+    "w": "down",
+    "start": 55.32,
+    "end": 55.5
+   },
+   {
+    "w": "the",
+    "start": 55.5,
+    "end": 55.58
+   },
+   {
+    "w": "hole",
+    "start": 55.58,
+    "end": 55.78
+   },
+   {
+    "w": "awesome",
+    "start": 55.78,
+    "end": 56.6
+   },
+   {
+    "w": "oh",
+    "start": 56.6,
+    "end": 60.56
+   },
+   {
+    "w": "by",
+    "start": 60.56,
+    "end": 61.3
+   },
+   {
+    "w": "the",
+    "start": 61.3,
+    "end": 61.4
+   },
+   {
+    "w": "way",
+    "start": 61.4,
+    "end": 61.64
+   },
+   {
+    "w": "is",
+    "start": 61.64,
+    "end": 62.56
+   },
+   {
+    "w": "this",
+    "start": 62.56,
+    "end": 62.7
+   },
+   {
+    "w": "my",
+    "start": 62.7,
+    "end": 63.02
+   },
+   {
+    "w": "water",
+    "start": 63.02,
+    "end": 63.28
+   },
+   {
+    "w": "bottle",
+    "start": 63.28,
+    "end": 63.52
+   },
+   {
+    "w": "yes",
+    "start": 63.52,
+    "end": 64.54
+   },
+   {
+    "w": "stainless",
+    "start": 64.54,
+    "end": 64.94
+   },
+   {
+    "w": "steel",
+    "start": 64.94,
+    "end": 65.26
+   },
+   {
+    "w": "water",
+    "start": 65.26,
+    "end": 65.48
+   },
+   {
+    "w": "bottle",
+    "start": 65.48,
+    "end": 65.8
+   }
+  ]
+ },
+ {
+  "start": 67.2,
+  "end": 78.08,
+  "text": "all right again just make sure this isn't a chocolate on a hole right what kind of",
+  "words": [
+   {
+    "w": "all",
+    "start": 67.2,
+    "end": 67.68
+   },
+   {
+    "w": "right",
+    "start": 67.68,
+    "end": 67.82
+   },
+   {
+    "w": "again",
+    "start": 67.82,
+    "end": 74.96
+   },
+   {
+    "w": "just",
+    "start": 74.96,
+    "end": 75.82
+   },
+   {
+    "w": "make",
+    "start": 75.82,
+    "end": 75.96
+   },
+   {
+    "w": "sure",
+    "start": 75.96,
+    "end": 76.12
+   },
+   {
+    "w": "this",
+    "start": 76.12,
+    "end": 76.38
+   },
+   {
+    "w": "isn't",
+    "start": 76.38,
+    "end": 76.62
+   },
+   {
+    "w": "a",
+    "start": 76.62,
+    "end": 76.7
+   },
+   {
+    "w": "chocolate",
+    "start": 76.7,
+    "end": 76.92
+   },
+   {
+    "w": "on",
+    "start": 76.92,
+    "end": 77.1
+   },
+   {
+    "w": "a",
+    "start": 77.1,
+    "end": 77.16
+   },
+   {
+    "w": "hole",
+    "start": 77.16,
+    "end": 77.34
+   },
+   {
+    "w": "right",
+    "start": 77.34,
+    "end": 77.58
+   },
+   {
+    "w": "what",
+    "start": 77.58,
+    "end": 77.88
+   },
+   {
+    "w": "kind",
+    "start": 77.88,
+    "end": 78.0
+   },
+   {
+    "w": "of",
+    "start": 78.0,
+    "end": 78.08
+   }
+  ]
+ },
+ {
+  "start": 78.08,
+  "end": 83.14,
+  "text": "Don't hold this place down all right well let's dig in",
+  "words": [
+   {
+    "w": "Don't",
+    "start": 78.08,
+    "end": 78.22
+   },
+   {
+    "w": "hold",
+    "start": 78.22,
+    "end": 78.36
+   },
+   {
+    "w": "this",
+    "start": 78.36,
+    "end": 78.62
+   },
+   {
+    "w": "place",
+    "start": 78.62,
+    "end": 79.56
+   },
+   {
+    "w": "down",
+    "start": 79.56,
+    "end": 79.74
+   },
+   {
+    "w": "all",
+    "start": 79.74,
+    "end": 79.98
+   },
+   {
+    "w": "right",
+    "start": 79.98,
+    "end": 81.4
+   },
+   {
+    "w": "well",
+    "start": 81.4,
+    "end": 82.42
+   },
+   {
+    "w": "let's",
+    "start": 82.42,
+    "end": 82.8
+   },
+   {
+    "w": "dig",
+    "start": 82.8,
+    "end": 82.94
+   },
+   {
+    "w": "in",
+    "start": 82.94,
+    "end": 83.14
+   }
+  ]
+ }
+]

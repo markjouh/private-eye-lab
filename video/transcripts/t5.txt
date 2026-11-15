@@ -1,0 +1,12 @@
+[ 11.80 -  12.78] What does this say?
+[ 13.32 -  15.06] Please clean, adapter, yourself.
+[ 16.96 -  17.46] Alright.
+[ 18.04 -  18.54] Alright.
+[ 19.48 -  19.98] Alright.
+[ 20.02 -  23.40] Alright, now we just like put everything into the table and tell it to work.
+[ 23.90 -  24.30] Yeah.
+[ 25.82 -  27.76] Wait, we didn't do the object inspection yet.
+[ 29.38 -  30.02] Oh yeah.
+[ 30.38 -  31.92] Let's do this with water bottles.
+[ 32.08 -  33.06] Get this over water bottle.
+[ 33.16 -  34.40] Wait, let's do multiple sodas.

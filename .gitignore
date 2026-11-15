@@ -1,0 +1,18 @@
+# Logs
+*.log
+
+# Downloaded datasets and model weights: too large for GitHub, fetched or rebuilt by the scripts
+vizwiz/
+coco/
+models/
+
+# Video files (footage, ingested takes, renders) and dependencies
+*.mp4
+*.MP4
+*.mov
+*.MOV
+node_modules/
+
+.DS_Store
+__pycache__/
+.venv/

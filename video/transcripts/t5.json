@@ -1,0 +1,351 @@
+[
+ {
+  "start": 11.8,
+  "end": 12.78,
+  "text": "What does this say?",
+  "words": [
+   {
+    "w": "What",
+    "start": 11.8,
+    "end": 12.3
+   },
+   {
+    "w": "does",
+    "start": 12.3,
+    "end": 12.4
+   },
+   {
+    "w": "this",
+    "start": 12.4,
+    "end": 12.54
+   },
+   {
+    "w": "say?",
+    "start": 12.54,
+    "end": 12.78
+   }
+  ]
+ },
+ {
+  "start": 13.32,
+  "end": 15.06,
+  "text": "Please clean, adapter, yourself.",
+  "words": [
+   {
+    "w": "Please",
+    "start": 13.32,
+    "end": 13.76
+   },
+   {
+    "w": "clean,",
+    "start": 13.76,
+    "end": 14.04
+   },
+   {
+    "w": "adapter,",
+    "start": 14.18,
+    "end": 14.44
+   },
+   {
+    "w": "yourself.",
+    "start": 14.7,
+    "end": 15.06
+   }
+  ]
+ },
+ {
+  "start": 16.96,
+  "end": 17.46,
+  "text": "Alright.",
+  "words": [
+   {
+    "w": "Alright.",
+    "start": 16.96,
+    "end": 17.46
+   }
+  ]
+ },
+ {
+  "start": 18.04,
+  "end": 18.54,
+  "text": "Alright.",
+  "words": [
+   {
+    "w": "Alright.",
+    "start": 18.04,
+    "end": 18.54
+   }
+  ]
+ },
+ {
+  "start": 19.48,
+  "end": 19.98,
+  "text": "Alright.",
+  "words": [
+   {
+    "w": "Alright.",
+    "start": 19.48,
+    "end": 19.98
+   }
+  ]
+ },
+ {
+  "start": 20.02,
+  "end": 23.4,
+  "text": "Alright, now we just like put everything into the table and tell it to work.",
+  "words": [
+   {
+    "w": "Alright,",
+    "start": 20.02,
+    "end": 20.02
+   },
+   {
+    "w": "now",
+    "start": 20.18,
+    "end": 20.34
+   },
+   {
+    "w": "we",
+    "start": 20.34,
+    "end": 20.48
+   },
+   {
+    "w": "just",
+    "start": 20.48,
+    "end": 20.62
+   },
+   {
+    "w": "like",
+    "start": 20.62,
+    "end": 20.74
+   },
+   {
+    "w": "put",
+    "start": 20.74,
+    "end": 21.02
+   },
+   {
+    "w": "everything",
+    "start": 21.02,
+    "end": 21.44
+   },
+   {
+    "w": "into",
+    "start": 21.44,
+    "end": 21.68
+   },
+   {
+    "w": "the",
+    "start": 21.68,
+    "end": 21.8
+   },
+   {
+    "w": "table",
+    "start": 21.8,
+    "end": 22.02
+   },
+   {
+    "w": "and",
+    "start": 22.02,
+    "end": 22.38
+   },
+   {
+    "w": "tell",
+    "start": 22.38,
+    "end": 22.54
+   },
+   {
+    "w": "it",
+    "start": 22.54,
+    "end": 22.72
+   },
+   {
+    "w": "to",
+    "start": 22.72,
+    "end": 23.12
+   },
+   {
+    "w": "work.",
+    "start": 23.12,
+    "end": 23.4
+   }
+  ]
+ },
+ {
+  "start": 23.9,
+  "end": 24.3,
+  "text": "Yeah.",
+  "words": [
+   {
+    "w": "Yeah.",
+    "start": 23.9,
+    "end": 24.3
+   }
+  ]
+ },
+ {
+  "start": 25.82,
+  "end": 27.76,
+  "text": "Wait, we didn't do the object inspection yet.",
+  "words": [
+   {
+    "w": "Wait,",
+    "start": 25.82,
+    "end": 26.2
+   },
+   {
+    "w": "we",
+    "start": 26.28,
+    "end": 26.36
+   },
+   {
+    "w": "didn't",
+    "start": 26.36,
+    "end": 26.56
+   },
+   {
+    "w": "do",
+    "start": 26.56,
+    "end": 26.68
+   },
+   {
+    "w": "the",
+    "start": 26.68,
+    "end": 26.78
+   },
+   {
+    "w": "object",
+    "start": 26.78,
+    "end": 27.02
+   },
+   {
+    "w": "inspection",
+    "start": 27.02,
+    "end": 27.48
+   },
+   {
+    "w": "yet.",
+    "start": 27.48,
+    "end": 27.76
+   }
+  ]
+ },
+ {
+  "start": 29.38,
+  "end": 30.02,
+  "text": "Oh yeah.",
+  "words": [
+   {
+    "w": "Oh",
+    "start": 29.38,
+    "end": 29.78
+   },
+   {
+    "w": "yeah.",
+    "start": 29.78,
+    "end": 30.02
+   }
+  ]
+ },
+ {
+  "start": 30.38,
+  "end": 31.92,
+  "text": "Let's do this with water bottles.",
+  "words": [
+   {
+    "w": "Let's",
+    "start": 30.38,
+    "end": 30.78
+   },
+   {
+    "w": "do",
+    "start": 30.78,
+    "end": 30.94
+   },
+   {
+    "w": "this",
+    "start": 30.94,
+    "end": 31.14
+   },
+   {
+    "w": "with",
+    "start": 31.14,
+    "end": 31.3
+   },
+   {
+    "w": "water",
+    "start": 31.3,
+    "end": 31.54
+   },
+   {
+    "w": "bottles.",
+    "start": 31.54,
+    "end": 31.92
+   }
+  ]
+ },
+ {
+  "start": 32.08,
+  "end": 33.06,
+  "text": "Get this over water bottle.",
+  "words": [
+   {
+    "w": "Get",
+    "start": 32.08,
+    "end": 32.16
+   },
+   {
+    "w": "this",
+    "start": 32.16,
+    "end": 32.28
+   },
+   {
+    "w": "over",
+    "start": 32.28,
+    "end": 32.48
+   },
+   {
+    "w": "water",
+    "start": 32.48,
+    "end": 32.76
+   },
+   {
+    "w": "bottle.",
+    "start": 32.76,
+    "end": 33.06
+   }
+  ]
+ },
+ {
+  "start": 33.16,
+  "end": 34.4,
+  "text": "Wait, let's do multiple sodas.",
+  "words": [
+   {
+    "w": "Wait,",
+    "start": 33.16,
+    "end": 33.3
+   },
+   {
+    "w": "let's",
+    "start": 33.42,
+    "end": 33.5
+   },
+   {
+    "w": "do",
+    "start": 33.5,
+    "end": 33.62
+   },
+   {
+    "w": "multiple",
+    "start": 33.62,
+    "end": 33.84
+   },
+   {
+    "w": "sodas.",
+    "start": 33.84,
+    "end": 34.4
+   }
+  ]
+ }
+]

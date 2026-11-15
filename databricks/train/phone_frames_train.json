@@ -1,0 +1,1430 @@
+[
+ {
+  "image": "phone_144828-834.jpg",
+  "route": "model",
+  "heard": "What is in front of me?",
+  "reply": "Nothing visible."
+ },
+ {
+  "image": "phone_144855-817.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Charles half a meter to your right. Person ahead."
+ },
+ {
+  "image": "phone_145106-772.jpg",
+  "route": "model",
+  "heard": "What is in front of me?",
+  "reply": "Nothing visible."
+ },
+ {
+  "image": "phone_145141-657.jpg",
+  "route": "model",
+  "heard": "No",
+  "reply": "No."
+ },
+ {
+  "image": "phone_145143-527.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person 1 meter to your left. Cup half a meter ahead. Laptop 1 meter ahead. Another laptop half a meter to your left. Cable half a meter to your right."
+ },
+ {
+  "image": "phone_145144-752.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person half a meter to your left. Cup half a meter ahead. Laptop 1 meter ahead. Another laptop half a meter to your left. Cable half a meter to your right."
+ },
+ {
+  "image": "phone_145145-698.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person half a meter to your left. Cup half a meter ahead. Laptop 1 meter ahead. Another laptop half a meter to your left. Cable half a meter to your right."
+ },
+ {
+  "image": "phone_145345-523.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Charles half a meter to your right. Pillow half a meter to your left."
+ },
+ {
+  "image": "phone_145349-278.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Charles 1 meter ahead."
+ },
+ {
+  "image": "phone_145351-884.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person half a meter ahead."
+ },
+ {
+  "image": "phone_145523-336.jpg",
+  "route": "model",
+  "heard": "Microsoft",
+  "reply": "Blurry brown background."
+ },
+ {
+  "image": "phone_145524-934.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Charles half a meter ahead."
+ },
+ {
+  "image": "phone_145540-877.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Charles half a meter ahead. Towel half a meter to your left."
+ },
+ {
+  "image": "phone_145545-528.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Arian and Charles 1 meter to your right. 3 people, the nearest 1 meter to your right. Book, bottle and laptop 1.5 meters ahead. Another laptop 2 meters ahead."
+ },
+ {
+  "image": "phone_145550-212.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Arian and Charles 1 meter to your right. 3 people, the nearest 1 meter to your right. Handbag, 2 laptops and bottle 1.5 meters ahead."
+ },
+ {
+  "image": "phone_145555-521.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Arian 2 meters to your right. Elias 2 meters to your left. 3 people, the nearest 1 meter to your right. Wallet 1 meter ahead. Handbag 1.5 meters ahead. Laptop 2 meters ahead. Another laptop 1.5 meters to your right."
+ },
+ {
+  "image": "phone_145702-901.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Elias 1.5 meters to your left. Person 1.5 meters to your right. 2 bottles and laptop 1 meter ahead. Another laptop 1 meter to your right."
+ },
+ {
+  "image": "phone_145848-914.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Elias 1.5 meters to your left. Arian 1.5 meters to your right. 2 bottles and laptop 1 meter ahead. Book 1 meter to your left."
+ },
+ {
+  "image": "phone_150339-011.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Bottle half a meter to your left. Wallet half a meter to your right. Red bull ahead."
+ },
+ {
+  "image": "phone_150345-548.jpg",
+  "route": "model",
+  "heard": "What is this?",
+  "reply": "Energy drink."
+ },
+ {
+  "image": "phone_150348-232.jpg",
+  "route": "model",
+  "heard": "Read this",
+  "reply": "Red Bull Energy Drink"
+ },
+ {
+  "image": "phone_150411-485.jpg",
+  "route": "model",
+  "heard": "What is this?",
+  "reply": "Red Bull can."
+ },
+ {
+  "image": "phone_150414-694.jpg",
+  "route": "model",
+  "heard": "Read",
+  "reply": "RedB ZER WITH MONK"
+ },
+ {
+  "image": "phone_150417-830.jpg",
+  "route": "model",
+  "heard": "Read",
+  "reply": "RedB\nWITH MONK FRU"
+ },
+ {
+  "image": "phone_150421-215.jpg",
+  "route": "model",
+  "heard": "What is this?",
+  "reply": "Can of Red Bull Zero."
+ },
+ {
+  "image": "phone_150424-026.jpg",
+  "route": "model",
+  "heard": "What is",
+  "reply": "Red Bull can."
+ },
+ {
+  "image": "phone_150658-240.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person half a meter to your right. Bottle, handbag and chair 1 meter ahead. Laptop 1 meter to your right."
+ },
+ {
+  "image": "phone_150659-895.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person half a meter to your right. Another person 1 meter to your left. Bottle half a meter ahead. Another bottle and handbag 1 meter ahead. Laptop 1 meter to your right."
+ },
+ {
+  "image": "phone_150748-567.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Wall panel straight ahead."
+ },
+ {
+  "image": "phone_150752-467.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person to your right. Desk with laptop straight ahead. Chair to your right."
+ },
+ {
+  "image": "phone_150839-349.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Charles to your right. Arian to your left. Chair ahead. Laptop and plate to your left."
+ },
+ {
+  "image": "phone_150936-714.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Cabinet door straight ahead."
+ },
+ {
+  "image": "phone_151000-951.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Charles ahead. Arian to your left. Wallet, laptop, plate and chair to your left."
+ },
+ {
+  "image": "phone_151245-731.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person to your right. Sighted guide straight ahead. Keyboard ahead."
+ },
+ {
+  "image": "phone_151251-384.jpg",
+  "route": "model",
+  "heard": "What is",
+  "reply": "Red bull can."
+ },
+ {
+  "image": "phone_151253-919.jpg",
+  "route": "memory",
+  "heard": "Who is this?",
+  "reply": "No one in view."
+ },
+ {
+  "image": "phone_151809-087.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person to your right. Elias to your left. Desk with laptops straight ahead. White cane ahead. 2 chairs to your left. Plate to your right."
+ },
+ {
+  "image": "phone_151815-272.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Elias to your left. Arian to your right. Laptop computer straight ahead. Chair and lamp to your left. Plate and another chair to your right."
+ },
+ {
+  "image": "phone_151822-234.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Charles ahead. Arian to your left. Stool ahead. Laptop and plate to your left. Chair to your right."
+ },
+ {
+  "image": "phone_151846-782.jpg",
+  "route": "model",
+  "heard": "100",
+  "reply": "Pink can with yellow design."
+ },
+ {
+  "image": "phone_151902-549.jpg",
+  "route": "model",
+  "heard": "Can you tell me what this item is?",
+  "reply": "Yes, in hand."
+ },
+ {
+  "image": "phone_151909-128.jpg",
+  "route": "model",
+  "heard": "Can you tell me what this item is?",
+  "reply": "Yes, on table, center."
+ },
+ {
+  "image": "phone_151943-696.jpg",
+  "route": "model",
+  "heard": "What is this?",
+  "reply": "Popcorn."
+ },
+ {
+  "image": "phone_151949-686.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Wall straight ahead."
+ },
+ {
+  "image": "phone_151952-326.jpg",
+  "route": "model",
+  "heard": "What is this?",
+  "reply": "Can of soda."
+ },
+ {
+  "image": "phone_151956-784.jpg",
+  "route": "model",
+  "heard": "What is this?",
+  "reply": "Red bull energy drink."
+ },
+ {
+  "image": "phone_152008-730.jpg",
+  "route": "model",
+  "heard": "What is this?",
+  "reply": "Pink soda can."
+ },
+ {
+  "image": "phone_152010-897.jpg",
+  "route": "model",
+  "heard": "What is this?",
+  "reply": "Pink soda can."
+ },
+ {
+  "image": "phone_152032-682.jpg",
+  "route": "model",
+  "heard": "What is this?",
+  "reply": "Red bull energy drink."
+ },
+ {
+  "image": "phone_152201-079.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Arian to your right. Person to your left. Can and marker straight ahead. Cable and laptop ahead. Bottle and another laptop to your left."
+ },
+ {
+  "image": "phone_153845-641.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Brown wall straight ahead."
+ },
+ {
+  "image": "phone_154641-150.jpg",
+  "route": "model",
+  "heard": "No",
+  "reply": "Nothing visible."
+ },
+ {
+  "image": "phone_154715-865.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Floor straight ahead. Chair and desk to your left."
+ },
+ {
+  "image": "phone_154719-938.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "8 people, the nearest ahead. Interior building straight ahead. Desk ahead."
+ },
+ {
+  "image": "phone_154747-423.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Jar with candy straight ahead. Bottle and potted plant to your left. Cup and another potted plant to your right."
+ },
+ {
+  "image": "phone_154755-464.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Stairway straight ahead."
+ },
+ {
+  "image": "phone_154757-493.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Stairway with railing straight ahead."
+ },
+ {
+  "image": "phone_155143-662.jpg",
+  "route": "model",
+  "heard": "No like type rename",
+  "reply": "Typing on laptop."
+ },
+ {
+  "image": "phone_155342-522.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Dark brown wall straight ahead."
+ },
+ {
+  "image": "phone_155401-631.jpg",
+  "route": "model",
+  "heard": "Civic not really",
+  "reply": "Clothing fabric."
+ },
+ {
+  "image": "phone_155500-756.jpg",
+  "route": "model",
+  "heard": "Can I throw my pizza in here?",
+  "reply": "No."
+ },
+ {
+  "image": "phone_155503-387.jpg",
+  "route": "model",
+  "heard": "Why not?",
+  "reply": "Trash bin."
+ },
+ {
+  "image": "phone_155506-371.jpg",
+  "route": "model",
+  "heard": "Can I throw my pizza in here?",
+  "reply": "No."
+ },
+ {
+  "image": "phone_155511-137.jpg",
+  "route": "model",
+  "heard": "Why can I not throw my pizza in here if I can?",
+  "reply": "Trash only."
+ },
+ {
+  "image": "phone_155556-613.jpg",
+  "route": "model",
+  "heard": "What time is it?",
+  "reply": "9:55 PM."
+ },
+ {
+  "image": "phone_155602-797.jpg",
+  "route": "model",
+  "heard": "What time is it?",
+  "reply": "3:56."
+ },
+ {
+  "image": "phone_155722-942.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Charles ahead. Laptop to your left. Bottle, another laptop and book to your right."
+ },
+ {
+  "image": "phone_155725-212.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Arian ahead. Laptop and plate ahead. Another laptop to your left. Chair to your right."
+ },
+ {
+  "image": "phone_160138-535.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person to your right. Shoe ahead."
+ },
+ {
+  "image": "phone_160711-124.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Emergency phone straight ahead. Book to your right."
+ },
+ {
+  "image": "phone_160715-285.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Emergency phone straight ahead. Book to your right."
+ },
+ {
+  "image": "phone_161401-324.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Hospital hallway straight ahead. Stroller to your right."
+ },
+ {
+  "image": "phone_161411-194.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person ahead. Water bottle straight ahead. Book, plate and towel to your left."
+ },
+ {
+  "image": "phone_161413-208.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person ahead. Water bottle straight ahead. Book and desk to your left."
+ },
+ {
+  "image": "phone_161421-843.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person ahead. Water bottle straight ahead. Book and glasses to your left."
+ },
+ {
+  "image": "phone_161433-342.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person ahead. Water bottle straight ahead. Book and desk to your left. Chair to your right."
+ },
+ {
+  "image": "phone_162549-794.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Blank wall straight ahead."
+ },
+ {
+  "image": "phone_162627-481.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Black background straight ahead."
+ },
+ {
+  "image": "phone_162630-012.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Brown wall straight ahead."
+ },
+ {
+  "image": "phone_163018-621.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Glasses frame straight ahead."
+ },
+ {
+  "image": "phone_163034-526.jpg",
+  "route": "model",
+  "heard": "Are they open or closed right now?",
+  "reply": "Yes, on desk."
+ },
+ {
+  "image": "phone_163050-768.jpg",
+  "route": "model",
+  "heard": "Are the glasses open or closed?",
+  "reply": "Yes, in hand."
+ },
+ {
+  "image": "phone_163139-513.jpg",
+  "route": "model",
+  "heard": "Is it like vacuum sealed or is there like their insulation or is it like single wall?",
+  "reply": "Yes, vacuum sealed."
+ },
+ {
+  "image": "phone_163210-593.jpg",
+  "route": "model",
+  "heard": "What is on the back of this phone besides the camera?",
+  "reply": "Leather case."
+ },
+ {
+  "image": "phone_163221-054.jpg",
+  "route": "model",
+  "heard": "What do you see on the phone?",
+  "reply": "Phone center, screen front."
+ },
+ {
+  "image": "phone_163224-927.jpg",
+  "route": "description",
+  "heard": "What do you see?",
+  "reply": "Person to your left. Bottle and mug to your left. Laptop to your right."
+ },
+ {
+  "image": "phone_163804-795.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Laptop center, keyboard front, trackpad below."
+ },
+ {
+  "image": "phone_163831-271.jpg",
+  "route": "model",
+  "heard": "What is this?",
+  "reply": "Laptop computer."
+ },
+ {
+  "image": "phone_163835-010.jpg",
+  "route": "model",
+  "heard": "What is this?",
+  "reply": "Red bull can."
+ },
+ {
+  "image": "phone_164048-585.jpg",
+  "route": "model",
+  "heard": "What is this?",
+  "reply": "Redbull can."
+ },
+ {
+  "image": "phone_164054-687.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person to your left. Person to your right. Can, hand, laptop front."
+ },
+ {
+  "image": "phone_164057-650.jpg",
+  "route": "model",
+  "heard": "What is this?",
+  "reply": "Can of Red Bull."
+ },
+ {
+  "image": "phone_164100-557.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person to your left. Person to your right. Laptop below, can held up."
+ },
+ {
+  "image": "phone_164103-480.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person ahead. Person to your right. Can held, chair behind, table below."
+ },
+ {
+  "image": "phone_164552-320.jpg",
+  "route": "model",
+  "heard": "Read this",
+  "reply": "There is no text present in the image."
+ },
+ {
+  "image": "phone_164602-924.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "4 people in view. Laptop center, phone left, mouse left."
+ },
+ {
+  "image": "phone_164624-260.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Charles ahead. Laptop ahead, table below."
+ },
+ {
+  "image": "phone_164628-416.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Arian ahead. Table ahead, laptop left, bottle center, phone right."
+ },
+ {
+  "image": "phone_164702-920.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person ahead. Laptop left, hand center, cup right."
+ },
+ {
+  "image": "phone_170221-526.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Laptop left, water bottle right, watch center."
+ },
+ {
+  "image": "phone_170239-201.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person ahead. Bed ahead, chair right, fridge left."
+ },
+ {
+  "image": "phone_170303-294.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person to your left. Water bottle center, laptop left, cup right."
+ },
+ {
+  "image": "phone_170410-538.jpg",
+  "route": "model",
+  "heard": "And give an answer",
+  "reply": "Red writing on glass."
+ },
+ {
+  "image": "phone_170412-947.jpg",
+  "route": "text",
+  "heard": "What does this say?",
+  "reply": "Begin your next, answer with, Madison?, \u2022Hello."
+ },
+ {
+  "image": "phone_170419-169.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person ahead. Laptop front, mouse left."
+ },
+ {
+  "image": "phone_170425-696.jpg",
+  "route": "text",
+  "heard": "What does this say?",
+  "reply": "Begin your next, answer with, \u2022 Madison:, \u2192 Hello."
+ },
+ {
+  "image": "phone_170446-264.jpg",
+  "route": "text",
+  "heard": "What does this say?",
+  "reply": "Begin your next, answer with, \u2022 Madison\", \u2022Hello."
+ },
+ {
+  "image": "phone_170451-945.jpg",
+  "route": "text",
+  "heard": "Read",
+  "reply": "Begin your next, answer with, Hello Madison\"."
+ },
+ {
+  "image": "phone_170509-207.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Water bottle left, laptop front, cable right."
+ },
+ {
+  "image": "phone_170708-121.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Nothing visible."
+ },
+ {
+  "image": "phone_170717-029.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Laptop left, water bottle right."
+ },
+ {
+  "image": "phone_170718-789.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Arian to your left. Laptop right, thermos left, person back."
+ },
+ {
+  "image": "phone_171439-253.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Charles ahead. Laptop ahead, screen left."
+ },
+ {
+  "image": "phone_171448-429.jpg",
+  "route": "model",
+  "heard": "Estimate estimate his IQ",
+  "reply": "Hard to tell."
+ },
+ {
+  "image": "phone_171454-851.jpg",
+  "route": "model",
+  "heard": "Estimate his IQ",
+  "reply": "Hard to tell."
+ },
+ {
+  "image": "phone_171500-439.jpg",
+  "route": "model",
+  "heard": "Is he smart?",
+  "reply": "Yes, studying."
+ },
+ {
+  "image": "phone_171506-201.jpg",
+  "route": "model",
+  "heard": "Is he smart?",
+  "reply": "Yes, using laptop."
+ },
+ {
+  "image": "phone_171517-590.jpg",
+  "route": "model",
+  "heard": "This is smart",
+  "reply": "Blurry photo."
+ },
+ {
+  "image": "phone_171520-118.jpg",
+  "route": "model",
+  "heard": "Is he smart?",
+  "reply": "Yes, knows LaTeX."
+ },
+ {
+  "image": "phone_172014-431.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Nothing visible."
+ },
+ {
+  "image": "phone_172151-385.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Charles ahead. Laptop front, screen left, keyboard below."
+ },
+ {
+  "image": "phone_172618-771.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Water bottle. Purified drinking water."
+ },
+ {
+  "image": "phone_172622-461.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Water bottle."
+ },
+ {
+  "image": "phone_172624-524.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Water bottle."
+ },
+ {
+  "image": "phone_172627-163.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Water bottle."
+ },
+ {
+  "image": "phone_172628-940.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Water bottle. Pure Water."
+ },
+ {
+  "image": "phone_172631-726.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Water bottle. Water."
+ },
+ {
+  "image": "phone_172850-111.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Nothing visible."
+ },
+ {
+  "image": "phone_172858-365.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Water bottle. Purified drinking water."
+ },
+ {
+  "image": "phone_172901-845.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Water bottle. Purified drinking water."
+ },
+ {
+  "image": "phone_172904-119.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Water bottle. Purified drinking water."
+ },
+ {
+  "image": "phone_172919-199.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Water bottle. Purified drinking water."
+ },
+ {
+  "image": "phone_172928-776.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person ahead. Your water bottle to your right. Laptop left, water bottle right, phone case on laptop."
+ },
+ {
+  "image": "phone_173008-400.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Water bottle. Purified water."
+ },
+ {
+  "image": "phone_173011-936.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person to your left. Your water bottle ahead. Water bottle center, ear protector front left."
+ },
+ {
+  "image": "phone_173020-573.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Your water bottle. Eye mask."
+ },
+ {
+  "image": "phone_173025-237.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Shoe insole."
+ },
+ {
+  "image": "phone_173030-136.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Your water bottle. Sleep mask."
+ },
+ {
+  "image": "phone_173057-926.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Eye mask."
+ },
+ {
+  "image": "phone_173100-500.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Eye mask."
+ },
+ {
+  "image": "phone_173104-569.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Sleep mask."
+ },
+ {
+  "image": "phone_173109-719.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "2 people to your left. Your water bottle ahead. Eye mask left, water bottle center, laptop back."
+ },
+ {
+  "image": "phone_173112-829.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Your water bottle. Sleep mask."
+ },
+ {
+  "image": "phone_173116-159.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Eye mask."
+ },
+ {
+  "image": "phone_173125-340.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Charles ahead. Person."
+ },
+ {
+  "image": "phone_173126-398.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Charles ahead. Boy at table."
+ },
+ {
+  "image": "phone_173127-621.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Arian ahead. Trash can left, chair front."
+ },
+ {
+  "image": "phone_173128-846.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person to your right. Person to your left. Person center, chair right."
+ },
+ {
+  "image": "phone_173130-763.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Elias ahead. 3 people in view. Person left, chair right, fridge back."
+ },
+ {
+  "image": "phone_173134-084.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Arian ahead. Person to your right. Person center, chair left, table front left."
+ },
+ {
+  "image": "phone_173502-341.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Charles ahead. Your water bottle to your left. Laptop front, phone left, bottle left."
+ },
+ {
+  "image": "phone_173507-523.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Laptop computer."
+ },
+ {
+  "image": "phone_173510-493.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Arian ahead. Table ahead, laptop left, phone front, bottle right."
+ },
+ {
+  "image": "phone_173514-908.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person to your right. Phone front, laptop left, person back."
+ },
+ {
+  "image": "phone_173540-851.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "2 people to your right. Water bottle center, pillow left, laptop back."
+ },
+ {
+  "image": "phone_173623-005.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Nothing visible."
+ },
+ {
+  "image": "phone_173810-301.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Charles ahead. Laptop left, eye mask center, water bottle right."
+ },
+ {
+  "image": "phone_173815-330.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Arian to your right. Table ahead, laptop left, phone center, bottle right."
+ },
+ {
+  "image": "phone_173819-652.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Elias ahead. Laptop right, table below."
+ },
+ {
+  "image": "phone_173824-981.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Sleep mask."
+ },
+ {
+  "image": "phone_173829-550.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person to your left. Eye mask front, water bottle left, metal bottle right."
+ },
+ {
+  "image": "phone_173831-725.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Eye mask. Water."
+ },
+ {
+  "image": "phone_173834-250.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Sleep mask. Water."
+ },
+ {
+  "image": "phone_173836-372.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Sleep mask. Water."
+ },
+ {
+  "image": "phone_173838-442.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Sleep mask. Water."
+ },
+ {
+  "image": "phone_173950-947.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Charles ahead. Person to your right. Laptop left, water bottle right, keyboard front."
+ },
+ {
+  "image": "phone_173957-155.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Arian ahead. Laptop left, water bottle center, chair right."
+ },
+ {
+  "image": "phone_174203-383.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Nothing visible."
+ },
+ {
+  "image": "phone_174205-469.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Charles ahead. Laptop left, water bottle right, eye mask front center."
+ },
+ {
+  "image": "phone_174209-660.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Arian ahead. Laptop right, water bottle center, table left."
+ },
+ {
+  "image": "phone_174212-598.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person ahead. Chair with bedding ahead, stool center, counter left, whiteboard right."
+ },
+ {
+  "image": "phone_174304-364.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Eye mask."
+ },
+ {
+  "image": "phone_174905-966.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person to your left. Your water bottle to your right. Water bottle center, metal bottle right, blinders front left."
+ },
+ {
+  "image": "phone_174910-203.jpg",
+  "route": "model",
+  "heard": "What is this?",
+  "reply": "Water bottle."
+ },
+ {
+  "image": "phone_174912-643.jpg",
+  "route": "model",
+  "heard": "What is this?",
+  "reply": "Eye mask."
+ },
+ {
+  "image": "phone_174915-306.jpg",
+  "route": "memory",
+  "heard": "Who is this?",
+  "reply": "No one in view."
+ },
+ {
+  "image": "phone_174918-083.jpg",
+  "route": "model",
+  "heard": "What is this?",
+  "reply": "Eye mask."
+ },
+ {
+  "image": "phone_175141-268.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Nothing visible."
+ },
+ {
+  "image": "phone_175213-694.jpg",
+  "route": "model",
+  "heard": "Which button is my finger on?",
+  "reply": "Defrost."
+ },
+ {
+  "image": "phone_175217-333.jpg",
+  "route": "model",
+  "heard": "How do I get to one?",
+  "reply": "Press 1."
+ },
+ {
+  "image": "phone_175221-632.jpg",
+  "route": "model",
+  "heard": "How do I move my finger to get to the one button?",
+  "reply": "Middle right button."
+ },
+ {
+  "image": "phone_175240-951.jpg",
+  "route": "model",
+  "heard": "Which one is the hand soap?",
+  "reply": "Orange bottle."
+ },
+ {
+  "image": "phone_175248-579.jpg",
+  "route": "model",
+  "heard": "OK, OK wait wait wait no this is useless. Is the soap on the left or right?",
+  "reply": "Right."
+ },
+ {
+  "image": "phone_175252-539.jpg",
+  "route": "model",
+  "heard": "Is the hand soap on the left or right?",
+  "reply": "Yes, on counter, left."
+ },
+ {
+  "image": "phone_175256-633.jpg",
+  "route": "model",
+  "heard": "Is the hand soap on the left or right?",
+  "reply": "Yes, left."
+ },
+ {
+  "image": "phone_175810-968.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Nothing visible."
+ },
+ {
+  "image": "phone_175902-416.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Nothing visible."
+ },
+ {
+  "image": "phone_175926-714.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Floor ahead, chairs left, table right."
+ },
+ {
+  "image": "phone_175929-641.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Floor ahead, doors left, fridge right."
+ },
+ {
+  "image": "phone_175937-425.jpg",
+  "route": "text",
+  "heard": "What time does the clock say?",
+  "reply": "55937."
+ },
+ {
+  "image": "phone_175942-547.jpg",
+  "route": "memory",
+  "heard": "What time is it?",
+  "reply": "5:59\u202fPM."
+ },
+ {
+  "image": "phone_180029-037.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Floor ahead, shoes below."
+ },
+ {
+  "image": "phone_180048-739.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person to your right. Person to your left. Elevator doors ahead, carpet below."
+ },
+ {
+  "image": "phone_180050-620.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Elias to your left. Elevator doors left, wooden wall right."
+ },
+ {
+  "image": "phone_180052-383.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Person."
+ },
+ {
+  "image": "phone_180055-016.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Person."
+ },
+ {
+  "image": "phone_180056-682.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Person."
+ },
+ {
+  "image": "phone_180101-865.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Charles ahead. Hoodie front, wooden wall behind."
+ },
+ {
+  "image": "phone_180106-910.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Arian ahead. Elevator doors left, wooden wall left, hallway right."
+ },
+ {
+  "image": "phone_180109-509.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Elias to your left. Arian to your right. Elevator doors left, wooden wall right."
+ },
+ {
+  "image": "phone_180558-186.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "3 people in view. Cabinet left, floor center."
+ },
+ {
+  "image": "phone_180602-151.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Elias ahead. Person to your right. Cabinet left, counter right."
+ },
+ {
+  "image": "phone_182504-583.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Food."
+ },
+ {
+  "image": "phone_182508-138.jpg",
+  "route": "model",
+  "heard": "What is this food?",
+  "reply": "Meal."
+ },
+ {
+  "image": "phone_182514-132.jpg",
+  "route": "model",
+  "heard": "Describe this food in detail",
+  "reply": "Plate center, pita left, tomato right."
+ },
+ {
+  "image": "phone_184509-692.jpg",
+  "route": "memory",
+  "heard": "This is Gautam",
+  "reply": "Remembered Gautam."
+ },
+ {
+  "image": "phone_184516-531.jpg",
+  "route": "memory",
+  "heard": "Who is this?",
+  "reply": "Gautam, 2 feet ahead."
+ },
+ {
+  "image": "phone_184527-497.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Chair."
+ },
+ {
+  "image": "phone_184532-156.jpg",
+  "route": "model",
+  "heard": "What is this?",
+  "reply": "Phone."
+ },
+ {
+  "image": "phone_184535-685.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Phone front, plate left."
+ },
+ {
+  "image": "phone_184539-868.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Mark ahead. 11 people in view. Table front, cans left, plates center, phone right."
+ },
+ {
+  "image": "phone_184542-773.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Arian ahead. Arian to your left. 9 people in view. Chair front, table left, counter back."
+ },
+ {
+  "image": "phone_184545-144.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person ahead. Table right, chair center, floor left."
+ },
+ {
+  "image": "phone_184555-542.jpg",
+  "route": "model",
+  "heard": "What you see?",
+  "reply": "Blurry indoor area."
+ },
+ {
+  "image": "phone_184652-250.jpg",
+  "route": "memory",
+  "heard": "This is Charles",
+  "reply": "Remembered Charles."
+ },
+ {
+  "image": "phone_185442-842.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Person ahead. Plate left, napkin right, table front."
+ },
+ {
+  "image": "phone_185501-065.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Elias ahead. 8 people in view. Table front, plate center, napkin right."
+ },
+ {
+  "image": "phone_185514-995.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "9 people in view. Plates front, can left, table right."
+ },
+ {
+  "image": "phone_192811-983.jpg",
+  "route": "memory",
+  "heard": "What time is it?",
+  "reply": "7:28\u202fPM."
+ },
+ {
+  "image": "phone_193255-077.jpg",
+  "route": "model",
+  "heard": "What is this?",
+  "reply": "Can, Nutrition Facts."
+ },
+ {
+  "image": "phone_193259-903.jpg",
+  "route": "model",
+  "heard": "What is this?",
+  "reply": "Can, Red Bull drink."
+ },
+ {
+  "image": "phone_193303-231.jpg",
+  "route": "memory",
+  "heard": "Who's that?",
+  "reply": "Elias, 1 foot ahead."
+ },
+ {
+  "image": "phone_193307-742.jpg",
+  "route": "memory",
+  "heard": "Who's that?",
+  "reply": "Arian, 4 feet ahead."
+ },
+ {
+  "image": "phone_193312-295.jpg",
+  "route": "memory",
+  "heard": "Who is this?",
+  "reply": "Charles, 1 foot ahead."
+ },
+ {
+  "image": "phone_193314-892.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Arian to your left. 4 people in view. Laptop center, water bottle left, can left."
+ },
+ {
+  "image": "phone_193347-768.jpg",
+  "route": "memory",
+  "heard": "Who is this?",
+  "reply": "Unknown person, 3 feet ahead."
+ },
+ {
+  "image": "phone_193403-231.jpg",
+  "route": "memory",
+  "heard": "This is Cole",
+  "reply": "Remembered Cole."
+ },
+ {
+  "image": "phone_193407-207.jpg",
+  "route": "memory",
+  "heard": "Who is this?",
+  "reply": "Cole, 3 feet ahead."
+ },
+ {
+  "image": "phone_193541-888.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Nothing visible."
+ },
+ {
+  "image": "phone_193638-590.jpg",
+  "route": "memory",
+  "heard": "Who is this?",
+  "reply": "Charles, 2 feet ahead."
+ },
+ {
+  "image": "phone_193644-806.jpg",
+  "route": "memory",
+  "heard": "Who is this?",
+  "reply": "Elias, 1 foot ahead."
+ },
+ {
+  "image": "phone_193647-607.jpg",
+  "route": "memory",
+  "heard": "This is Elias also",
+  "reply": "Updated Elias."
+ },
+ {
+  "image": "phone_193655-914.jpg",
+  "route": "memory",
+  "heard": "This is Elias",
+  "reply": "Updated Elias."
+ },
+ {
+  "image": "phone_193723-420.jpg",
+  "route": "model",
+  "heard": "What's that?",
+  "reply": "Red Bull can."
+ },
+ {
+  "image": "phone_193726-091.jpg",
+  "route": "description",
+  "heard": "What is in front of me?",
+  "reply": "Fleece blanket center, stickers bottom left, cup bottom right."
+ },
+ {
+  "image": "phone_193735-603.jpg",
+  "route": "object",
+  "heard": "What is in front of me?",
+  "reply": "Fleece blanket."
+ },
+ {
+  "image": "phone_193738-690.jpg",
+  "route": "model",
+  "heard": "What is this?",
+  "reply": "Folded blanket."
+ },
+ {
+  "image": "phone_193743-881.jpg",
+  "route": "model",
+  "heard": "What is this?",
+  "reply": "Folded clothes."
+ }
+]

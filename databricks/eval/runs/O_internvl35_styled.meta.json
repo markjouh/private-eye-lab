@@ -1,0 +1,35 @@
+{
+ "model": "OpenGVLab_InternVL3_5-2B-Q4_K_M.gguf",
+ "mmproj": "mmproj-OpenGVLab_InternVL3_5-2B-f16.gguf",
+ "styled": true,
+ "repeat_penalty": 1.1,
+ "server_args": "",
+ "vizwiz": {
+  "n": 500,
+  "errors": 0,
+  "first_error": null,
+  "empty": 0,
+  "seconds": 425,
+  "mean_words": 9.0,
+  "max_words": 299,
+  "mean_tok_s": 38.0,
+  "mean_prompt_tok": 1317.2,
+  "hit_token_cap": 4,
+  "thought": 0,
+  "system_in_user_turn": false
+ },
+ "phone": {
+  "n": 42,
+  "errors": 0,
+  "first_error": null,
+  "empty": 0,
+  "seconds": 33,
+  "mean_words": 10.3,
+  "max_words": 57,
+  "mean_tok_s": 38.6,
+  "mean_prompt_tok": 1364.0,
+  "hit_token_cap": 0,
+  "thought": 0,
+  "system_in_user_turn": false
+ }
+}

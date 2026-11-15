@@ -1,0 +1,766 @@
+{
+ "n": 500,
+ "answerable": 385,
+ "unanswerable": 115,
+ "runs": {
+  "G_ft_v2_plain": {
+   "run": "G_ft_v2_plain",
+   "n": 500,
+   "ungraded": 0,
+   "right": 332,
+   "partly": 73,
+   "wrong": 95,
+   "answerable_right": 229,
+   "answerable_declined": 37,
+   "unanswerable_declined": 103,
+   "unanswerable_invented": 9,
+   "mean_words": 5.7
+  },
+  "H_ft_v2_app": {
+   "run": "H_ft_v2_app",
+   "n": 500,
+   "ungraded": 0,
+   "right": 312,
+   "partly": 86,
+   "wrong": 102,
+   "answerable_right": 222,
+   "answerable_declined": 30,
+   "unanswerable_declined": 90,
+   "unanswerable_invented": 16,
+   "mean_words": 4.1
+  },
+  "D_plain_768": {
+   "run": "D_plain_768",
+   "n": 500,
+   "ungraded": 0,
+   "right": 226,
+   "partly": 100,
+   "wrong": 174,
+   "answerable_right": 189,
+   "answerable_declined": 10,
+   "unanswerable_declined": 37,
+   "unanswerable_invented": 67,
+   "mean_words": 3.2
+  },
+  "A_app_768": {
+   "run": "A_app_768",
+   "n": 500,
+   "ungraded": 0,
+   "right": 218,
+   "partly": 116,
+   "wrong": 166,
+   "answerable_right": 192,
+   "answerable_declined": 9,
+   "unanswerable_declined": 26,
+   "unanswerable_invented": 70,
+   "mean_words": 3.1
+  },
+  "K_qwen35_plain": {
+   "run": "K_qwen35_plain",
+   "n": 500,
+   "ungraded": 0,
+   "right": 250,
+   "partly": 75,
+   "wrong": 175,
+   "answerable_right": 233,
+   "answerable_declined": 3,
+   "unanswerable_declined": 17,
+   "unanswerable_invented": 92,
+   "mean_words": 4.2
+  },
+  "K_qwen35_styled": {
+   "run": "K_qwen35_styled",
+   "n": 500,
+   "ungraded": 0,
+   "right": 231,
+   "partly": 119,
+   "wrong": 150,
+   "answerable_right": 217,
+   "answerable_declined": 4,
+   "unanswerable_declined": 14,
+   "unanswerable_invented": 78,
+   "mean_words": 4.1
+  },
+  "L_qwen3vl_plain": {
+   "run": "L_qwen3vl_plain",
+   "n": 500,
+   "ungraded": 0,
+   "right": 243,
+   "partly": 97,
+   "wrong": 160,
+   "answerable_right": 218,
+   "answerable_declined": 3,
+   "unanswerable_declined": 25,
+   "unanswerable_invented": 81,
+   "mean_words": 3.0
+  },
+  "L_qwen3vl_styled": {
+   "run": "L_qwen3vl_styled",
+   "n": 500,
+   "ungraded": 0,
+   "right": 238,
+   "partly": 110,
+   "wrong": 152,
+   "answerable_right": 219,
+   "answerable_declined": 6,
+   "unanswerable_declined": 19,
+   "unanswerable_invented": 74,
+   "mean_words": 5.0
+  },
+  "M2_gemma4_560_plain": {
+   "run": "M2_gemma4_560_plain",
+   "n": 500,
+   "ungraded": 0,
+   "right": 196,
+   "partly": 107,
+   "wrong": 197,
+   "answerable_right": 171,
+   "answerable_declined": 11,
+   "unanswerable_declined": 25,
+   "unanswerable_invented": 65,
+   "mean_words": 4.1
+  },
+  "M2_gemma4_560_styled": {
+   "run": "M2_gemma4_560_styled",
+   "n": 500,
+   "ungraded": 0,
+   "right": 186,
+   "partly": 130,
+   "wrong": 184,
+   "answerable_right": 160,
+   "answerable_declined": 9,
+   "unanswerable_declined": 26,
+   "unanswerable_invented": 63,
+   "mean_words": 4.0
+  },
+  "N_smolvlm2_plain": {
+   "run": "N_smolvlm2_plain",
+   "n": 500,
+   "ungraded": 0,
+   "right": 225,
+   "partly": 94,
+   "wrong": 181,
+   "answerable_right": 181,
+   "answerable_declined": 31,
+   "unanswerable_declined": 44,
+   "unanswerable_invented": 66,
+   "mean_words": 7.7
+  },
+  "N_smolvlm2_styled": {
+   "run": "N_smolvlm2_styled",
+   "n": 500,
+   "ungraded": 0,
+   "right": 195,
+   "partly": 96,
+   "wrong": 209,
+   "answerable_right": 173,
+   "answerable_declined": 6,
+   "unanswerable_declined": 22,
+   "unanswerable_invented": 87,
+   "mean_words": 3.6
+  },
+  "O_internvl35_plain": {
+   "run": "O_internvl35_plain",
+   "n": 500,
+   "ungraded": 0,
+   "right": 195,
+   "partly": 109,
+   "wrong": 196,
+   "answerable_right": 177,
+   "answerable_declined": 4,
+   "unanswerable_declined": 18,
+   "unanswerable_invented": 85,
+   "mean_words": 16.4
+  },
+  "O_internvl35_styled": {
+   "run": "O_internvl35_styled",
+   "n": 500,
+   "ungraded": 0,
+   "right": 183,
+   "partly": 108,
+   "wrong": 209,
+   "answerable_right": 177,
+   "answerable_declined": 7,
+   "unanswerable_declined": 6,
+   "unanswerable_invented": 89,
+   "mean_words": 9.0
+  }
+ },
+ "models": [
+  {
+   "model": "Private Eye fine-tune (LFM3-VL-2B)",
+   "plain": {
+    "run": "G_ft_v2_plain",
+    "n": 500,
+    "ungraded": 0,
+    "right": 332,
+    "partly": 73,
+    "wrong": 95,
+    "answerable_right": 229,
+    "answerable_declined": 37,
+    "unanswerable_declined": 103,
+    "unanswerable_invented": 9,
+    "mean_words": 5.7
+   },
+   "styled": {
+    "run": "H_ft_v2_app",
+    "n": 500,
+    "ungraded": 0,
+    "right": 312,
+    "partly": 86,
+    "wrong": 102,
+    "answerable_right": 222,
+    "answerable_declined": 30,
+    "unanswerable_declined": 90,
+    "unanswerable_invented": 16,
+    "mean_words": 4.1
+   }
+  },
+  {
+   "model": "LFM3-VL-2B",
+   "plain": {
+    "run": "D_plain_768",
+    "n": 500,
+    "ungraded": 0,
+    "right": 226,
+    "partly": 100,
+    "wrong": 174,
+    "answerable_right": 189,
+    "answerable_declined": 10,
+    "unanswerable_declined": 37,
+    "unanswerable_invented": 67,
+    "mean_words": 3.2
+   },
+   "styled": {
+    "run": "A_app_768",
+    "n": 500,
+    "ungraded": 0,
+    "right": 218,
+    "partly": 116,
+    "wrong": 166,
+    "answerable_right": 192,
+    "answerable_declined": 9,
+    "unanswerable_declined": 26,
+    "unanswerable_invented": 70,
+    "mean_words": 3.1
+   }
+  },
+  {
+   "model": "Qwen3.5-2B",
+   "plain": {
+    "run": "K_qwen35_plain",
+    "n": 500,
+    "ungraded": 0,
+    "right": 250,
+    "partly": 75,
+    "wrong": 175,
+    "answerable_right": 233,
+    "answerable_declined": 3,
+    "unanswerable_declined": 17,
+    "unanswerable_invented": 92,
+    "mean_words": 4.2
+   },
+   "styled": {
+    "run": "K_qwen35_styled",
+    "n": 500,
+    "ungraded": 0,
+    "right": 231,
+    "partly": 119,
+    "wrong": 150,
+    "answerable_right": 217,
+    "answerable_declined": 4,
+    "unanswerable_declined": 14,
+    "unanswerable_invented": 78,
+    "mean_words": 4.1
+   }
+  },
+  {
+   "model": "Qwen3-VL-2B",
+   "plain": {
+    "run": "L_qwen3vl_plain",
+    "n": 500,
+    "ungraded": 0,
+    "right": 243,
+    "partly": 97,
+    "wrong": 160,
+    "answerable_right": 218,
+    "answerable_declined": 3,
+    "unanswerable_declined": 25,
+    "unanswerable_invented": 81,
+    "mean_words": 3.0
+   },
+   "styled": {
+    "run": "L_qwen3vl_styled",
+    "n": 500,
+    "ungraded": 0,
+    "right": 238,
+    "partly": 110,
+    "wrong": 152,
+    "answerable_right": 219,
+    "answerable_declined": 6,
+    "unanswerable_declined": 19,
+    "unanswerable_invented": 74,
+    "mean_words": 5.0
+   }
+  },
+  {
+   "model": "Gemma 4 E2B",
+   "plain": {
+    "run": "M2_gemma4_560_plain",
+    "n": 500,
+    "ungraded": 0,
+    "right": 196,
+    "partly": 107,
+    "wrong": 197,
+    "answerable_right": 171,
+    "answerable_declined": 11,
+    "unanswerable_declined": 25,
+    "unanswerable_invented": 65,
+    "mean_words": 4.1
+   },
+   "styled": {
+    "run": "M2_gemma4_560_styled",
+    "n": 500,
+    "ungraded": 0,
+    "right": 186,
+    "partly": 130,
+    "wrong": 184,
+    "answerable_right": 160,
+    "answerable_declined": 9,
+    "unanswerable_declined": 26,
+    "unanswerable_invented": 63,
+    "mean_words": 4.0
+   }
+  },
+  {
+   "model": "SmolVLM2-2.2B",
+   "plain": {
+    "run": "N_smolvlm2_plain",
+    "n": 500,
+    "ungraded": 0,
+    "right": 225,
+    "partly": 94,
+    "wrong": 181,
+    "answerable_right": 181,
+    "answerable_declined": 31,
+    "unanswerable_declined": 44,
+    "unanswerable_invented": 66,
+    "mean_words": 7.7
+   },
+   "styled": {
+    "run": "N_smolvlm2_styled",
+    "n": 500,
+    "ungraded": 0,
+    "right": 195,
+    "partly": 96,
+    "wrong": 209,
+    "answerable_right": 173,
+    "answerable_declined": 6,
+    "unanswerable_declined": 22,
+    "unanswerable_invented": 87,
+    "mean_words": 3.6
+   }
+  },
+  {
+   "model": "InternVL3.5-2B",
+   "plain": {
+    "run": "O_internvl35_plain",
+    "n": 500,
+    "ungraded": 0,
+    "right": 195,
+    "partly": 109,
+    "wrong": 196,
+    "answerable_right": 177,
+    "answerable_declined": 4,
+    "unanswerable_declined": 18,
+    "unanswerable_invented": 85,
+    "mean_words": 16.4
+   },
+   "styled": {
+    "run": "O_internvl35_styled",
+    "n": 500,
+    "ungraded": 0,
+    "right": 183,
+    "partly": 108,
+    "wrong": 209,
+    "answerable_right": 177,
+    "answerable_declined": 7,
+    "unanswerable_declined": 6,
+    "unanswerable_invented": 89,
+    "mean_words": 9.0
+   }
+  }
+ ],
+ "samples": {
+  "00001201": {
+   "question": "What is my blood pressure reading?",
+   "answerable": "no",
+   "reason": "not_in_frame",
+   "reference": "",
+   "evidence": "The monitor\u2019s display is cut off, and blur and glare obscure the remaining digits.",
+   "answers": {
+    "Private Eye fine-tune (LFM3-VL-2B)": {
+     "text": "Glare obscures the reading. Tilt the phone.",
+     "grade": "right"
+    },
+    "LFM3-VL-2B": {
+     "text": "125/80",
+     "grade": "wrong"
+    },
+    "Qwen3.5-2B": {
+     "text": "120/80",
+     "grade": "wrong"
+    },
+    "Qwen3-VL-2B": {
+     "text": "120/75",
+     "grade": "wrong"
+    },
+    "Gemma 4 E2B": {
+     "text": "Look at the screen. What does it say?",
+     "grade": "wrong"
+    },
+    "SmolVLM2-2.2B": {
+     "text": "120/80",
+     "grade": "wrong"
+    },
+    "InternVL3.5-2B": {
+     "text": "178/92",
+     "grade": "wrong"
+    }
+   }
+  },
+  "00004049": {
+   "question": "How much sodium is in this package?",
+   "answerable": "no",
+   "reason": "not_in_frame",
+   "reference": "",
+   "evidence": "The Samoas box is partially visible, but no nutrition label showing a sodium amount is in frame.",
+   "answers": {
+    "Private Eye fine-tune (LFM3-VL-2B)": {
+     "text": "Nutrition panel isn't visible. Turn the box over.",
+     "grade": "right"
+    },
+    "LFM3-VL-2B": {
+     "text": "1000",
+     "grade": "wrong"
+    },
+    "Qwen3.5-2B": {
+     "text": "10mg",
+     "grade": "wrong"
+    },
+    "Qwen3-VL-2B": {
+     "text": "0 mg",
+     "grade": "wrong"
+    },
+    "Gemma 4 E2B": {
+     "text": "Sodium info not visible.",
+     "grade": "right"
+    },
+    "SmolVLM2-2.2B": {
+     "text": "140 mg",
+     "grade": "wrong"
+    },
+    "InternVL3.5-2B": {
+     "text": "The package contains 100 mg of sodium per serving.",
+     "grade": "wrong"
+    }
+   }
+  },
+  "00002980": {
+   "question": "Could you tell me the sodium content of this tin?",
+   "answerable": "no",
+   "reason": "not_in_frame",
+   "reference": "",
+   "evidence": "The can's front faces the camera; no readable sodium amount is visible on the narrow side label.",
+   "answers": {
+    "Private Eye fine-tune (LFM3-VL-2B)": {
+     "text": "Nutrition label isn't visible. Turn the can.",
+     "grade": "right"
+    },
+    "LFM3-VL-2B": {
+     "text": "No sodium listed.",
+     "grade": "right"
+    },
+    "Qwen3.5-2B": {
+     "text": "1050mg",
+     "grade": "wrong"
+    },
+    "Qwen3-VL-2B": {
+     "text": "185 mg",
+     "grade": "wrong"
+    },
+    "Gemma 4 E2B": {
+     "text": "Look at the label.",
+     "grade": "wrong"
+    },
+    "SmolVLM2-2.2B": {
+     "text": "The sodium content is 185 mg.",
+     "grade": "wrong"
+    },
+    "InternVL3.5-2B": {
+     "text": "The sodium content on the label is not visible in this image.",
+     "grade": "right"
+    }
+   }
+  },
+  "00002903": {
+   "question": "What kind of medication is in this bottle?",
+   "answerable": "no",
+   "reason": "too_blurry",
+   "reference": "",
+   "evidence": "The bottle's medication label is too blurred to reliably read the drug name or active ingredient.",
+   "answers": {
+    "Private Eye fine-tune (LFM3-VL-2B)": {
+     "text": "Label is blurry. Hold the phone still.",
+     "grade": "right"
+    },
+    "LFM3-VL-2B": {
+     "text": "I cannot determine the medication type from the image.",
+     "grade": "right"
+    },
+    "Qwen3.5-2B": {
+     "text": "Antibiotics.",
+     "grade": "wrong"
+    },
+    "Qwen3-VL-2B": {
+     "text": "antibiotic",
+     "grade": "wrong"
+    },
+    "Gemma 4 E2B": {
+     "text": "Medication label visible. What else do you need to know?",
+     "grade": "partly"
+    },
+    "SmolVLM2-2.2B": {
+     "text": "unanswerable",
+     "grade": "right"
+    },
+    "InternVL3.5-2B": {
+     "text": "The bottle contains eye drops.",
+     "grade": "wrong"
+    }
+   }
+  },
+  "00004143": {
+   "question": "What does this pregnancy test show?",
+   "answerable": "yes",
+   "reason": "not_applicable",
+   "reference": "One red line is visible.",
+   "evidence": "The test strip shows one distinct red line beside the blue handle.",
+   "answers": {
+    "Private Eye fine-tune (LFM3-VL-2B)": {
+     "text": "One visible red line.",
+     "grade": "right"
+    },
+    "LFM3-VL-2B": {
+     "text": "One line.",
+     "grade": "right"
+    },
+    "Qwen3.5-2B": {
+     "text": "Negative.",
+     "grade": "right"
+    },
+    "Qwen3-VL-2B": {
+     "text": "positive",
+     "grade": "wrong"
+    },
+    "Gemma 4 E2B": {
+     "text": "Lines present?",
+     "grade": "wrong"
+    },
+    "SmolVLM2-2.2B": {
+     "text": "positive",
+     "grade": "wrong"
+    },
+    "InternVL3.5-2B": {
+     "text": "The pregnancy test shows a positive result.",
+     "grade": "wrong"
+    }
+   }
+  },
+  "00003286": {
+   "question": "Can you tell me how much i weigh please?",
+   "answerable": "no",
+   "reason": "other",
+   "reference": "",
+   "evidence": "The scale shows an isolated \u201c1\u201d with dash-like segments, not a complete weight reading.",
+   "answers": {
+    "Private Eye fine-tune (LFM3-VL-2B)": {
+     "text": "No number visible. Move closer to the scale display.",
+     "grade": "right"
+    },
+    "LFM3-VL-2B": {
+     "text": "0",
+     "grade": "wrong"
+    },
+    "Qwen3.5-2B": {
+     "text": "10kg",
+     "grade": "wrong"
+    },
+    "Qwen3-VL-2B": {
+     "text": "120",
+     "grade": "wrong"
+    },
+    "Gemma 4 E2B": {
+     "text": "I cannot see your weight. What else do you want to know?",
+     "grade": "right"
+    },
+    "SmolVLM2-2.2B": {
+     "text": "150 lbs",
+     "grade": "wrong"
+    },
+    "InternVL3.5-2B": {
+     "text": "I'm sorry, but I can't provide the weight from this image. You might want to check the scale's display for your exact weight.",
+     "grade": "right"
+    }
+   }
+  },
+  "00002762": {
+   "question": "Cooking directions.",
+   "answerable": "no",
+   "reason": "not_in_frame",
+   "reference": "",
+   "evidence": "Only the front of the Michelina\u2019s Chicken Fried Rice package is visible; cooking directions are not shown.",
+   "answers": {
+    "Private Eye fine-tune (LFM3-VL-2B)": {
+     "text": "Directions aren't visible. Turn the package over.",
+     "grade": "right"
+    },
+    "LFM3-VL-2B": {
+     "text": "Cook frozen rice according to package instructions.",
+     "grade": "wrong"
+    },
+    "Qwen3.5-2B": {
+     "text": "Fry rice with chicken, peas, carrots, and red peppers.",
+     "grade": "wrong"
+    },
+    "Qwen3-VL-2B": {
+     "text": "keep frozen cook thoroughly",
+     "grade": "wrong"
+    },
+    "Gemma 4 E2B": {
+     "text": "Rice dish. What's next?",
+     "grade": "partly"
+    },
+    "SmolVLM2-2.2B": {
+     "text": "Micheline's Chicken Fried Rice is ready to be cooked.",
+     "grade": "wrong"
+    },
+    "InternVL3.5-2B": {
+     "text": "Keep frozen. Cook through.",
+     "grade": "wrong"
+    }
+   }
+  },
+  "00001832": {
+   "question": "I know this is a medication, but what type?",
+   "answerable": "no",
+   "reason": "too_blurry",
+   "reference": "",
+   "evidence": "The medication bottle is visible, but its label is too blurred to identify the medicine.",
+   "answers": {
+    "Private Eye fine-tune (LFM3-VL-2B)": {
+     "text": "Medication name isn't visible. Turn the bottle.",
+     "grade": "right"
+    },
+    "LFM3-VL-2B": {
+     "text": "Pill bottle.",
+     "grade": "partly"
+    },
+    "Qwen3.5-2B": {
+     "text": "pain reliever",
+     "grade": "wrong"
+    },
+    "Qwen3-VL-2B": {
+     "text": "antibiotic",
+     "grade": "wrong"
+    },
+    "Gemma 4 E2B": {
+     "text": "What's on the label?",
+     "grade": "wrong"
+    },
+    "SmolVLM2-2.2B": {
+     "text": "It's hard to tell from the image alone. The label on the jar doesn't provide enough information to determine its exact nature. It could be anything from a pain reliever like acetaminophen to an antibiotic or even a vitamin supplement. Without more context or a clearer view of the label, it's impossible to say for sure.",
+     "grade": "right"
+    },
+    "InternVL3.5-2B": {
+     "text": "This appears to be a bottle of vitamin or supplement pills. The label might indicate the specific type, such as vitamins or minerals.",
+     "grade": "wrong"
+    }
+   }
+  },
+  "00000719": {
+   "question": "What are the numbers on this product key?",
+   "answerable": "no",
+   "reason": "too_blurry",
+   "reference": "",
+   "evidence": "The white product label is visible, but its characters are too blurred to read.",
+   "answers": {
+    "Private Eye fine-tune (LFM3-VL-2B)": {
+     "text": "Too blurry to read. Hold still.",
+     "grade": "right"
+    },
+    "LFM3-VL-2B": {
+     "text": "1234567890",
+     "grade": "wrong"
+    },
+    "Qwen3.5-2B": {
+     "text": "1234567890",
+     "grade": "wrong"
+    },
+    "Qwen3-VL-2B": {
+     "text": "1234567890",
+     "grade": "wrong"
+    },
+    "Gemma 4 E2B": {
+     "text": "Can't read them clearly.",
+     "grade": "right"
+    },
+    "SmolVLM2-2.2B": {
+     "text": "1038769254",
+     "grade": "wrong"
+    },
+    "InternVL3.5-2B": {
+     "text": "The product key number is 1234567890.",
+     "grade": "wrong"
+    }
+   }
+  },
+  "00003932": {
+   "question": "How much time is on the display?",
+   "answerable": "no",
+   "reason": "not_in_frame",
+   "reference": "",
+   "evidence": "The digital display is mostly cut off at the right edge, leaving no readable time.",
+   "answers": {
+    "Private Eye fine-tune (LFM3-VL-2B)": {
+     "text": "Display is cut off. Move back.",
+     "grade": "right"
+    },
+    "LFM3-VL-2B": {
+     "text": "Can't tell.",
+     "grade": "right"
+    },
+    "Qwen3.5-2B": {
+     "text": "10:25",
+     "grade": "wrong"
+    },
+    "Qwen3-VL-2B": {
+     "text": "10 minutes",
+     "grade": "wrong"
+    },
+    "Gemma 4 E2B": {
+     "text": "Display not visible.",
+     "grade": "right"
+    },
+    "SmolVLM2-2.2B": {
+     "text": "10 minutes",
+     "grade": "wrong"
+    },
+    "InternVL3.5-2B": {
+     "text": "The timer shows 0:00.",
+     "grade": "wrong"
+    }
+   }
+  }
+ }
+}

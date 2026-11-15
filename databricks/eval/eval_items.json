@@ -1,0 +1,9002 @@
+[
+ {
+  "id": "00003799",
+  "image": "VizWiz_val_00003799.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "up",
+   "7 up",
+   "up can",
+   "up",
+   "7 up",
+   "can up",
+   "up",
+   "7 up",
+   "up",
+   "up"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003856",
+  "image": "VizWiz_val_00003856.jpg",
+  "question": "What is this book?",
+  "crowd_answers": [
+   "diary wimpy kid ugly truth",
+   "diary wimpy kid ugly truth",
+   "diary wimpy kid ugly truth",
+   "diary wimpy kid: ugly truth",
+   "diary wimpy kid",
+   "diary wimpy kid ugly truth",
+   "diary wimpy kid",
+   "disarm wimpy kid ugly truth",
+   "diary wimpy kid ugly truth",
+   "diary wimpy kid ugly truth"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002102",
+  "image": "VizWiz_val_00002102.jpg",
+  "question": "Can you tell me what these are called?",
+  "crowd_answers": [
+   "ervgrg",
+   "unanswerable",
+   "cotton",
+   "unanswerable",
+   "unanswerable",
+   "socks",
+   "towels",
+   "unanswerable",
+   "towels",
+   "socks"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003094",
+  "image": "VizWiz_val_00003094.jpg",
+  "question": "What color is the shirt?",
+  "crowd_answers": [
+   "brown",
+   "grey",
+   "grey",
+   "clothes",
+   "beige",
+   "grey",
+   "brown",
+   "grey",
+   "grey",
+   "white"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001750",
+  "image": "VizWiz_val_00001750.jpg",
+  "question": "Can you tell me what this product is?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unable to see product move back to left",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000887",
+  "image": "VizWiz_val_00000887.jpg",
+  "question": "ISD confirmed February 8th and 9th. Does that work for you guys?",
+  "crowd_answers": [
+   "yes",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "yes",
+   "yes",
+   "unanswerable",
+   "unanswerable",
+   "yes"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002792",
+  "image": "VizWiz_val_00002792.jpg",
+  "question": "Whats in the bag?",
+  "crowd_answers": [
+   "chocolate chips",
+   "milk chocolate",
+   "milk chocolate",
+   "milk chocolate morsels",
+   "chocolate chips",
+   "milk chocolate morsels",
+   "chocolate chips",
+   "chocolate morsels",
+   "nestle milk chocolate chips",
+   "chocolate chips"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000751",
+  "image": "VizWiz_val_00000751.jpg",
+  "question": "What does this CAPTCHA say?",
+  "crowd_answers": [
+   "ionsuo",
+   "practical yonsuo",
+   "ionsuo",
+   "practical lonsuo",
+   "practical ionsuo",
+   "practical 1onsuo",
+   "practical lonsup",
+   "practical ionsuo",
+   "ionsuo",
+   "practical lonsuo"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000149",
+  "image": "VizWiz_val_00000149.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "bar code",
+   "unanswerable",
+   "computer monitor",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "picture on computer",
+   "unanswerable",
+   "monitor",
+   "i cannot tell"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001665",
+  "image": "VizWiz_val_00001665.jpg",
+  "question": "What color is this shirt?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "brown",
+   "orange",
+   "unanswerable",
+   "orange",
+   "red",
+   "unanswerable",
+   "unanswerable",
+   "rose"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002719",
+  "image": "VizWiz_val_00002719.jpg",
+  "question": "Hi what kind of chips are these? Thank you.",
+  "crowd_answers": [
+   "unanswerable",
+   "bugles",
+   "unanswerable",
+   "bugles",
+   "unanswerable",
+   "bugles",
+   "bugles",
+   "unanswerable",
+   "unanswerable",
+   "red"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001906",
+  "image": "VizWiz_val_00001906.jpg",
+  "question": "What is this document?",
+  "crowd_answers": [
+   "unanswerable",
+   "medicare card",
+   "cms",
+   "medicare id card",
+   "fsd",
+   "unanswerable",
+   "unanswerable",
+   "medicare information about card",
+   "cms info card",
+   "medical card"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003277",
+  "image": "VizWiz_val_00003277.jpg",
+  "question": "What kind of yogurt is this?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "yoplait",
+   "unanswerable",
+   "low fat",
+   "unanswerable",
+   "unanswerable",
+   "mountain blueberry",
+   "low fat yoplait"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002426",
+  "image": "VizWiz_val_00002426.jpg",
+  "question": "What's in the collage?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "foot",
+   "unanswerable",
+   "unanswerable",
+   "carpet",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000402",
+  "image": "VizWiz_val_00000402.jpg",
+  "question": "Is this valium?",
+  "crowd_answers": [
+   "no",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "no",
+   "unanswerable",
+   "unanswerable",
+   "unable to read medication name"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000569",
+  "image": "VizWiz_val_00000569.jpg",
+  "question": "What animal is on this computer screen?",
+  "crowd_answers": [
+   "no animal",
+   "0",
+   "0",
+   "0",
+   "0",
+   "no animal in screen",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002676",
+  "image": "VizWiz_val_00002676.jpg",
+  "question": "What is this item?",
+  "crowd_answers": [
+   "grilled chicken spanish rice",
+   "chicken",
+   "chicken",
+   "steam in bag grilled chicken spanish rice",
+   "grilled chicken spanish rice",
+   "grilled chicken spanish rice",
+   "grilled chicken spanish rice",
+   "grilled chicken spanish rice",
+   "grilled chicken spanish rice",
+   "chicken"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003689",
+  "image": "VizWiz_val_00003689.jpg",
+  "question": "Is there any kind of model number written on this modem?",
+  "crowd_answers": [
+   "unanswerable",
+   "no",
+   "unanswerable",
+   "a123",
+   "no",
+   "unanswerable",
+   "unanswerable",
+   "no",
+   "no not this side",
+   "no"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002531",
+  "image": "VizWiz_val_00002531.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "chicken",
+   "chicken",
+   "frozen chicken",
+   "chicken",
+   "raw chicken",
+   "chicken",
+   "raw chicken",
+   "chicken",
+   "chix breats",
+   "chicken"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003081",
+  "image": "VizWiz_val_00003081.jpg",
+  "question": "What is in this can?",
+  "crowd_answers": [
+   "unanswerable",
+   "beans",
+   "chili",
+   "baked beans",
+   "soup",
+   "unanswerable",
+   "unanswerable",
+   "can",
+   "soup",
+   "beans"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001099",
+  "image": "VizWiz_val_00001099.jpg",
+  "question": "I had to do a whole new character thing, I forgot to fill something out so can you tell me what this security thing is?",
+  "crowd_answers": [
+   "captcha",
+   "captcha",
+   "unanswerable",
+   "no",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00004013",
+  "image": "VizWiz_val_00004013.jpg",
+  "question": "What flavor of cat food is this, please?",
+  "crowd_answers": [
+   "unanswerable",
+   "soeln",
+   "shrimp",
+   "unanswerable",
+   "salmon",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000959",
+  "image": "VizWiz_val_00000959.jpg",
+  "question": "I'm trying to figure out if you could tell me what button to push.",
+  "crowd_answers": [
+   "unanswerable",
+   "lower right more on demand button maybe exit button",
+   "c button",
+   "unanswerable",
+   "more on demand button",
+   "red c",
+   "unanswerable",
+   "unanswerable",
+   "c",
+   "push c"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001570",
+  "image": "VizWiz_val_00001570.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "vitamins",
+   "unanswerable",
+   "unanswerable",
+   "bottle",
+   "vitamin bottle",
+   "supplements",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "pills"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003045",
+  "image": "VizWiz_val_00003045.jpg",
+  "question": "What is this? Can i drink this?",
+  "crowd_answers": [
+   "hand sanitizer no",
+   "can",
+   "soap no",
+   "soap no",
+   "looks like hand soap do not drink",
+   "soap no you cannot drink",
+   "soap no",
+   "hand soap no",
+   "hand soap no do not drink",
+   "deodrant no"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001332",
+  "image": "VizWiz_val_00001332.jpg",
+  "question": "What does this bag say?",
+  "crowd_answers": [
+   "croutons",
+   "premium croutons",
+   "croutons",
+   "premium croutons",
+   "premium croutons",
+   "premium croutons",
+   "croutons",
+   "premium croutons",
+   "premium croutons",
+   "premium croutons"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003075",
+  "image": "VizWiz_val_00003075.jpg",
+  "question": "Can you please tell me what this letter says? Thank you.",
+  "crowd_answers": [
+   "feb 29 to march 2nd 2012 they will be testing fire alarms",
+   "fire life safety america will be on property preforming annual inspection 2 25 23 2 2017",
+   "fire drill on march 2nd 2012",
+   "attention residents",
+   "unanswerable",
+   "unanswerable",
+   "safety inspections will be held february to march 2012",
+   "fire drill",
+   "safety inspection",
+   "fire alarm test on february 29 2012"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003012",
+  "image": "VizWiz_val_00003012.jpg",
+  "question": "Can you tell me what this is?",
+  "crowd_answers": [
+   "this bottle",
+   "unanswerable",
+   "turn 1 quarter clockwise",
+   "medicine",
+   "pill bottle",
+   "medicine",
+   "pain killer",
+   "pill bottle",
+   "unanswerable",
+   "pain reliever"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002762",
+  "image": "VizWiz_val_00002762.jpg",
+  "question": "Cooking directions.",
+  "crowd_answers": [
+   "microwave 4 minutes",
+   "microwave",
+   "open corner to vent cook 4 minutes on high stir",
+   "turn package over",
+   "unanswerable",
+   "vent corner microwave 2 minutes stir microwave 1 1.5 minutes",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003657",
+  "image": "VizWiz_val_00003657.jpg",
+  "question": "What is in this can",
+  "crowd_answers": [
+   "vegetables",
+   "wrgrweg",
+   "mixed veggies",
+   "vegie original",
+   "mixed vegetables",
+   "veggies",
+   "vegall",
+   "vegetable",
+   "veggies",
+   "mixed vegetables"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001500",
+  "image": "VizWiz_val_00001500.jpg",
+  "question": "This is an advertisement?",
+  "crowd_answers": [
+   "unanswerable",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no just glass"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000659",
+  "image": "VizWiz_val_00000659.jpg",
+  "question": "Is he a boy or a girl?",
+  "crowd_answers": [
+   "unanswerable",
+   "boy",
+   "boy",
+   "girl",
+   "boy",
+   "boy",
+   "boy",
+   "boy",
+   "boy",
+   "boy"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000062",
+  "image": "VizWiz_val_00000062.jpg",
+  "question": "What website is this?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "site about iphone in app purchases"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001199",
+  "image": "VizWiz_val_00001199.jpg",
+  "question": "What temperature is the thermostat set to?",
+  "crowd_answers": [
+   "72",
+   "72",
+   "72",
+   "72 degrees",
+   "72",
+   "72",
+   "72",
+   "72",
+   "72",
+   "72"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003848",
+  "image": "VizWiz_val_00003848.jpg",
+  "question": "Is it sunny outside?",
+  "crowd_answers": [
+   "yes",
+   "yes",
+   "unanswerable",
+   "yes",
+   "no",
+   "yes",
+   "yes",
+   "yes",
+   "yed",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00004089",
+  "image": "VizWiz_val_00004089.jpg",
+  "question": "Do you see anything on this screen that says boot order?",
+  "crowd_answers": [
+   "unanswerable",
+   "no",
+   "no",
+   "yes",
+   "unanswerable",
+   "no",
+   "unanswerable",
+   "no",
+   "yes",
+   "no"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001498",
+  "image": "VizWiz_val_00001498.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "blackberry cell phone",
+   "blackberry",
+   "phone",
+   "phone",
+   "cell phone",
+   "cellphone",
+   "blackberry cell phone",
+   "cell phone",
+   "cell phone",
+   "blackberry cell phone"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003930",
+  "image": "VizWiz_val_00003930.jpg",
+  "question": "What movie is this?",
+  "crowd_answers": [
+   "4 deuces",
+   "4 deuces",
+   "4 deuces",
+   "4 deuces",
+   "4 deuces",
+   "4 deuces",
+   "4 deuces",
+   "4 deuces",
+   "4 deuces",
+   "comedy"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003709",
+  "image": "VizWiz_val_00003709.jpg",
+  "question": "Can you please tell what's in this bottle?",
+  "crowd_answers": [
+   "tomato sauce",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "pasta sauce",
+   "unanswerable",
+   "unanswerable",
+   "tomato sauce",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003243",
+  "image": "VizWiz_val_00003243.jpg",
+  "question": "What is my color of what is color of my shirt?",
+  "crowd_answers": [
+   "white",
+   "white",
+   "white",
+   "white",
+   "white",
+   "white",
+   "white",
+   "grey",
+   "white",
+   "grey"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001448",
+  "image": "VizWiz_val_00001448.jpg",
+  "question": "What kind of soda is this?",
+  "crowd_answers": [
+   "cherry coke",
+   "cherry coca cola",
+   "coca cola cherry",
+   "cherry coca cola",
+   "cherry coca cola",
+   "coke",
+   "cherry coca cola",
+   "cherry coca cola",
+   "coca cola cherry",
+   "cherry coke"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003724",
+  "image": "VizWiz_val_00003724.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "zatarains new orleans style jambalaya mix",
+   "jambalaya mix",
+   "jambalaya mix",
+   "jambalaya mix",
+   "jambalaya mix",
+   "rice",
+   "zatarains jambalaya mix",
+   "jambalaya",
+   "zatarains jambalaya mix",
+   "jambalaya mix"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002263",
+  "image": "VizWiz_val_00002263.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "cake mix",
+   "cheese cake",
+   "unanswerable",
+   "snack",
+   "cheesecake",
+   "food",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "cheesecake mix"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002278",
+  "image": "VizWiz_val_00002278.jpg",
+  "question": "What color is this?",
+  "crowd_answers": [
+   "grey",
+   "blue",
+   "light grey",
+   "blue",
+   "blue",
+   "blue",
+   "light blue",
+   "white",
+   "blue",
+   "blue"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000500",
+  "image": "VizWiz_val_00000500.jpg",
+  "question": "What letters. What letters do I type in to win the prize?",
+  "crowd_answers": [
+   "wvk",
+   "wvk",
+   "wvk",
+   "wvk",
+   "wvk",
+   "wvk",
+   "wvk",
+   "wvk",
+   "wvk",
+   "wvk"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003906",
+  "image": "VizWiz_val_00003906.jpg",
+  "question": "What is it?",
+  "crowd_answers": [
+   "keyboard",
+   "keyboard",
+   "keyboard",
+   "keyboard",
+   "keyboard",
+   "keyboard",
+   "keyboard",
+   "keyboard",
+   "keyboard",
+   "keyboard"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002845",
+  "image": "VizWiz_val_00002845.jpg",
+  "question": "What kind of coffee is this?",
+  "crowd_answers": [
+   "brazil santos",
+   "coffeeam",
+   "coffee am",
+   "coffeeam",
+   "unanswerable",
+   "brazil santos",
+   "brazil santos",
+   "brazilian",
+   "coffee am",
+   "coffeeam"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002189",
+  "image": "VizWiz_val_00002189.jpg",
+  "question": "Hello, could you please tell what caller this is?",
+  "crowd_answers": [
+   "red",
+   "aux cord",
+   "aux cord",
+   "red",
+   "red",
+   "red connector",
+   "color red",
+   "red",
+   "i do know",
+   "no"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002782",
+  "image": "VizWiz_val_00002782.jpg",
+  "question": "What is this song?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "bug in photo",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "beetle"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002942",
+  "image": "VizWiz_val_00002942.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "box",
+   "unanswerable",
+   "schwans meal",
+   "blackened chicken tender alfredo",
+   "book",
+   "package",
+   "schwans blackened chicken tender alfredo fettuccini",
+   "chicken alfredo",
+   "unanswerable",
+   "box"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000462",
+  "image": "VizWiz_val_00000462.jpg",
+  "question": "What options are on my screen?",
+  "crowd_answers": [
+   "no options in recovery center",
+   "left info on tools: hardware diagnostics restore c drive restore complete system rescue data",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "no options",
+   "unanswerable",
+   "cannot see full screen to determine options",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000893",
+  "image": "VizWiz_val_00000893.jpg",
+  "question": "Is this person a boy or a girl?",
+  "crowd_answers": [
+   "boy",
+   "boy",
+   "boy",
+   "boy",
+   "boy",
+   "boy",
+   "boy",
+   "boy",
+   "boy",
+   "boy"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002866",
+  "image": "VizWiz_val_00002866.jpg",
+  "question": "Are you ready to put up or shut up?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "put up",
+   "unanswerable",
+   "unanswerable",
+   "no",
+   "unanswerable",
+   "no"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002129",
+  "image": "VizWiz_val_00002129.jpg",
+  "question": "What book is this?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "birds",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "pic doesnt show title"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003820",
+  "image": "VizWiz_val_00003820.jpg",
+  "question": "Whats the picture on the shirt?",
+  "crowd_answers": [
+   "snoopy holding woodstock in pile christmas presents",
+   "snoopy presents",
+   "snoopy woodstock christmas",
+   "christmas snoopy woodstock",
+   "snoopy",
+   "snoopy woodstock presents",
+   "snoopy",
+   "snoopy christmas",
+   "snoopy woodstock christmas",
+   "snoopy"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001506",
+  "image": "VizWiz_val_00001506.jpg",
+  "question": "What type of key?",
+  "crowd_answers": [
+   "ginger peach herbal tea",
+   "ginger peach",
+   "unanswerable",
+   "ginger peach tea",
+   "ginger peach",
+   "ginger peach",
+   "ginger peach",
+   "unanswerable",
+   "ginger peach tea",
+   "ginger peach"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002711",
+  "image": "VizWiz_val_00002711.jpg",
+  "question": "What spice is this?",
+  "crowd_answers": [
+   "sugar",
+   "salt",
+   "unanswerable",
+   "salt",
+   "unanswerable",
+   "sugar",
+   "unanswerable",
+   "sugar",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003452",
+  "image": "VizWiz_val_00003452.jpg",
+  "question": "what is this card?",
+  "crowd_answers": [
+   "smiths reward card",
+   "smiths fresh values rewards",
+   "store loyalty",
+   "this card smiths fresh values",
+   "smiths reward card",
+   "rewards",
+   "smiths fresh value rewards",
+   "smiths fresh values rewards card",
+   "no image",
+   "smiths fresh values reward card"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000373",
+  "image": "VizWiz_val_00000373.jpg",
+  "question": "What was in this box? thank you.",
+  "crowd_answers": [
+   "unanswerable",
+   "software something in box",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "harman kardon speakers",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002985",
+  "image": "VizWiz_val_00002985.jpg",
+  "question": "How many servings are in this candy bar?",
+  "crowd_answers": [
+   "unanswerable",
+   "2",
+   "4",
+   "unanswerable",
+   "4",
+   "4 peanut butter cups",
+   "2",
+   "2",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002214",
+  "image": "VizWiz_val_00002214.jpg",
+  "question": "I'd like to see if you can identify this tube. Some sort of cream.",
+  "crowd_answers": [
+   "unanswerable",
+   "no",
+   "hydrocortisone",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "poison oak poison ivy"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000185",
+  "image": "VizWiz_val_00000185.jpg",
+  "question": "Please tell me whats on my screen, thank you, thank you, thank you I have no speech, bless you all for doing this. Oh No!",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000302",
+  "image": "VizWiz_val_00000302.jpg",
+  "question": "What is this T-shirt please?",
+  "crowd_answers": [
+   "minnesota twins",
+   "twins t shirt",
+   "minnesota twins",
+   "minnesota twins",
+   "minnesota twins 91 wins",
+   "minnesota twins",
+   "minnesota twins",
+   "minnesota twins",
+   "snim",
+   "baseball"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000248",
+  "image": "VizWiz_val_00000248.jpg",
+  "question": "What does the label say on this electronic component?",
+  "crowd_answers": [
+   "unanswerable",
+   "seagate",
+   "serial number made in china memory space this electronic gadget",
+   "unanswerable",
+   "seagate",
+   "unanswerable",
+   "seagate",
+   "unanswerable",
+   "seagate",
+   "seagate"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000242",
+  "image": "VizWiz_val_00000242.jpg",
+  "question": "Computer screen showing?",
+  "crowd_answers": [
+   "yes",
+   "unanswerable",
+   "code",
+   "unanswerable",
+   "yes",
+   "yes",
+   "words letters",
+   "unanswerable",
+   "reboot screen",
+   "repair progress"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000206",
+  "image": "VizWiz_val_00000206.jpg",
+  "question": "What is this package?",
+  "crowd_answers": [
+   "unknown",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001433",
+  "image": "VizWiz_val_00001433.jpg",
+  "question": "What is the yellow dot on for a setting?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "washer",
+   "unanswerable",
+   "i cant tell",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003242",
+  "image": "VizWiz_val_00003242.jpg",
+  "question": "What flavor is this?",
+  "crowd_answers": [
+   "tropical punch",
+   "tropical punch",
+   "tropical punch",
+   "tropical punch",
+   "tropical punch",
+   "cherry",
+   "tropical punch",
+   "cherry",
+   "lime",
+   "tropical punch"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000600",
+  "image": "VizWiz_val_00000600.jpg",
+  "question": "What's on my computer screen?",
+  "crowd_answers": [
+   "some letters",
+   "unanswerable",
+   "unknown",
+   "text",
+   "words",
+   "unanswerable",
+   "disc check",
+   "reboot screen",
+   "black screen white font",
+   "5 lines data"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003922",
+  "image": "VizWiz_val_00003922.jpg",
+  "question": "This is a blank screen. What color is it? Is there any text there?",
+  "crowd_answers": [
+   "green file missing",
+   "unanswerable",
+   "black says file missing",
+   "green yes",
+   "black yes",
+   "black file missing",
+   "file missing",
+   "green yes",
+   "green no",
+   "black file missing"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001942",
+  "image": "VizWiz_val_00001942.jpg",
+  "question": "What does the scale say?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "blank",
+   "blank",
+   "unanswerable",
+   "0",
+   "175",
+   "floor",
+   "nothing",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001981",
+  "image": "VizWiz_val_00001981.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "cream mushroom soup",
+   "cream mushroom soup",
+   "cream mushroom soup",
+   "soup",
+   "cream mushroom soup",
+   "cream mushroom soup",
+   "cream mushroom soup",
+   "cream mushroom",
+   "can campbells condensed cream mushroom soup",
+   "cream mushroom soup"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002216",
+  "image": "VizWiz_val_00002216.jpg",
+  "question": "Is there any text on this side of the paper please?",
+  "crowd_answers": [
+   "no",
+   "no",
+   "no",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "no",
+   "no",
+   "unanswerable",
+   "no"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003190",
+  "image": "VizWiz_val_00003190.jpg",
+  "question": "What's in this box?",
+  "crowd_answers": [
+   "hot pocket",
+   "hot pocket",
+   "hot pockets",
+   "hot pockets",
+   "hot pockets",
+   "hot pockets",
+   "hot pockets",
+   "hot pockets",
+   "hot pockets",
+   "hot pockets"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002350",
+  "image": "VizWiz_val_00002350.jpg",
+  "question": "What color is this phone case?",
+  "crowd_answers": [
+   "brown",
+   "black",
+   "brown",
+   "smoky grey",
+   "smoke color",
+   "black",
+   "black",
+   "see through black",
+   "grey",
+   "brown"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003907",
+  "image": "VizWiz_val_00003907.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "tool",
+   "cage",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "object",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003795",
+  "image": "VizWiz_val_00003795.jpg",
+  "question": "What color is this bell?",
+  "crowd_answers": [
+   "unanswerable",
+   "black",
+   "unanswerable",
+   "blue",
+   "blue",
+   "black",
+   "black",
+   "blue",
+   "blue",
+   "black"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001439",
+  "image": "VizWiz_val_00001439.jpg",
+  "question": "Has the formatting finished?",
+  "crowd_answers": [
+   "no",
+   "unanswerable",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00004054",
+  "image": "VizWiz_val_00004054.jpg",
+  "question": "Here is another picture. Positive or negative?",
+  "crowd_answers": [
+   "negative",
+   "negative",
+   "i only see 1 line i think 2 means positive",
+   "1 line",
+   "negative",
+   "1 line",
+   "negative",
+   "1 line",
+   "unanswerable",
+   "paper plate"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000019",
+  "image": "VizWiz_val_00000019.jpg",
+  "question": "What is the tag number?",
+  "crowd_answers": [
+   "unanswerable",
+   "1545",
+   "1545",
+   "unanswerable",
+   "pp41l",
+   "unanswerable",
+   "model #: pp41l",
+   "unanswerable",
+   "unanswerable",
+   "1545"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000035",
+  "image": "VizWiz_val_00000035.jpg",
+  "question": "What does this note say?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001194",
+  "image": "VizWiz_val_00001194.jpg",
+  "question": "what is in this box?",
+  "crowd_answers": [
+   "frozen dinner",
+   "unanswerable",
+   "salad",
+   "unanswerable",
+   "vegetables",
+   "unanswerable",
+   "picture salad says cuisine",
+   "food",
+   "frozen meal",
+   "lean cuisine"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000662",
+  "image": "VizWiz_val_00000662.jpg",
+  "question": "Is that chocolate?",
+  "crowd_answers": [
+   "no",
+   "no",
+   "no",
+   "unanswerable",
+   "no",
+   "unanswerable",
+   "no",
+   "no",
+   "no",
+   "no"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00004160",
+  "image": "VizWiz_val_00004160.jpg",
+  "question": "What is in this can?",
+  "crowd_answers": [
+   "soup",
+   "unanswerable",
+   "soup can",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "soup",
+   "unanswerable",
+   "chicken noodle soup",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003940",
+  "image": "VizWiz_val_00003940.jpg",
+  "question": "What flavor is this?",
+  "crowd_answers": [
+   "chocolate",
+   "chocolate",
+   "chocolate",
+   "chocolate",
+   "chocolate",
+   "chocolate",
+   "chocolate",
+   "chocolate",
+   "sweet",
+   "sweet drops"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000921",
+  "image": "VizWiz_val_00000921.jpg",
+  "question": "Can you tell me what the security question, or the security numbers and letter are so I can add this into my edit field? Thanks.",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "no",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002784",
+  "image": "VizWiz_val_00002784.jpg",
+  "question": "What color is this shirt?",
+  "crowd_answers": [
+   "grey color",
+   "blue",
+   "blue stripes",
+   "blue",
+   "blue",
+   "blue",
+   "grey",
+   "blue",
+   "blue",
+   "blue darker blue white stripes"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002806",
+  "image": "VizWiz_val_00002806.jpg",
+  "question": "What type of lotion is this?",
+  "crowd_answers": [
+   "body",
+   "body lotion",
+   "body treatment",
+   "unanswerable",
+   "body butter",
+   "replenishing body butter",
+   "healing",
+   "body lotion",
+   "replenishing body butter",
+   "healing garden replenishing body butter"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003416",
+  "image": "VizWiz_val_00003416.jpg",
+  "question": "mrs abibseed",
+  "crowd_answers": [
+   "can 7 up",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "pop",
+   "unanswerable",
+   "unanswerable",
+   "lemon soda",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001211",
+  "image": "VizWiz_val_00001211.jpg",
+  "question": "What color is this",
+  "crowd_answers": [
+   "white",
+   "white",
+   "white",
+   "white",
+   "white",
+   "white",
+   "white",
+   "white",
+   "white",
+   "white"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002394",
+  "image": "VizWiz_val_00002394.jpg",
+  "question": "What does my hand look like?",
+  "crowd_answers": [
+   "ring on finger",
+   "unanswerable",
+   "white",
+   "unanswerable",
+   "has ring on",
+   "married",
+   "shinney",
+   "heavy gorgeous ring",
+   "jeweled",
+   "has ring"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003040",
+  "image": "VizWiz_val_00003040.jpg",
+  "question": "Hey there can you please tell me what flavor this pasta sauce is. Thank you.",
+  "crowd_answers": [
+   "stir",
+   "creamy carbonara",
+   "creamy carbonara",
+   "creamy carbonara",
+   "creamy carbonara",
+   "creamy carbonara",
+   "creamy carbonara",
+   "creamy carbonara",
+   "creamy carbonara",
+   "creamy carbonara"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000096",
+  "image": "VizWiz_val_00000096.jpg",
+  "question": "Is this caffeinated or decaffeinated?",
+  "crowd_answers": [
+   "caffeinated",
+   "caffeinated",
+   "caffeinated",
+   "caffeinated",
+   "caffeinated",
+   "unanswerable",
+   "caffeinated",
+   "caffeinated",
+   "caffeinated",
+   "caffeinated"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003294",
+  "image": "VizWiz_val_00003294.jpg",
+  "question": "What does the sky look like?",
+  "crowd_answers": [
+   "blue",
+   "blue",
+   "cloudy",
+   "blue",
+   "clear blue",
+   "blue",
+   "clear",
+   "blue clear",
+   "clear",
+   "cloudless"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003928",
+  "image": "VizWiz_val_00003928.jpg",
+  "question": "What kind of vitamins are these?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001575",
+  "image": "VizWiz_val_00001575.jpg",
+  "question": "Whats this shirt look like, thanks?",
+  "crowd_answers": [
+   "tie dye",
+   "flowers",
+   "like tye dye",
+   "colorful",
+   "white color stains",
+   "tie dye",
+   "multi color white background",
+   "tie dyed",
+   "white multi colored forms",
+   "white green pink"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000423",
+  "image": "VizWiz_val_00000423.jpg",
+  "question": "What is this a gift card for?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable image",
+   "unanswerable",
+   "cant tell",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000288",
+  "image": "VizWiz_val_00000288.jpg",
+  "question": "What letters am i supposed to enter in to claim the prize?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00004218",
+  "image": "VizWiz_val_00004218.jpg",
+  "question": "what color is my computer?",
+  "crowd_answers": [
+   "grey",
+   "unanswerable",
+   "unanswerable",
+   "dark grey",
+   "black",
+   "grey",
+   "black",
+   "black",
+   "black",
+   "black"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000014",
+  "image": "VizWiz_val_00000014.jpg",
+  "question": "What does my eye look like?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "crazy",
+   "unanswerable",
+   "unanswerable",
+   "shiny",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002743",
+  "image": "VizWiz_val_00002743.jpg",
+  "question": "What color is this?",
+  "crowd_answers": [
+   "aqua",
+   "tiel",
+   "aqua",
+   "aqua",
+   "mint green",
+   "powder blue",
+   "light blue",
+   "turquoise",
+   "mint green",
+   "light blue"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002975",
+  "image": "VizWiz_val_00002975.jpg",
+  "question": "What does this label say?",
+  "crowd_answers": [
+   "not clear",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002903",
+  "image": "VizWiz_val_00002903.jpg",
+  "question": "What kind of medication is in this bottle?",
+  "crowd_answers": [
+   "unanswerable",
+   "aspirin",
+   "bottle",
+   "unanswerable",
+   "unanswerable",
+   "headache",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "aspirin"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002411",
+  "image": "VizWiz_val_00002411.jpg",
+  "question": "What color was it and what was the view please?",
+  "crowd_answers": [
+   "white",
+   "unanswerable",
+   "unanswerable",
+   "white",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003177",
+  "image": "VizWiz_val_00003177.jpg",
+  "question": "What kind of detergent is this?",
+  "crowd_answers": [
+   "unanswerable",
+   "tide",
+   "unanswerable",
+   "unanswerable",
+   "era",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "this back box turn box around zoom out"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000036",
+  "image": "VizWiz_val_00000036.jpg",
+  "question": "What is the title of this book?",
+  "crowd_answers": [
+   "dog years",
+   "dog years",
+   "dog years",
+   "dog years",
+   "unanswerable",
+   "dog years",
+   "unanswerable",
+   "dog years",
+   "dog years",
+   "dog years"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00004031",
+  "image": "VizWiz_val_00004031.jpg",
+  "question": "Can you please tell me what the three buttons are from left to right? Thank you.",
+  "crowd_answers": [
+   "day hour minute",
+   "day hour minute",
+   "day hour minute",
+   "day hour minute",
+   "unanswerable",
+   "rewind play fastforward",
+   "unanswerable",
+   "unanswerable",
+   "no",
+   "day hour minute"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003504",
+  "image": "VizWiz_val_00003504.jpg",
+  "question": "What colors are in this material?",
+  "crowd_answers": [
+   "brown tan white",
+   "light dark brown",
+   "brown",
+   "brown",
+   "brown",
+   "brown tan",
+   "brown tan lighter tan",
+   "beige brown",
+   "brown",
+   "brown beige tan"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00004073",
+  "image": "VizWiz_val_00004073.jpg",
+  "question": "What is the title of this film?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001509",
+  "image": "VizWiz_val_00001509.jpg",
+  "question": "What's in this image?",
+  "crowd_answers": [
+   "applying user settings",
+   "computer",
+   "computer screen",
+   "computer screen that says applying user settings 4%",
+   "monitor",
+   "laptop",
+   "applying user settings",
+   "unanswerable",
+   "applying user settings 4%",
+   "monitor"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001922",
+  "image": "VizWiz_val_00001922.jpg",
+  "question": "I'm afraid the best I can do is send another photo, because this one was actually a photo from my photos. It's not one I just took.",
+  "crowd_answers": [
+   "not question",
+   "christmas tree",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "christmas tree",
+   "unanswerable",
+   "unanswerable",
+   "question"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002868",
+  "image": "VizWiz_val_00002868.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "lamp can pringles",
+   "lamp",
+   "lamp",
+   "lamp",
+   "pringle can next to cds lamp",
+   "lamp without shade",
+   "lamp",
+   "table pringles lamp mouthwash",
+   "lamp",
+   "lamp"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000189",
+  "image": "VizWiz_val_00000189.jpg",
+  "question": "Can you please tell me if there are any errors on this screen?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "yes",
+   "yes",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002243",
+  "image": "VizWiz_val_00002243.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "yellow labrador on purple cushion",
+   "dog on pillow on floor",
+   "large beige dog curled up on purple body pillow",
+   "dog",
+   "dog",
+   "dog",
+   "yellow labrador dog",
+   "dog",
+   "dog",
+   "golden lab"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000653",
+  "image": "VizWiz_val_00000653.jpg",
+  "question": "Is there anything on the screen, something about start up?",
+  "crowd_answers": [
+   "error message",
+   "instructions",
+   "no",
+   "required services not running error",
+   "required services not running",
+   "no error message that required services not running",
+   "no",
+   "unanswerable",
+   "something not running",
+   "says required services not running"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000733",
+  "image": "VizWiz_val_00000733.jpg",
+  "question": "What was that?",
+  "crowd_answers": [
+   "unanswerable",
+   "cant make out",
+   "unanswerable",
+   "human arm",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000448",
+  "image": "VizWiz_val_00000448.jpg",
+  "question": "What does it show on the screen?",
+  "crowd_answers": [
+   "windows setup",
+   "edit boot options",
+   "boot options",
+   "boot message",
+   "reflection from light source",
+   "windows set up",
+   "options for windows set up",
+   "boot options",
+   "edit boot options",
+   "black boot up screen"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002968",
+  "image": "VizWiz_val_00002968.jpg",
+  "question": "What color shirt am I wearing?",
+  "crowd_answers": [
+   "grey",
+   "grey",
+   "grey",
+   "axe",
+   "grey",
+   "grey",
+   "grey",
+   "grey",
+   "grey",
+   "grey"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003995",
+  "image": "VizWiz_val_00003995.jpg",
+  "question": "What are the instructions for the lasagna?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "picture too close",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "cook"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000507",
+  "image": "VizWiz_val_00000507.jpg",
+  "question": "What is in this photograph?",
+  "crowd_answers": [
+   "receipt some paper",
+   "unanswerable",
+   "back receipt",
+   "unanswerable",
+   "receipt",
+   "bank receipt",
+   "backside receipt",
+   "receipt backwards",
+   "unanswerable",
+   "receipt"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002822",
+  "image": "VizWiz_val_00002822.jpg",
+  "question": "What kind of Mr Clean is this?",
+  "crowd_answers": [
+   "magic eraser",
+   "magic eraser",
+   "magic eraser",
+   "magic eraser",
+   "magic eraser",
+   "magic eraser",
+   "magic eraser 2 pack",
+   "magic eraser",
+   "magic eraser",
+   "magic eraser"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001773",
+  "image": "VizWiz_val_00001773.jpg",
+  "question": "Is this picture any closer to the box? What does it say? Thank you.",
+  "crowd_answers": [
+   "description",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "no"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001786",
+  "image": "VizWiz_val_00001786.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "large cup",
+   "cup",
+   "cup",
+   "cup",
+   "loves togo cup",
+   "cup",
+   "pop cup some other stuff",
+   "styrofoam cup",
+   "cup",
+   "this cup"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00004287",
+  "image": "VizWiz_val_00004287.jpg",
+  "question": "What's the color of her shirt?",
+  "crowd_answers": [
+   "white",
+   "white pink spots",
+   "white pink spots",
+   "white pink flower",
+   "white pink",
+   "white pink",
+   "white pink dots",
+   "white pink",
+   "white pink flowers",
+   "white pink"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001474",
+  "image": "VizWiz_val_00001474.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "keys",
+   "keyboard",
+   "keyboard",
+   "keyboard",
+   "keyboard",
+   "keyboard",
+   "keyboard",
+   "keyboard",
+   "laptop keyboard",
+   "keyboard"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003186",
+  "image": "VizWiz_val_00003186.jpg",
+  "question": "What is in this can?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "manwich",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000366",
+  "image": "VizWiz_val_00000366.jpg",
+  "question": "What CD is this?",
+  "crowd_answers": [
+   "iphone ipad programming: hands on",
+   "iphone ipad programming",
+   "iphone ipad programming",
+   "course 2761",
+   "iphone ipad programming:hands on",
+   "from learning tree iphone ipad programming: hands on",
+   "programming",
+   "course 2761",
+   "iphone ipad programming course 2761",
+   "course 2761 iphone ipad programming"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002261",
+  "image": "VizWiz_val_00002261.jpg",
+  "question": "What is the color for this keyboard?",
+  "crowd_answers": [
+   "black white letters",
+   "black",
+   "keyboard",
+   "block",
+   "grey",
+   "black",
+   "black",
+   "black",
+   "black",
+   "black"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002870",
+  "image": "VizWiz_val_00002870.jpg",
+  "question": "What is this label?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "this image very blurry",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002794",
+  "image": "VizWiz_val_00002794.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "entertainment center",
+   "bedroom",
+   "bedroom",
+   "bedroom",
+   "bed",
+   "bedroom",
+   "room",
+   "bed",
+   "unanswerable",
+   "person laying in bed"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000023",
+  "image": "VizWiz_val_00000023.jpg",
+  "question": "Can you tell me what the error message is on the Windows screen?",
+  "crowd_answers": [
+   "unanswerable",
+   "starting windows",
+   "starting windows",
+   "no",
+   "starting windows",
+   "unanswerable",
+   "no error windows starting up",
+   "no",
+   "starting windows",
+   "no error"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002014",
+  "image": "VizWiz_val_00002014.jpg",
+  "question": "What is this word?",
+  "crowd_answers": [
+   "hi",
+   "hi",
+   "hi",
+   "hi",
+   "hi",
+   "hi",
+   "hi",
+   "hi",
+   "hi",
+   "hi"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002182",
+  "image": "VizWiz_val_00002182.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "coaster",
+   "coaster",
+   "coaster",
+   "estrella barcelona",
+   "estrella",
+   "coaster",
+   "coaster",
+   "estrella barcelona",
+   "says barcelona estrella",
+   "estrella"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001410",
+  "image": "VizWiz_val_00001410.jpg",
+  "question": "Hi do the sheets that are directly behind the, do the top sheets directly behind each respective fitted sheet match each other?",
+  "crowd_answers": [
+   "no",
+   "unanswerable",
+   "no",
+   "unanswerable",
+   "directly behind each other",
+   "no",
+   "unanswerable",
+   "yes",
+   "yes",
+   "yes"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000855",
+  "image": "VizWiz_val_00000855.jpg",
+  "question": "Can you tell me what this screen says? Thank you.",
+  "crowd_answers": [
+   "no",
+   "chromium",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "chromium kotie nl",
+   "chromium koble ti",
+   "text too small to read"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00004185",
+  "image": "VizWiz_val_00004185.jpg",
+  "question": "Can you read the text on this, please?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "no",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "paper"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00004087",
+  "image": "VizWiz_val_00004087.jpg",
+  "question": "Did you hear my question?",
+  "crowd_answers": [
+   "unanswerable",
+   "tshirt",
+   "no",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "no",
+   "no",
+   "no",
+   "white sweatshirt bedazzled cat face"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00004049",
+  "image": "VizWiz_val_00004049.jpg",
+  "question": "How much sodium is in this package?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "samoas",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003368",
+  "image": "VizWiz_val_00003368.jpg",
+  "question": "What's in this bottle?",
+  "crowd_answers": [
+   "isopropyl alcohol",
+   "70% isopropyl alcohol",
+   "isopropyl alcohol",
+   "isopropyl alcohol",
+   "rubbing alcohol",
+   "alcohol",
+   "rubbing alcohol",
+   "alcohol",
+   "alcohol",
+   "rubbing alcohol"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003651",
+  "image": "VizWiz_val_00003651.jpg",
+  "question": "Does it tell what is in this can of food?",
+  "crowd_answers": [
+   "peas",
+   "garbanzos chick peas",
+   "yes",
+   "garbanzo beans",
+   "garbanzo beans",
+   "garbanzo peas",
+   "unanswerable",
+   "garbanzo beans",
+   "some peas",
+   "bottle"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000408",
+  "image": "VizWiz_val_00000408.jpg",
+  "question": "What's on the screen?",
+  "crowd_answers": [
+   "live security",
+   "live security update screen",
+   "live security platinum",
+   "antivirus program",
+   "security",
+   "live security",
+   "security",
+   "live security screen",
+   "firewall",
+   "live security"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003038",
+  "image": "VizWiz_val_00003038.jpg",
+  "question": "In this bottle.",
+  "crowd_answers": [
+   "unanswerable",
+   "lemon lime soda",
+   "unanswerable",
+   "mtn dew",
+   "unanswerable",
+   "soda",
+   "soda",
+   "soda",
+   "soda",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001160",
+  "image": "VizWiz_val_00001160.jpg",
+  "question": "Do you see a model number anywhere on the face of this device?",
+  "crowd_answers": [
+   "no",
+   "no",
+   "unanswerable",
+   "unanswerable",
+   "no",
+   "no",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "no"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002619",
+  "image": "VizWiz_val_00002619.jpg",
+  "question": "What flavor are these?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "regular",
+   "original",
+   "unanswerable",
+   "turn around",
+   "cheese",
+   "picteur"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003835",
+  "image": "VizWiz_val_00003835.jpg",
+  "question": "What is it?",
+  "crowd_answers": [
+   "sky",
+   "sky",
+   "sky",
+   "unanswerable",
+   "horizon",
+   "blue sky",
+   "piece paper",
+   "sky",
+   "sky",
+   "sky"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000756",
+  "image": "VizWiz_val_00000756.jpg",
+  "question": "What room number is that?",
+  "crowd_answers": [
+   "1503c",
+   "door sign",
+   "1503c",
+   "1503c",
+   "1503c",
+   "1503c",
+   "1503c",
+   "1503c",
+   "1503c",
+   "1503c"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003099",
+  "image": "VizWiz_val_00003099.jpg",
+  "question": "Finally from left to right what are the two bottom buttons the bigger buttons on the bottom?",
+  "crowd_answers": [
+   "stop start",
+   "stop reset start",
+   "stop start",
+   "stop reset start",
+   "stop reset start",
+   "stop reset start",
+   "stop reset start",
+   "power level auto defrost",
+   "stop start",
+   "stop start"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002141",
+  "image": "VizWiz_val_00002141.jpg",
+  "question": "Looking what I get after the recording screen.",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "cool",
+   "unanswerable",
+   "unanswerable",
+   "hand"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001669",
+  "image": "VizWiz_val_00001669.jpg",
+  "question": "This is a crock pot, what setting is it turned on to?",
+  "crowd_answers": [
+   "unanswerable",
+   "high",
+   "high",
+   "high 8 hrs",
+   "high",
+   "high",
+   "unanswerable",
+   "high",
+   "high 6 hour cook",
+   "high 6 hours"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000353",
+  "image": "VizWiz_val_00000353.jpg",
+  "question": "What is the code on this iTunes gift card?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003411",
+  "image": "VizWiz_val_00003411.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "pill bottle",
+   "unanswerable",
+   "pill bottle",
+   "to go mug pills",
+   "medication",
+   "prescription medicine",
+   "pills",
+   "travel cup pill bottle",
+   "cup medicine bottle",
+   "medicine"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003049",
+  "image": "VizWiz_val_00003049.jpg",
+  "question": "What kind of food is this?",
+  "crowd_answers": [
+   "unanswerable",
+   "black beans",
+   "unanswerable",
+   "whole foods black beans",
+   "unanswerable",
+   "beans",
+   "unanswerable",
+   "beans",
+   "unanswerable",
+   "beans"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002761",
+  "image": "VizWiz_val_00002761.jpg",
+  "question": "What is this item?",
+  "crowd_answers": [
+   "caste iron skillet",
+   "lodge logic",
+   "cast iron skillet",
+   "cast iron cooking pan",
+   "skillet",
+   "cast iron skillet",
+   "skillet",
+   "cast iron cookware",
+   "cast iron pan",
+   "cookware"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002991",
+  "image": "VizWiz_val_00002991.jpg",
+  "question": "What kind of Keurig cup is this?",
+  "crowd_answers": [
+   "donut house",
+   "coffee",
+   "box",
+   "donut",
+   "donut house collection",
+   "donut",
+   "donut",
+   "donut hut collection",
+   "donut hole",
+   "donut hole collection"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002984",
+  "image": "VizWiz_val_00002984.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "coffee maker",
+   "coffee maker",
+   "coffee pot",
+   "coffee machine",
+   "coffee maker",
+   "coffee maker",
+   "coffee maker",
+   "coffee maker",
+   "ssv",
+   "coffee maker"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002863",
+  "image": "VizWiz_val_00002863.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "paper",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001401",
+  "image": "VizWiz_val_00001401.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "telephone",
+   "cordless phone",
+   "phone",
+   "cell phone",
+   "phone",
+   "missed call message phone",
+   "phone",
+   "phone",
+   "telephone",
+   "phone"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000607",
+  "image": "VizWiz_val_00000607.jpg",
+  "question": "I'm so sorry. I don't know how to... I've never really taken a picture of this type of thing before.",
+  "crowd_answers": [
+   "move little further away so camera focuses",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003252",
+  "image": "VizWiz_val_00003252.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "bottle",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "food",
+   "finger",
+   "unanswerable",
+   "unanswerable",
+   "unclear image but i can see brand pataks so some type indian sauce"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001061",
+  "image": "VizWiz_val_00001061.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "tablet",
+   "tablet",
+   "phone apps",
+   "screen",
+   "list apps",
+   "app store",
+   "tablet",
+   "list apps to download",
+   "unanswerable",
+   "app downloads"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000122",
+  "image": "VizWiz_val_00000122.jpg",
+  "question": "What is this item?",
+  "crowd_answers": [
+   "mexican steak marinade",
+   "bottle",
+   "unanswerable",
+   "bottled sauce",
+   "marinade",
+   "hot sauce",
+   "unanswerable",
+   "bottle sauce",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003961",
+  "image": "VizWiz_val_00003961.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "jacket",
+   "coat",
+   "jackets",
+   "black jacket",
+   "jacket",
+   "black jacket",
+   "coat",
+   "jacket",
+   "coat",
+   "black coat"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001010",
+  "image": "VizWiz_val_00001010.jpg",
+  "question": "What are the letter's I type in to win the prize?",
+  "crowd_answers": [
+   "dbk",
+   "dbk",
+   "dbk",
+   "dbk",
+   "dbk",
+   "dbk",
+   "dbk",
+   "dbk",
+   "dbk",
+   "dbk"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00004078",
+  "image": "VizWiz_val_00004078.jpg",
+  "question": "What bill denomination is this?",
+  "crowd_answers": [
+   "1 dollar",
+   "1 dollar",
+   "1 dollar",
+   "1",
+   "us",
+   "1",
+   "1",
+   "1 dollar",
+   "1 dollar bill",
+   "money"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001201",
+  "image": "VizWiz_val_00001201.jpg",
+  "question": "What is my blood pressure reading?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "105",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "109 over",
+   "unanswerable",
+   "unanswerable",
+   "unable to read image cut off"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003384",
+  "image": "VizWiz_val_00003384.jpg",
+  "question": "What is this object?",
+  "crowd_answers": [
+   "trophy",
+   "liquor",
+   "faucet",
+   "unsure",
+   "trophy",
+   "unanswerable",
+   "bell",
+   "mini stanley cup",
+   "flask",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001249",
+  "image": "VizWiz_val_00001249.jpg",
+  "question": "Please identify.",
+  "crowd_answers": [
+   "pill bottle",
+   "pills",
+   "insufficient image",
+   "unanswerable",
+   "unanswerable",
+   "drug label",
+   "bottle",
+   "unanswerable",
+   "pill bottle",
+   "bottle"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001867",
+  "image": "VizWiz_val_00001867.jpg",
+  "question": "What is in this bottle?",
+  "crowd_answers": [
+   "alfalfa",
+   "alfalfa",
+   "alfalfa",
+   "alfalfa",
+   "alfalfa",
+   "unanswerable",
+   "alfalfa",
+   "alfalfa",
+   "alfalfa",
+   "alfalfa"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000760",
+  "image": "VizWiz_val_00000760.jpg",
+  "question": "Alright. I'm trying to get a number off of this card and I was wondering if you could be able to read that to me.",
+  "crowd_answers": [
+   "799852896",
+   "799852896",
+   "799852896",
+   "799852896",
+   "799852896",
+   "799852896",
+   "799852896",
+   "799852896",
+   "799852896",
+   "799852896"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001963",
+  "image": "VizWiz_val_00001963.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "clicker",
+   "tv remote",
+   "remote control",
+   "samsung remote control",
+   "samsung tv remote",
+   "remote",
+   "remote control",
+   "remote",
+   "remote",
+   "samsung remote"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000280",
+  "image": "VizWiz_val_00000280.jpg",
+  "question": "Must be one less error, appreciate it, thanks.",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "less error"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001572",
+  "image": "VizWiz_val_00001572.jpg",
+  "question": "Which chocolate bar is it? Snickers or Mars?",
+  "crowd_answers": [
+   "mars",
+   "mars",
+   "mars",
+   "mars",
+   "mars",
+   "mars",
+   "mars",
+   "mars",
+   "mars",
+   "mars"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000138",
+  "image": "VizWiz_val_00000138.jpg",
+  "question": "What does this say?What does this say?",
+  "crowd_answers": [
+   "medicare inquiry center po box 31647 tampa florida 33633 1586",
+   "business reply mail",
+   "unanswerable",
+   "address for medicare inquiry center",
+   "medicare inquiry center",
+   "business reply mail medicare inquiry center po box 31647 tampa fl 33633 1586",
+   "medicare inquiry center business reply mailer",
+   "medicare inquiry center po box 31647 tampa fl 33633 1586",
+   "medicare inquiry center",
+   "medical inquiry center"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001871",
+  "image": "VizWiz_val_00001871.jpg",
+  "question": "What is it?",
+  "crowd_answers": [
+   "mouthwash",
+   "mouthwash",
+   "label",
+   "vitamin",
+   "listerine mouth wash",
+   "ingredient label",
+   "unanswerable",
+   "mouthwash",
+   "unanswerable",
+   "drug facts"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002520",
+  "image": "VizWiz_val_00002520.jpg",
+  "question": "How much?",
+  "crowd_answers": [
+   "1.29",
+   "1 dollar each",
+   "1 dollar",
+   "1.29",
+   "1 dollar",
+   "1 dollar",
+   "$1",
+   "1.00",
+   "1.00",
+   "1.00"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00004024",
+  "image": "VizWiz_val_00004024.jpg",
+  "question": "Try to focus thi",
+  "crowd_answers": [
+   "cream",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "yes"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003413",
+  "image": "VizWiz_val_00003413.jpg",
+  "question": "is this strawberry pudding",
+  "crowd_answers": [
+   "vanilla pudding",
+   "no vanilla",
+   "no",
+   "no",
+   "no",
+   "vanilla",
+   "no",
+   "no",
+   "no vanilla",
+   "no"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001958",
+  "image": "VizWiz_val_00001958.jpg",
+  "question": "What flavor soup is this?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "beef stew",
+   "unanswerable",
+   "unanswerable",
+   "minestrone",
+   "unanswerable",
+   "vegetable",
+   "vegetable beef"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000575",
+  "image": "VizWiz_val_00000575.jpg",
+  "question": "What's being displayed on the screen?",
+  "crowd_answers": [
+   "web page",
+   "white flowers above laptop",
+   "unanswerable",
+   "unanswerable",
+   "flowers",
+   "unanswerable",
+   "plant",
+   "window ceiling flowers computer screen",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002295",
+  "image": "VizWiz_val_00002295.jpg",
+  "question": "What flavor of jellybeans are in this package?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "mix",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "jelly belly",
+   "assorted"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000430",
+  "image": "VizWiz_val_00000430.jpg",
+  "question": "What is the 5-digit code?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "46b15",
+   "unanswerable",
+   "unanswerable",
+   "46315",
+   "46b95",
+   "46bg5",
+   "4gb15",
+   "46315"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002909",
+  "image": "VizWiz_val_00002909.jpg",
+  "question": "What is this can?",
+  "crowd_answers": [
+   "unanswerable",
+   "beans",
+   "shili",
+   "noodles",
+   "unanswerable",
+   "beans",
+   "refried beans",
+   "unanswerable",
+   "spaghetti rings",
+   "beans"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001556",
+  "image": "VizWiz_val_00001556.jpg",
+  "question": "What color is this shirt?",
+  "crowd_answers": [
+   "tan",
+   "brown",
+   "tan",
+   "beige",
+   "beige",
+   "pinkish",
+   "brown",
+   "tan",
+   "gold",
+   "grey color"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003415",
+  "image": "VizWiz_val_00003415.jpg",
+  "question": "Is this the shampoo?",
+  "crowd_answers": [
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000755",
+  "image": "VizWiz_val_00000755.jpg",
+  "question": "What does this say? What does this say? What does it say?",
+  "crowd_answers": [
+   "unanswerable",
+   "notes",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000346",
+  "image": "VizWiz_val_00000346.jpg",
+  "question": "What does that say?",
+  "crowd_answers": [
+   "unanswerable",
+   "coordin",
+   "chapter coordinator maybe",
+   "unanswerable",
+   "chap coordin",
+   "unknown",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001029",
+  "image": "VizWiz_val_00001029.jpg",
+  "question": "What kind of card is this?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "insurance card",
+   "unanswerable",
+   "unanswerable",
+   "business",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000282",
+  "image": "VizWiz_val_00000282.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "bar code",
+   "blurred out label",
+   "unanswerable",
+   "bar code on package",
+   "barcode",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "barcode",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002760",
+  "image": "VizWiz_val_00002760.jpg",
+  "question": "What is it?",
+  "crowd_answers": [
+   "speaker",
+   "speakers",
+   "floor",
+   "speakers",
+   "loud speaker system",
+   "speaker",
+   "speaker",
+   "speaker",
+   "speaker",
+   "speakers"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001961",
+  "image": "VizWiz_val_00001961.jpg",
+  "question": "Anything on this label.",
+  "crowd_answers": [
+   "kitchen dry set 4",
+   "product label stating what product",
+   "set 4 bar mop",
+   "yes in lable",
+   "kitchen dry good set 4 bar mop 100% cotton",
+   "kitch dry",
+   "kitchen dry",
+   "kitchen dry set 4 bar mop",
+   "picture kitchen utensils description bar towels",
+   "kitchen dry set 4 bar mop"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000452",
+  "image": "VizWiz_val_00000452.jpg",
+  "question": "What are the words on the piece of paper?",
+  "crowd_answers": [
+   "ransom down dark hall stranger my face by lois duncan",
+   "ransom down dark hall *stranger my face by lois duncan",
+   "ransom down dark hll stranger my",
+   "ransom down dark hall stranger my fa by lois duncan",
+   "ransom down dark hall * stranger my fac cut off by lois duncan",
+   "ransom down dark hall stranger my face by lois duncan",
+   "ransom down dark hall *stranger my face by lois duncan",
+   "ransom down dark hall stranger my face by lois duncan",
+   "ransom",
+   "ransom down dark hall stranger my by lois duncan"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000175",
+  "image": "VizWiz_val_00000175.jpg",
+  "question": "What does the text on this say?",
+  "crowd_answers": [
+   "asking for personal information on form",
+   "unanswerable",
+   "form to fill out",
+   "application for primary disability preventing you from reading regular printed material",
+   "unanswerable",
+   "address phone number",
+   "application",
+   "unanswerable",
+   "unanswerable",
+   "personal information"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000677",
+  "image": "VizWiz_val_00000677.jpg",
+  "question": "What's on the screen?",
+  "crowd_answers": [
+   "web page",
+   "words",
+   "web page small text",
+   "text",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "screen computer article pulled up"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002722",
+  "image": "VizWiz_val_00002722.jpg",
+  "question": "What does this list include?",
+  "crowd_answers": [
+   "bandages",
+   "bandages",
+   "plastic strips knuckle bandage fabric strips fingertip bandage large antiseptic towelettes",
+   "scissors safety pins tweezers bandages",
+   "bandage",
+   "first aid mats",
+   "everyhting in first aid kit",
+   "bandages antiseptic towelettes tape tweezers scissors pins",
+   "first aid supplies",
+   "first aide"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00004086",
+  "image": "VizWiz_val_00004086.jpg",
+  "question": "What type of dog is this?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "terrier",
+   "unanswerable",
+   "poodle",
+   "dont know",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00004181",
+  "image": "VizWiz_val_00004181.jpg",
+  "question": "what is this pitting?",
+  "crowd_answers": [
+   "grout lines",
+   "no idea",
+   "unanswerable",
+   "dont know",
+   "unanswerable",
+   "floor",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002062",
+  "image": "VizWiz_val_00002062.jpg",
+  "question": "Can you see the serial number ____?",
+  "crowd_answers": [
+   "no",
+   "unanswerable",
+   "no",
+   "no",
+   "no",
+   "unanswerable",
+   "no",
+   "no",
+   "no",
+   "no"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002684",
+  "image": "VizWiz_val_00002684.jpg",
+  "question": "What am I looking at?",
+  "crowd_answers": [
+   "small power strip",
+   "lightbulb",
+   "unanswerable",
+   "fuse",
+   "electronic part",
+   "electrical component",
+   "fuse",
+   "bulb",
+   "lightbulb",
+   "lightbulb"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000357",
+  "image": "VizWiz_val_00000357.jpg",
+  "question": "Ok, ummm I need to do a full system recovery on my laptop and I got a guided prompt screen. It is asking me to do a number of different things and to be three different screens. I just need to tell you to tell me...",
+  "crowd_answers": [
+   "warning",
+   "unanswerable",
+   "unanswerable",
+   "follow recovery directions",
+   "unanswerable",
+   "unanswerable",
+   "2 screen showing",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002766",
+  "image": "VizWiz_val_00002766.jpg",
+  "question": "Is this stripes or flowers?",
+  "crowd_answers": [
+   "flowers",
+   "flowers",
+   "flowers",
+   "flowers",
+   "flowers",
+   "flowers",
+   "flowers",
+   "flowers",
+   "flowers",
+   "flowers"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00004194",
+  "image": "VizWiz_val_00004194.jpg",
+  "question": "What color is this tablet?",
+  "crowd_answers": [
+   "white",
+   "church notebook",
+   "brown",
+   "white",
+   "white",
+   "white",
+   "tan",
+   "tan",
+   "unanswerable",
+   "whote"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002592",
+  "image": "VizWiz_val_00002592.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "cookies",
+   "double stuff oreo",
+   "oreos",
+   "oreo cookies",
+   "double stuf oreo",
+   "oreo cookies package",
+   "oreo double stuff cookies",
+   "oreos",
+   "double stuff oreos",
+   "oreo snack"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002756",
+  "image": "VizWiz_val_00002756.jpg",
+  "question": "What is the title of this book?",
+  "crowd_answers": [
+   "english italian italian english dictionary",
+   "english italian italian english dictionary",
+   "english italian italian english dictionary",
+   "english italian italian english dictionary",
+   "english italian italian english dictionary",
+   "english italian italian english dictionary",
+   "hippocrene practical dictionary",
+   "english italian dictionary",
+   "english italian dictionary",
+   "english italian italian english dictionary"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001513",
+  "image": "VizWiz_val_00001513.jpg",
+  "question": "What flavor is this?",
+  "crowd_answers": [
+   "beef",
+   "beef flavored",
+   "beef",
+   "beef flavored broth",
+   "beef",
+   "beef flavor",
+   "beef flavored broth",
+   "beef",
+   "this beef flavor",
+   "beef"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00004205",
+  "image": "VizWiz_val_00004205.jpg",
+  "question": "What flavor is this?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002807",
+  "image": "VizWiz_val_00002807.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000129",
+  "image": "VizWiz_val_00000129.jpg",
+  "question": "Ok I have taken a picture of a sticker close up now hopefully you can see it. Again, I need the model number. Thank You",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "cannot see model number in image",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002832",
+  "image": "VizWiz_val_00002832.jpg",
+  "question": "What color is this shoe?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "black",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002424",
+  "image": "VizWiz_val_00002424.jpg",
+  "question": "Are you able to tell what kind this one is?",
+  "crowd_answers": [
+   "no",
+   "vanilla cream",
+   "vanilla",
+   "vanilla creme",
+   "warm vanilla creme",
+   "warm vanilla creme",
+   "better homes warm vanilla cream",
+   "warm vanilla creme",
+   "warm vanilla creme",
+   "warm vanilla creme"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000226",
+  "image": "VizWiz_val_00000226.jpg",
+  "question": "Can you tell me what this pop up is saying?",
+  "crowd_answers": [
+   "no too far away",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "no",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001135",
+  "image": "VizWiz_val_00001135.jpg",
+  "question": "What's wrote on my computer screen?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "nothing",
+   "cannot read prompt half message cutoff",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002980",
+  "image": "VizWiz_val_00002980.jpg",
+  "question": "Could you tell me the sodium content of this tin?",
+  "crowd_answers": [
+   "no",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "greesco",
+   "answerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "500"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001819",
+  "image": "VizWiz_val_00001819.jpg",
+  "question": "What is this bottle of?",
+  "crowd_answers": [
+   "for medicine",
+   "perscription bottle",
+   "eye drops",
+   "eye drops",
+   "unanswerable",
+   "eye drops",
+   "prednisone",
+   "unanswerable",
+   "drops",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002947",
+  "image": "VizWiz_val_00002947.jpg",
+  "question": "I mean is it good what I'm wearing today?",
+  "crowd_answers": [
+   "unanswerable",
+   "no",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "no",
+   "no",
+   "yes",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003672",
+  "image": "VizWiz_val_00003672.jpg",
+  "question": "What is in this box?",
+  "crowd_answers": [
+   "crackers",
+   "crackers",
+   "crackers",
+   "crackers",
+   "crackers",
+   "crackers",
+   "crackers",
+   "crackers",
+   "free wafers",
+   "crackers"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002994",
+  "image": "VizWiz_val_00002994.jpg",
+  "question": "This is the display of a treadmill. Can you tell me the distance off the top display please.",
+  "crowd_answers": [
+   "unanswerable",
+   "3.93",
+   "3.93",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "3.93",
+   "unanswerable",
+   "unanswerable",
+   "393"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003910",
+  "image": "VizWiz_val_00003910.jpg",
+  "question": "What flavor of coffee is this?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "not sure",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001004",
+  "image": "VizWiz_val_00001004.jpg",
+  "question": "What is this",
+  "crowd_answers": [
+   "pillow",
+   "unanswerable",
+   "card",
+   "image cutoff cannot read",
+   "unanswerable",
+   "unanswerable",
+   "card",
+   "letter",
+   "envelope",
+   "clothing"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001218",
+  "image": "VizWiz_val_00001218.jpg",
+  "question": "What's this picture of?",
+  "crowd_answers": [
+   "phone",
+   "macbook pro",
+   "macbook pro",
+   "computer monitor",
+   "unanswerable",
+   "laptop",
+   "computer",
+   "macbook pro",
+   "macbook pro screen",
+   "laptop computer"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002194",
+  "image": "VizWiz_val_00002194.jpg",
+  "question": "What kind of flower is this?",
+  "crowd_answers": [
+   "lily",
+   "cant tell",
+   "unanswerable",
+   "daisy",
+   "unanswerable",
+   "daisy",
+   "unanswerable",
+   "daisy",
+   "daisy",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002234",
+  "image": "VizWiz_val_00002234.jpg",
+  "question": "What is this product?",
+  "crowd_answers": [
+   "vegemite",
+   "vegemite",
+   "vegemite",
+   "yeast",
+   "yeast extract vegemite",
+   "vegemite concentrated yeast extract",
+   "vegemite",
+   "yeast",
+   "vegemite",
+   "vegemite"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000954",
+  "image": "VizWiz_val_00000954.jpg",
+  "question": "What does this say?",
+  "crowd_answers": [
+   "words",
+   "repair log 1 21 2012",
+   "repair log",
+   "diagnosis repair log",
+   "repair log",
+   "diagnosis repair log",
+   "unanswerable",
+   "unanswerable",
+   "repair log",
+   "repair log"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000327",
+  "image": "VizWiz_val_00000327.jpg",
+  "question": "is there text on this side of the car?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "no",
+   "unanswerable",
+   "not car",
+   "unanswerable",
+   "greenbacks greenberrys",
+   "yes",
+   "greenberrys coffee tea company",
+   "greenbacks greenberrys"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001354",
+  "image": "VizWiz_val_00001354.jpg",
+  "question": "What color is this?",
+  "crowd_answers": [
+   "white",
+   "white",
+   "white",
+   "white",
+   "white",
+   "cloth",
+   "white",
+   "white",
+   "white",
+   "white"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00004263",
+  "image": "VizWiz_val_00004263.jpg",
+  "question": "What do you see?",
+  "crowd_answers": [
+   "tums",
+   "unanswerable",
+   "clear medicine bottle",
+   "gum",
+   "box gum",
+   "tums",
+   "bottle tums",
+   "tums",
+   "unanswerable",
+   "medicine"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001042",
+  "image": "VizWiz_val_00001042.jpg",
+  "question": "Which one of these cards is my slate card?",
+  "crowd_answers": [
+   "1 at bottom",
+   "top",
+   "1 on bottom 3",
+   "on bottom",
+   "1 in very back",
+   "bottom card",
+   "top one",
+   "bottom card",
+   "bottom",
+   "card on bottom"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000923",
+  "image": "VizWiz_val_00000923.jpg",
+  "question": "What is being displayed on my screen?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "monitor",
+   "unanswerable",
+   "unanswerable",
+   "window hard drives",
+   "unanswerable",
+   "unknown dialog box",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002623",
+  "image": "VizWiz_val_00002623.jpg",
+  "question": "Ok, here's the long side of the other side of the box. Let me know if there's any conventional oven instructions here for temperature and time. And hopefully these pictures are at least.",
+  "crowd_answers": [
+   "box",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "no instructions",
+   "unanswerable",
+   "unanswerable",
+   "0"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001693",
+  "image": "VizWiz_val_00001693.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "unanswerable",
+   "cholesterol supplements",
+   "heart vitamin",
+   "cholesterol medication",
+   "supplement",
+   "cholesterol tablets",
+   "cholesterol medicine",
+   "cholesterol medication",
+   "unanswerable",
+   "cholesterol medicine"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002169",
+  "image": "VizWiz_val_00002169.jpg",
+  "question": "What is visible on this screen, please?",
+  "crowd_answers": [
+   "nothing",
+   "nothing",
+   "nothing",
+   "nothing",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "nothing",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001735",
+  "image": "VizWiz_val_00001735.jpg",
+  "question": "What's in this box?",
+  "crowd_answers": [
+   "coffee",
+   "unanswerable",
+   "coffee",
+   "coffee",
+   "coffee",
+   "coffee",
+   "coffee",
+   "coffee",
+   "coffee",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003767",
+  "image": "VizWiz_val_00003767.jpg",
+  "question": "Can you tell me what this card is? If it's a baseball card, a football card, or what and who and the name on it, thank you.",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "paper",
+   "baseball card",
+   "baseball",
+   "baseball card",
+   "unanswerable",
+   "padres baseball card",
+   "baseball san diego padres"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00004159",
+  "image": "VizWiz_val_00004159.jpg",
+  "question": "Color are the walls?",
+  "crowd_answers": [
+   "light green",
+   "green",
+   "green",
+   "lime green",
+   "sage green",
+   "white",
+   "robins egg blue",
+   "pea green",
+   "blue",
+   "green"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001828",
+  "image": "VizWiz_val_00001828.jpg",
+  "question": "Can you give me any information on this radio? Availability, repair, other stuff? Thanks.",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "brown",
+   "unanswerable",
+   "no",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003977",
+  "image": "VizWiz_val_00003977.jpg",
+  "question": "Could you tell me the usage instructions for this shampoo? thank you.",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "edfcfd",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002128",
+  "image": "VizWiz_val_00002128.jpg",
+  "question": "What does this can contain?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "stairs",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002480",
+  "image": "VizWiz_val_00002480.jpg",
+  "question": "Is the finger pointing to black or white wire.",
+  "crowd_answers": [
+   "black",
+   "black",
+   "black",
+   "black",
+   "black",
+   "black",
+   "black",
+   "black",
+   "black",
+   "black"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002714",
+  "image": "VizWiz_val_00002714.jpg",
+  "question": "What does the screen say?",
+  "crowd_answers": [
+   "windows screen",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "blue screen but i cant read text",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000295",
+  "image": "VizWiz_val_00000295.jpg",
+  "question": "Don't know what the screen says.",
+  "crowd_answers": [
+   "unanswerable",
+   "web photos",
+   "music player",
+   "unanswerable",
+   "computer desktop",
+   "photos favorites",
+   "unanswerable",
+   "unanswerable",
+   "no",
+   "web"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003128",
+  "image": "VizWiz_val_00003128.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "i dont know",
+   "ring",
+   "ring",
+   "unanswerable",
+   "ring",
+   "ring",
+   "ring",
+   "gold ring",
+   "unanswerable",
+   "ring"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000100",
+  "image": "VizWiz_val_00000100.jpg",
+  "question": "Can you see the dosage information? Thank you.",
+  "crowd_answers": [
+   "heavy power",
+   "no",
+   "no",
+   "no",
+   "no",
+   "unanswerable",
+   "unanswerable",
+   "no",
+   "no",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002539",
+  "image": "VizWiz_val_00002539.jpg",
+  "question": "What's in the bottle, please?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003269",
+  "image": "VizWiz_val_00003269.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "black dog",
+   "this dog",
+   "dog",
+   "dog",
+   "black dog",
+   "dog",
+   "dog",
+   "chocolate lab",
+   "dog",
+   "dog"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002492",
+  "image": "VizWiz_val_00002492.jpg",
+  "question": "What is in this can?",
+  "crowd_answers": [
+   "soda",
+   "diet soda",
+   "diet soda",
+   "soda",
+   "diet squirt",
+   "diet soda",
+   "soda",
+   "soda",
+   "soda",
+   "soda"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002051",
+  "image": "VizWiz_val_00002051.jpg",
+  "question": "Can you please describe this label?",
+  "crowd_answers": [
+   "lotion",
+   "nivea body wash intructions ingredients",
+   "white blue orange text",
+   "text",
+   "nivea touch happines moisturizing body wash",
+   "touch happiness body wash",
+   "wordy",
+   "nivea lotion",
+   "directions uses",
+   "nivea"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003394",
+  "image": "VizWiz_val_00003394.jpg",
+  "question": "What is this? What is this?",
+  "crowd_answers": [
+   "jersey",
+   "hanging t shirt",
+   "jersey",
+   "football jersey",
+   "owens jersey",
+   "jersey",
+   "owens jersey",
+   "football jersey",
+   "jersey",
+   "sports jersey"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002193",
+  "image": "VizWiz_val_00002193.jpg",
+  "question": "how many people on the bridge how many people on the bridge",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "0"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002841",
+  "image": "VizWiz_val_00002841.jpg",
+  "question": "What colors are on this shirt?",
+  "crowd_answers": [
+   "brown black silver",
+   "black blue red green silver",
+   "black red blue brown grey",
+   "gold blue purple silver",
+   "black blue brown red",
+   "blue redm orange yellow",
+   "black maroon gold grey",
+   "re black clue white",
+   "red green dark blue light blue white yellow",
+   "red green blue black"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003223",
+  "image": "VizWiz_val_00003223.jpg",
+  "question": "What color is this shirt?",
+  "crowd_answers": [
+   "green white",
+   "green stripes",
+   "green white",
+   "green white",
+   "brown white big stain in middle",
+   "green white",
+   "green white",
+   "olive green white stripes",
+   "white khaki",
+   "green"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002315",
+  "image": "VizWiz_val_00002315.jpg",
+  "question": "What does this box contain?",
+  "crowd_answers": [
+   "candy",
+   "chocolate bar",
+   "bars",
+   "cookie",
+   "chocolate",
+   "candy bars",
+   "chocolate bars",
+   "chocolate candy",
+   "chocolate",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003951",
+  "image": "VizWiz_val_00003951.jpg",
+  "question": "What is in this bottle?",
+  "crowd_answers": [
+   "body lotion",
+   "body lotion",
+   "body lotion",
+   "lotion",
+   "shea body lotion vitamin e",
+   "moonlight path shea vitamin e body lotion",
+   "body lotion",
+   "moonlight path body lotion",
+   "moonlight path body lotion",
+   "lotion"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001209",
+  "image": "VizWiz_val_00001209.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "unanswerable",
+   "dinner",
+   "turkey dinner",
+   "roasted turkey breast dinner",
+   "turkey dinner",
+   "dinner",
+   "turkey dinner",
+   "roasted turkey breast dinner",
+   "roasted turkey breast dinner",
+   "turkey breast dinner"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001281",
+  "image": "VizWiz_val_00001281.jpg",
+  "question": "what does this say here what is this?",
+  "crowd_answers": [
+   "reminder to bring medication",
+   "reminder to patients frame",
+   "reminder to patients please bring all your medication",
+   "bring all medicine to doctor visit sign",
+   "reminder to patients please bring all your medications including non prescriptions",
+   "bring all your medications including non prescriptions supplements to your office visit",
+   "thank you",
+   "reminder to patients to bring all meds prescriptions to visit",
+   "reminder to patients please bring all your medications to your next office visit",
+   "medications"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003863",
+  "image": "VizWiz_val_00003863.jpg",
+  "question": "we called what is the flavor",
+  "crowd_answers": [
+   "lemon",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003338",
+  "image": "VizWiz_val_00003338.jpg",
+  "question": "What color is this bottle?",
+  "crowd_answers": [
+   "white",
+   "white",
+   "white red lable",
+   "white",
+   "white",
+   "red white",
+   "white red",
+   "white",
+   "white red",
+   "white red"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003750",
+  "image": "VizWiz_val_00003750.jpg",
+  "question": "Are these regular chips or salt-and-vinegar chips? Thank you.",
+  "crowd_answers": [
+   "salt",
+   "regular",
+   "regular",
+   "regular chips",
+   "regular",
+   "regular",
+   "unanswerable",
+   "unanswerable",
+   "regular",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00004278",
+  "image": "VizWiz_val_00004278.jpg",
+  "question": "What kind of soup is this?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "cambells cream mushroom",
+   "campbells",
+   "campbells",
+   "unanswerable",
+   "unanswerable",
+   "campbells",
+   "cream mushroom",
+   "campbells"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003674",
+  "image": "VizWiz_val_00003674.jpg",
+  "question": "Call that plate that guides the gear stick?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "shift plate",
+   "shift guide plate",
+   "unanswerable",
+   "shifter",
+   "unanswerable",
+   "gear shifter",
+   "stick shift",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001357",
+  "image": "VizWiz_val_00001357.jpg",
+  "question": "What is this title?",
+  "crowd_answers": [
+   "word",
+   "word",
+   "word",
+   "word",
+   "word",
+   "word",
+   "unanswerable",
+   "word",
+   "word",
+   "word"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002257",
+  "image": "VizWiz_val_00002257.jpg",
+  "question": "What type is this? What type of tobacco is this?",
+  "crowd_answers": [
+   "smokeless",
+   "jsp blue",
+   "jps blue",
+   "psp blue",
+   "jsp blue",
+   "jsp blue",
+   "unanswerable",
+   "full flavored",
+   "only says blue",
+   "jsp blue"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003729",
+  "image": "VizWiz_val_00003729.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "eyewear",
+   "unanswerable",
+   "reading glasses phone",
+   "unanswerable",
+   "glasses",
+   "unanswerable",
+   "phone eye glasses cordbottle",
+   "eye glasses",
+   "items on table",
+   "phone eye glasses beer"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003380",
+  "image": "VizWiz_val_00003380.jpg",
+  "question": "What numbers are displayed?",
+  "crowd_answers": [
+   "184313",
+   "18431",
+   "18461",
+   "18431",
+   "18431",
+   "18431",
+   "18431",
+   "18431",
+   "18431",
+   "18431"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002963",
+  "image": "VizWiz_val_00002963.jpg",
+  "question": "what color is this pillowcase?",
+  "crowd_answers": [
+   "white",
+   "off white",
+   "white john deere logo",
+   "white",
+   "white green",
+   "unanswerable",
+   "unanswerable",
+   "white john deere",
+   "unanswerable",
+   "white john deere logo"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000700",
+  "image": "VizWiz_val_00000700.jpg",
+  "question": "Who can read this for me?",
+  "crowd_answers": [
+   "navigation app",
+   "unanswerable",
+   "navigation app",
+   "navigation app",
+   "navigation app",
+   "unanswerable",
+   "navigation app",
+   "unanswerable",
+   "navigation app for visually impaired smart phone user",
+   "navigation app"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001047",
+  "image": "VizWiz_val_00001047.jpg",
+  "question": "This is a computer.",
+  "crowd_answers": [
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "unanswerable",
+   "ok",
+   "yes"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002917",
+  "image": "VizWiz_val_00002917.jpg",
+  "question": "Thanks for all the help. Can you tell what this is now?",
+  "crowd_answers": [
+   "unanswerable",
+   "blurry type balm",
+   "jar food",
+   "stuff",
+   "lotion",
+   "battle",
+   "unanswerable",
+   "unanswerable",
+   "balm",
+   "balm"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001485",
+  "image": "VizWiz_val_00001485.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "coffee cup",
+   "mug",
+   "teacup",
+   "mug",
+   "white red cup",
+   "coffee mug",
+   "mug",
+   "mug",
+   "mug",
+   "mug"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00004143",
+  "image": "VizWiz_val_00004143.jpg",
+  "question": "What does this pregnancy test show?",
+  "crowd_answers": [
+   "1 line",
+   "negative",
+   "negative",
+   "1 line but dye spread try another",
+   "unanswerable",
+   "1 stripe",
+   "no image",
+   "red line",
+   "unanswerable",
+   "blue mark red mark"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001813",
+  "image": "VizWiz_val_00001813.jpg",
+  "question": "What color is this shirt?",
+  "crowd_answers": [
+   "white",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "plaid",
+   "unanswerable",
+   "patterned brown white"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002140",
+  "image": "VizWiz_val_00002140.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "ketchup",
+   "ketchup",
+   "heinz tomato ketchup",
+   "ketchup packet",
+   "ketchup pack",
+   "ketchup",
+   "ketchup",
+   "ketchup packet",
+   "ketchup",
+   "ketchup"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000866",
+  "image": "VizWiz_val_00000866.jpg",
+  "question": "yes I need a description of this Google street view image. Thank you.",
+  "crowd_answers": [
+   "unanswerable",
+   "trees on right screen standing in road but not facing sides",
+   "unanswerable",
+   "unanswerable",
+   "grass trees",
+   "dont know",
+   "residential street",
+   "grass trees",
+   "trees on sidewalk",
+   "trees grass"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002932",
+  "image": "VizWiz_val_00002932.jpg",
+  "question": "What is this on this.. what is the label on this cover? What's the name?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "sd",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000598",
+  "image": "VizWiz_val_00000598.jpg",
+  "question": "Describe this picture please.",
+  "crowd_answers": [
+   "flyer",
+   "yellow paper words",
+   "instructions",
+   "instruction book",
+   "label",
+   "test exam",
+   "unanswerable",
+   "blue text",
+   "nutritional information",
+   "blue white legal size pape"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001804",
+  "image": "VizWiz_val_00001804.jpg",
+  "question": "What's in the picture?",
+  "crowd_answers": [
+   "table cups in kitchen",
+   "cookie tin",
+   "scotch gift",
+   "kitchen table top",
+   "tall green metal tin coffee cups",
+   "cup&juice",
+   "container bow",
+   "gift tin",
+   "gift can",
+   "green tin bow on top about size shape pringles can"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003597",
+  "image": "VizWiz_val_00003597.jpg",
+  "question": "What is the title of this book?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001379",
+  "image": "VizWiz_val_00001379.jpg",
+  "question": "What flavor of Spark is this?",
+  "crowd_answers": [
+   "pink lemonade",
+   "pink lemonade",
+   "unanswerable",
+   "pink lemonade",
+   "unanswerable",
+   "pink lemonade",
+   "orange",
+   "strawberry",
+   "unanswerable",
+   "pink lemonade"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001874",
+  "image": "VizWiz_val_00001874.jpg",
+  "question": "Can you tell me the sodium content of this food?",
+  "crowd_answers": [
+   "diced tomatoes",
+   "unanswerable",
+   "unanswerable",
+   "no salt added",
+   "no",
+   "30 mg",
+   "no salt added",
+   "unanswerable",
+   "unanswerable",
+   "0"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002098",
+  "image": "VizWiz_val_00002098.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "phone",
+   "cell phone",
+   "cellphone",
+   "cell phone",
+   "cellphone",
+   "phone",
+   "cellphone",
+   "phone",
+   "phone",
+   "cell phone"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000137",
+  "image": "VizWiz_val_00000137.jpg",
+  "question": "What is on this piece of paper? Thank you.",
+  "crowd_answers": [
+   "sales ad",
+   "coupon",
+   "sales ads",
+   "store advertisement for clothing laser rangefinder arrows",
+   "store circular",
+   "sales paper",
+   "sale ads",
+   "coupons",
+   "outdoor gear advertisement",
+   "store ad"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003267",
+  "image": "VizWiz_val_00003267.jpg",
+  "question": "What is it?",
+  "crowd_answers": [
+   "foot",
+   "blister",
+   "blister",
+   "infection on pinky toe",
+   "blister on toe",
+   "broken blister",
+   "toes",
+   "foot",
+   "unanswerable",
+   "wound on pinky toe"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003366",
+  "image": "VizWiz_val_00003366.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "bag turkey sausage patties",
+   "fully cooked turkey sausage",
+   "fully cooked turkey sausage",
+   "turkey sausage",
+   "fully cooked turkey sausage patty",
+   "fully cooked turkey sausage patty",
+   "turkey sausage",
+   "unanswerable",
+   "fully cooked turkey sausage patty",
+   "fully cooked turkey sausage"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002875",
+  "image": "VizWiz_val_00002875.jpg",
+  "question": "What type of sugar is this?",
+  "crowd_answers": [
+   "unanswerable",
+   "light brown",
+   "light brown sugar",
+   "light brown",
+   "light brown sugar",
+   "light brown sugar",
+   "light brown",
+   "unanswerable",
+   "light brown sugar",
+   "light brown sugar"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002992",
+  "image": "VizWiz_val_00002992.jpg",
+  "question": "What color is my shirt?",
+  "crowd_answers": [
+   "mostly blue",
+   "unanswerable",
+   "shirt",
+   "blue",
+   "blue",
+   "blue",
+   "blue",
+   "blue",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000307",
+  "image": "VizWiz_val_00000307.jpg",
+  "question": "What hours are they open?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "no hours posted",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001965",
+  "image": "VizWiz_val_00001965.jpg",
+  "question": "What is the mac number for this device?",
+  "crowd_answers": [
+   "c417feccc23f",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "mac id c417feccc23f",
+   "c417feccc23f",
+   "c417fecc23f",
+   "c417feccc23f",
+   "c417eccc23p"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001938",
+  "image": "VizWiz_val_00001938.jpg",
+  "question": "How many ounces in this container?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "12",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002668",
+  "image": "VizWiz_val_00002668.jpg",
+  "question": "What's in this bottle?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "sfsdf",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "dont know"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000739",
+  "image": "VizWiz_val_00000739.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "computer screen",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001363",
+  "image": "VizWiz_val_00001363.jpg",
+  "question": "Can you read anything on this label?",
+  "crowd_answers": [
+   "yes",
+   "yes",
+   "anti gravity slippers easyspirit",
+   "yes",
+   "anti gravity slippers easyspirit",
+   "yes",
+   "anti gravity slippers easy spirit",
+   "tag to anti gravity slippers",
+   "anti gravity slippers easyspirit",
+   "yes"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00004260",
+  "image": "VizWiz_val_00004260.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "patch",
+   "badge",
+   "design",
+   "patch",
+   "decorative patch",
+   "patch",
+   "patch",
+   "patch",
+   "crest 3 black lions red pentagon shaped flowers",
+   "crest"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000211",
+  "image": "VizWiz_val_00000211.jpg",
+  "question": "Can you please give me as much as possible as what you see on my computer screen, whether it's a Windows log on or a blue screen of death or anything at all because I have a.",
+  "crowd_answers": [
+   "notification",
+   "cannot read screen image has computer too far away",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "setting screen",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000808",
+  "image": "VizWiz_val_00000808.jpg",
+  "question": "Can you tell me what this says?",
+  "crowd_answers": [
+   "windows screen",
+   "blurry",
+   "just has windows icons on screen",
+   "unanswerable",
+   "unanswerable",
+   "your computer screen pulled up to opening screen",
+   "no",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000792",
+  "image": "VizWiz_val_00000792.jpg",
+  "question": "What does the text over the OK button say on this screen?",
+  "crowd_answers": [
+   "octavarium test guitar saved",
+   "octavarium test guitar saved",
+   "octavarium test guitar saved",
+   "octavarium test guitar saved",
+   "octavarium test guitar saved",
+   "octavarium test guitar saved",
+   "octavarium test guitar saved",
+   "octavarium test guitar saved",
+   "octavarium test guitar saved",
+   "octavarium test guitar saved"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003527",
+  "image": "VizWiz_val_00003527.jpg",
+  "question": "What is in this package?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "honey bun",
+   "unanswerable",
+   "unanswerable",
+   "csdc",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000004",
+  "image": "VizWiz_val_00000004.jpg",
+  "question": "What does the arrow say?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "zoomtext",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "zoomtext"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003019",
+  "image": "VizWiz_val_00003019.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "wine",
+   "silver oak",
+   "silver oak",
+   "silver oak wine",
+   "wine",
+   "bottle",
+   "wine",
+   "wine",
+   "silver oak 2003 cabernet sauvignon",
+   "silver oak 2003"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003157",
+  "image": "VizWiz_val_00003157.jpg",
+  "question": "what is this right here?",
+  "crowd_answers": [
+   "unanswerable",
+   "monitor",
+   "desk",
+   "monitor",
+   "unanswerable",
+   "piano",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "cds as shelf back tv"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000379",
+  "image": "VizWiz_val_00000379.jpg",
+  "question": "What does the text in this captcha image say?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002444",
+  "image": "VizWiz_val_00002444.jpg",
+  "question": "I'm sorry ???, this is just a quick test. Seems to be an issue with my camera; could someone describe to me what they're seeing through the picture they're looking at? Thanks!",
+  "crowd_answers": [
+   "table metal chairs ketchup bottle window",
+   "restaurant dining room",
+   "cafe seating",
+   "dining area",
+   "restaurant dining area tables chairs windows",
+   "chairs tables",
+   "table chairs at restaurant",
+   "char",
+   "empty chairs at restaurant",
+   "chairs tables"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003614",
+  "image": "VizWiz_val_00003614.jpg",
+  "question": "What are the cooking instructions on this package?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00004235",
+  "image": "VizWiz_val_00004235.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "framed living room art",
+   "picture",
+   "lights",
+   "shadow person",
+   "picture on wall",
+   "window",
+   "scorch marks",
+   "unanswerable",
+   "unanswerable",
+   "artwork"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001449",
+  "image": "VizWiz_val_00001449.jpg",
+  "question": "This piece of paper say?",
+  "crowd_answers": [
+   "nothing readable",
+   "unanswerable",
+   "unanswerable",
+   "nothing",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001704",
+  "image": "VizWiz_val_00001704.jpg",
+  "question": "What kind of cookies are these?",
+  "crowd_answers": [
+   "halloween",
+   "insufficient image",
+   "pumpkin",
+   "haloween",
+   "halloween",
+   "halloween",
+   "lofthouse",
+   "halloween sugar",
+   "halloween",
+   "cookies"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003103",
+  "image": "VizWiz_val_00003103.jpg",
+  "question": "Hi. I won't know somebody's speaking Spanish.",
+  "crowd_answers": [
+   "no",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000405",
+  "image": "VizWiz_val_00000405.jpg",
+  "question": "Whats on my screen? Come on you guys! Whats on the screen?",
+  "crowd_answers": [
+   "select boot device",
+   "please select boot device 3 choices",
+   "unanswerable",
+   "please select boot device",
+   "boot screen",
+   "please select boot device",
+   "error",
+   "please select boot device",
+   "device select message",
+   "please select boot device"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000344",
+  "image": "VizWiz_val_00000344.jpg",
+  "question": "I want to know what my screen says.",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003941",
+  "image": "VizWiz_val_00003941.jpg",
+  "question": "Does that say what kind of frozen dinner it is? i cant tell myself",
+  "crowd_answers": [
+   "no",
+   "no",
+   "unknown",
+   "no",
+   "no",
+   "unanswerable",
+   "unanswerable",
+   "no",
+   "unanswerable",
+   "no"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001068",
+  "image": "VizWiz_val_00001068.jpg",
+  "question": "What does this say?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00004305",
+  "image": "VizWiz_val_00004305.jpg",
+  "question": "Can you tell me what this box says?",
+  "crowd_answers": [
+   "yes",
+   "all in 1 kitchen miracle",
+   "ultimate kitchen miracle",
+   "ultimate kitchen miracle",
+   "food slicer",
+   "no",
+   "unanswerable",
+   "ultimate kitchen miracle",
+   "ultimate kitchen miracle all in 1",
+   "ultimate kitchen miracle"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000310",
+  "image": "VizWiz_val_00000310.jpg",
+  "question": "Can you please tell me the ETA or progress that Scan Disk has completed so far? Thank you very much.",
+  "crowd_answers": [
+   "unanswerable",
+   "stage 5 5",
+   "stage 4 5",
+   "unanswerable",
+   "stage 4 5",
+   "unanswerable",
+   "almost completed",
+   "no",
+   "87245354 47115524 clusters on stage 5 5",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000763",
+  "image": "VizWiz_val_00000763.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001725",
+  "image": "VizWiz_val_00001725.jpg",
+  "question": "What color is this hair?",
+  "crowd_answers": [
+   "auburn",
+   "brown",
+   "brown",
+   "brown",
+   "light brown",
+   "red",
+   "brown",
+   "light brown",
+   "reddish brown",
+   "brown"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00004184",
+  "image": "VizWiz_val_00004184.jpg",
+  "question": "What is in my hand?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003270",
+  "image": "VizWiz_val_00003270.jpg",
+  "question": "What color is this please?",
+  "crowd_answers": [
+   "blue",
+   "purple tan",
+   "purple",
+   "purple",
+   "purple",
+   "purple",
+   "maroon",
+   "purple",
+   "purple",
+   "purple"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002801",
+  "image": "VizWiz_val_00002801.jpg",
+  "question": "What is the color of this blouse?",
+  "crowd_answers": [
+   "blue",
+   "blue",
+   "unanswerable",
+   "blue",
+   "blue",
+   "blue",
+   "unanswerable",
+   "blue",
+   "blue",
+   "blue"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001082",
+  "image": "VizWiz_val_00001082.jpg",
+  "question": "What picture did I take? And of what?",
+  "crowd_answers": [
+   "ipad",
+   "pic ipad coffee purse next to",
+   "tablet",
+   "ipad",
+   "hulu log in screen",
+   "huluplus",
+   "tablet showing hulu plus",
+   "tablet hulu plus login",
+   "huluplus screen",
+   "login screen for hulu plus on tablet"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001415",
+  "image": "VizWiz_val_00001415.jpg",
+  "question": "Is this a can of beans?",
+  "crowd_answers": [
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002152",
+  "image": "VizWiz_val_00002152.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "unanswerable",
+   "lottery ticket",
+   "unanswerable",
+   "unanswerable",
+   "box",
+   "object",
+   "unanswerable",
+   "panadol",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000928",
+  "image": "VizWiz_val_00000928.jpg",
+  "question": "Yes I need to determine the word that is in this captcha image. Thank you.",
+  "crowd_answers": [
+   "wgtpv",
+   "wgtpv w cut off after that if theres more",
+   "unanswerable",
+   "wgtpv code",
+   "wgtpv",
+   "wftpv",
+   "unanswerable",
+   "no words just letters wgtpv",
+   "unanswerable",
+   "wgtpv"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000932",
+  "image": "VizWiz_val_00000932.jpg",
+  "question": "Can you please tell me if this has, this computer screen has an error message on it?",
+  "crowd_answers": [
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "do you want to restore",
+   "no",
+   "yes",
+   "startup repair",
+   "yes",
+   "yes"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003981",
+  "image": "VizWiz_val_00003981.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "counter",
+   "water bottle",
+   "plastic bottle",
+   "water",
+   "mug",
+   "unanswerable",
+   "water bottle",
+   "water bottles",
+   "plastic bottles",
+   "water coffee cup static gaurd"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001400",
+  "image": "VizWiz_val_00001400.jpg",
+  "question": "What type of soda is this?",
+  "crowd_answers": [
+   "moutain dew code red",
+   "mountain dew code red",
+   "mountain dew",
+   "mountain dew: code red",
+   "code red",
+   "mountain dew",
+   "mountain dew code red",
+   "mountain dew code red",
+   "mountain dew code red",
+   "mountain dew"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000827",
+  "image": "VizWiz_val_00000827.jpg",
+  "question": "What does the sheet of paper say?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00004220",
+  "image": "VizWiz_val_00004220.jpg",
+  "question": "This is a package with a label on it called Ducker. Can you tell me the ingredients in it, please?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001898",
+  "image": "VizWiz_val_00001898.jpg",
+  "question": "Can you tell what this says?",
+  "crowd_answers": [
+   "no",
+   "no",
+   "unanswerable",
+   "do you want to restore your computer using system restore",
+   "do you want to restore your computer using system restore",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "yes",
+   "no"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000377",
+  "image": "VizWiz_val_00000377.jpg",
+  "question": "What text is on the screen?",
+  "crowd_answers": [
+   "system ntfs something needs to be checked for consistency something recommended",
+   "unanswerable",
+   "system check",
+   "needs to be checked for consistency strongly recommended",
+   "checking disk",
+   "unanswerable",
+   "computer system check",
+   "unanswerable",
+   "boot system",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003458",
+  "image": "VizWiz_val_00003458.jpg",
+  "question": "This is a view from above. What is the shape of this speaker?",
+  "crowd_answers": [
+   "unanswerable",
+   "triangular",
+   "triangle",
+   "triangle",
+   "unanswerable",
+   "triangle",
+   "triangle",
+   "triangle",
+   "triangle",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003434",
+  "image": "VizWiz_val_00003434.jpg",
+  "question": "What does this say?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "nothing",
+   "unanswerable",
+   "kds",
+   "unanswerable",
+   "yes"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001095",
+  "image": "VizWiz_val_00001095.jpg",
+  "question": "What does the text at the top of the screen say?",
+  "crowd_answers": [
+   "unanswerable",
+   "file system",
+   "unanswerable",
+   "file system on c:",
+   "file system",
+   "unanswerable",
+   "file system on c disk needs to be checked",
+   "file system on c:",
+   "system on c",
+   "check disk file system on c:"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001476",
+  "image": "VizWiz_val_00001476.jpg",
+  "question": "What is it?",
+  "crowd_answers": [
+   "tonic water",
+   "tonic water",
+   "indian tonic water by sainsburys",
+   "indian tonic water",
+   "indian tonic water sainsburys",
+   "tonic water",
+   "tonic water",
+   "indian tonic water",
+   "tonic water",
+   "indian tonic water"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003985",
+  "image": "VizWiz_val_00003985.jpg",
+  "question": "What is this a box of?",
+  "crowd_answers": [
+   "shredded wheat",
+   "cereal",
+   "shredded wheat",
+   "bite size shredded wheat",
+   "wheat cereal",
+   "shredded wheat",
+   "shredded wheat",
+   "shredded bite size wheat cereal",
+   "shredded bite size wheaties",
+   "cereal"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001482",
+  "image": "VizWiz_val_00001482.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "phone box",
+   "iphone",
+   "iphone box",
+   "phone",
+   "cellphone",
+   "cell phone box",
+   "smartphone",
+   "phone",
+   "smart phone",
+   "iphone"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002164",
+  "image": "VizWiz_val_00002164.jpg",
+  "question": "What color is this ball?",
+  "crowd_answers": [
+   "unanswerable",
+   "teal",
+   "blue",
+   "blue",
+   "blue",
+   "unanswerable",
+   "unanswerable",
+   "blue",
+   "blue",
+   "blue"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003053",
+  "image": "VizWiz_val_00003053.jpg",
+  "question": "Is this chicken stock? Is this chicken stock?",
+  "crowd_answers": [
+   "unanswerable",
+   "no",
+   "yes",
+   "probably unable to see all label",
+   "yes",
+   "unanswerable",
+   "yes",
+   "yes",
+   "unanswerable",
+   "yes"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000644",
+  "image": "VizWiz_val_00000644.jpg",
+  "question": "Do the clouds look like storm clouds? What I'm saying is does it look like it's going to rain here or storm?",
+  "crowd_answers": [
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "no",
+   "no",
+   "no"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000231",
+  "image": "VizWiz_val_00000231.jpg",
+  "question": "Just curious to see whether you could read what was on the computer screen. Just testing this application.",
+  "crowd_answers": [
+   "australia lucky google go to googlecom",
+   "no",
+   "partially",
+   "no cannot read what on computer screen",
+   "partial",
+   "no",
+   "no",
+   "google",
+   "barely",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001353",
+  "image": "VizWiz_val_00001353.jpg",
+  "question": "What color is this?",
+  "crowd_answers": [
+   "unanswerable",
+   "white",
+   "grey",
+   "black",
+   "grey",
+   "grey",
+   "grey",
+   "grey",
+   "white",
+   "grey"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002400",
+  "image": "VizWiz_val_00002400.jpg",
+  "question": "What's this?",
+  "crowd_answers": [
+   "wood floor",
+   "table top",
+   "unanswerable",
+   "hardwood floor",
+   "table",
+   "wood table",
+   "wood floor",
+   "table",
+   "wooden desk",
+   "wood"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002199",
+  "image": "VizWiz_val_00002199.jpg",
+  "question": "What does this grill say?",
+  "crowd_answers": [
+   "hot surface ge",
+   "hot surface",
+   "hot surface",
+   "sd",
+   "hot surface",
+   "hot surface ge",
+   "general electric",
+   "ge",
+   "hot surface",
+   "ge hot surface"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00004173",
+  "image": "VizWiz_val_00004173.jpg",
+  "question": "Do these socks match?",
+  "crowd_answers": [
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001733",
+  "image": "VizWiz_val_00001733.jpg",
+  "question": "Can you tell what flavor this is?",
+  "crowd_answers": [
+   "unanswerable",
+   "orange",
+   "unanswerable",
+   "unanswerable",
+   "tangerine",
+   "orange",
+   "tangerine",
+   "grapefruit",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002637",
+  "image": "VizWiz_val_00002637.jpg",
+  "question": "What kind of meat is this? Thank you.",
+  "crowd_answers": [
+   "prime",
+   "pork chop",
+   "prime roast",
+   "chicken",
+   "chicken",
+   "unanswerable",
+   "unanswerable",
+   "chicken",
+   "chicken",
+   "santa fe chicken"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001933",
+  "image": "VizWiz_val_00001933.jpg",
+  "question": "What color is this please?",
+  "crowd_answers": [
+   "brown",
+   "brown",
+   "tan",
+   "grey",
+   "brown",
+   "unanswerable",
+   "white",
+   "grey",
+   "brown",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003213",
+  "image": "VizWiz_val_00003213.jpg",
+  "question": "what is in this bag",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "cookies",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002737",
+  "image": "VizWiz_val_00002737.jpg",
+  "question": "What color are the shower curtains?",
+  "crowd_answers": [
+   "blue white purple green orange",
+   "blue",
+   "blue",
+   "blue white assorted colored fish",
+   "blue fish bubbles",
+   "blue",
+   "blue",
+   "blue",
+   "blue colorful fish bubbles",
+   "blue green purple yellow fish white bubbles"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001121",
+  "image": "VizWiz_val_00001121.jpg",
+  "question": "Is there blood in my stool?",
+  "crowd_answers": [
+   "yes",
+   "yes",
+   "yes",
+   "unanswerable",
+   "yes",
+   "yes",
+   "unanswerable",
+   "yes",
+   "yes",
+   "yes"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000529",
+  "image": "VizWiz_val_00000529.jpg",
+  "question": "What kind of computer is this?",
+  "crowd_answers": [
+   "macbook",
+   "macbook",
+   "unanswerable",
+   "laptop",
+   "laptop",
+   "laptop",
+   "microsoft",
+   "mac laptop",
+   "acer laptop",
+   "laptop computer"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002678",
+  "image": "VizWiz_val_00002678.jpg",
+  "question": "Which flower is this?",
+  "crowd_answers": [
+   "orchid",
+   "roses",
+   "orchid",
+   "orchid",
+   "orchid",
+   "tulip",
+   "orchid",
+   "orchid",
+   "orchid",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000728",
+  "image": "VizWiz_val_00000728.jpg",
+  "question": "One weak image on the screen.",
+  "crowd_answers": [
+   "yes",
+   "unanswerable",
+   "computer",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001455",
+  "image": "VizWiz_val_00001455.jpg",
+  "question": "What is this? What is this?",
+  "crowd_answers": [
+   "office",
+   "chairs",
+   "office",
+   "office chair",
+   "chair",
+   "desk chair",
+   "home office",
+   "office",
+   "2 desk chairs",
+   "chair"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002858",
+  "image": "VizWiz_val_00002858.jpg",
+  "question": "What denomination is this?",
+  "crowd_answers": [
+   "5",
+   "5",
+   "5",
+   "5",
+   "canada",
+   "5",
+   "5",
+   "eghsthg",
+   "5",
+   "5"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003251",
+  "image": "VizWiz_val_00003251.jpg",
+  "question": "Is this picture on Google?",
+  "crowd_answers": [
+   "no",
+   "unanswerable",
+   "unanswerable",
+   "probably",
+   "no",
+   "phone case decorated ballerina flowers",
+   "no",
+   "yes",
+   "yea",
+   "no"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000531",
+  "image": "VizWiz_val_00000531.jpg",
+  "question": "Hello hello hello.",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000316",
+  "image": "VizWiz_val_00000316.jpg",
+  "question": "can you tell me what this is a picture of?",
+  "crowd_answers": [
+   "unanswerable",
+   "screen",
+   "computer screen",
+   "messaging app",
+   "computer screen",
+   "comment box",
+   "computer screen",
+   "unanswerable",
+   "computer screen showing comment box",
+   "screen"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003352",
+  "image": "VizWiz_val_00003352.jpg",
+  "question": "What is it?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "kitchen",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "picture man at desk on computer",
+   "i see living room in picture",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001632",
+  "image": "VizWiz_val_00001632.jpg",
+  "question": "What's in the box?",
+  "crowd_answers": [
+   "kellogg",
+   "unanswerable",
+   "kelloggs cereal",
+   "cornflakes",
+   "kelloggs",
+   "kelloggs",
+   "cereal",
+   "cereal",
+   "kellogg",
+   "corn flakes"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003293",
+  "image": "VizWiz_val_00003293.jpg",
+  "question": "Which one is the salt? The left or right?",
+  "crowd_answers": [
+   "right",
+   "salt right sid",
+   "right",
+   "right",
+   "right",
+   "right",
+   "right",
+   "right",
+   "right",
+   "right"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002828",
+  "image": "VizWiz_val_00002828.jpg",
+  "question": "What color is this?",
+  "crowd_answers": [
+   "white",
+   "white",
+   "tan",
+   "white",
+   "tan",
+   "grey",
+   "off white",
+   "tan",
+   "beige",
+   "white"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002956",
+  "image": "VizWiz_val_00002956.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "bottle water",
+   "water bottle",
+   "bottled water",
+   "bottle water",
+   "bottle water",
+   "water",
+   "water bottle",
+   "water",
+   "water bottle",
+   "bottle water on dresser"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003253",
+  "image": "VizWiz_val_00003253.jpg",
+  "question": "What was this ---",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "light",
+   "orange cord",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003141",
+  "image": "VizWiz_val_00003141.jpg",
+  "question": "What does this say?",
+  "crowd_answers": [
+   "hes not",
+   "hes not",
+   "hes not",
+   "hes nol",
+   "hes not",
+   "hes no",
+   "hes not",
+   "hes not",
+   "hes nol",
+   "hes not"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001560",
+  "image": "VizWiz_val_00001560.jpg",
+  "question": "What is the kind of this mobile?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "smart phone",
+   "unanswerable",
+   "phone",
+   "lg",
+   "samsung"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003813",
+  "image": "VizWiz_val_00003813.jpg",
+  "question": "What are these?",
+  "crowd_answers": [
+   "boots",
+   "boots",
+   "shoes",
+   "boats",
+   "shoes",
+   "shoes",
+   "shoes",
+   "boots",
+   "brown boots",
+   "boots"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003989",
+  "image": "VizWiz_val_00003989.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "external hard drive",
+   "electronic item",
+   "unanswerable",
+   "ecaec",
+   "braille interface",
+   "unanswerable",
+   "not sure",
+   "braille note type device",
+   "unanswerable",
+   "remixes"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000910",
+  "image": "VizWiz_val_00000910.jpg",
+  "question": "Please read what's on the screen.",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "tab",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "too blurry small to read",
+   "unanswerable",
+   "tab"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002489",
+  "image": "VizWiz_val_00002489.jpg",
+  "question": "What is a tattoo?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "meter board",
+   "ink under ones skin",
+   "unanswerable",
+   "unanswerable",
+   "luxury",
+   "not this"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001093",
+  "image": "VizWiz_val_00001093.jpg",
+  "question": "What make is this laptop?",
+  "crowd_answers": [
+   "unanswerable",
+   "windows",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003399",
+  "image": "VizWiz_val_00003399.jpg",
+  "question": "What is this movie?",
+  "crowd_answers": [
+   "unanswerable",
+   "wizard oz",
+   "grease",
+   "unanswerable",
+   "gone wind",
+   "unanswerable",
+   "gone wind",
+   "gone wind",
+   "unanswerable",
+   "classic"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001000",
+  "image": "VizWiz_val_00001000.jpg",
+  "question": "Is there a visible model number here?",
+  "crowd_answers": [
+   "unanswerable",
+   "no",
+   "blurry",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "unanswerable",
+   "no"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003020",
+  "image": "VizWiz_val_00003020.jpg",
+  "question": "What is in this can?",
+  "crowd_answers": [
+   "beans",
+   "cannelloni beans",
+   "unanswerable",
+   "beans",
+   "unanswerable",
+   "canellini bean soup",
+   "beans",
+   "beans",
+   "unanswerable",
+   "beans"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002855",
+  "image": "VizWiz_val_00002855.jpg",
+  "question": "What does it say on the box for directions on how to make macaroni and cheese?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "cook",
+   "unanswerable",
+   "unanswerable",
+   "mix hot water cheese packet",
+   "unanswerable",
+   "cook drain mix packet milk butter",
+   "instructions not readable",
+   "boil water add pasta boil for 7:30 mins add milk butter cheese mix after draining"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000145",
+  "image": "VizWiz_val_00000145.jpg",
+  "question": "Can you see the steak on this menu?",
+  "crowd_answers": [
+   "yes",
+   "yes 18$",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002387",
+  "image": "VizWiz_val_00002387.jpg",
+  "question": "What is on this label?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "27.40",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "price"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003424",
+  "image": "VizWiz_val_00003424.jpg",
+  "question": "Alright take a look at the remote, try to find the source or the input button and try to describe it in relation to other buttons so I can figure it out, thank you.",
+  "crowd_answers": [
+   "left column last row first button input",
+   "unanswerable",
+   "top remote",
+   "unanswerable",
+   "middle 3 buttons below volume channel buttons",
+   "unanswerable",
+   "bottom left",
+   "input button very bottom button on left first row buttons last 1",
+   "unanswerable",
+   "last button on left column"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001891",
+  "image": "VizWiz_val_00001891.jpg",
+  "question": "What's inside this image?",
+  "crowd_answers": [
+   "leg foot",
+   "toes",
+   "leg foot floor rug",
+   "leg",
+   "foot",
+   "leg",
+   "feet person rug",
+   "2 feet 1 leg 1 rug",
+   "leg",
+   "leg"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003864",
+  "image": "VizWiz_val_00003864.jpg",
+  "question": "What is the name of the supplement in this bottle?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003337",
+  "image": "VizWiz_val_00003337.jpg",
+  "question": "What does this sign say?",
+  "crowd_answers": [
+   "insert into door lock not disturb",
+   "do not distrub",
+   "do not disturb",
+   "insert into door lock not disturb",
+   "do not disturb",
+   "insert into door lock",
+   "insert into door lock do not disturb",
+   "not disturb",
+   "not",
+   "do not disturb"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002509",
+  "image": "VizWiz_val_00002509.jpg",
+  "question": "What is in this box?",
+  "crowd_answers": [
+   "spaghetti bolognaise",
+   "spaghetti bolognaise",
+   "frozen spaghetti",
+   "spaghetti bolognaise",
+   "spaghetti bolognaise",
+   "spaghetti",
+   "spaghetti bolognaise",
+   "spaghetti",
+   "spaghetti bolognaise",
+   "spaghetti bolognaise"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001593",
+  "image": "VizWiz_val_00001593.jpg",
+  "question": "what show is this?",
+  "crowd_answers": [
+   "lexy",
+   "kyle xy",
+   "unanswerable",
+   "kyle xy final season",
+   "kyle xy",
+   "dvd",
+   "kyle xy",
+   "lexy",
+   "unanswerable",
+   "movie"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002483",
+  "image": "VizWiz_val_00002483.jpg",
+  "question": "What is this can?",
+  "crowd_answers": [
+   "coke",
+   "coca cola",
+   "coca cola",
+   "coca cola",
+   "pop",
+   "coke",
+   "coca cola",
+   "coca cola",
+   "coca cola",
+   "cola"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00004200",
+  "image": "VizWiz_val_00004200.jpg",
+  "question": "What is in this package?",
+  "crowd_answers": [
+   "snack",
+   "quesadillas",
+   "quesadillas",
+   "chicken",
+   "unanswerable",
+   "chicken",
+   "chicken quesadillas",
+   "quesadillas",
+   "chicken quesadillas",
+   "chicken in grilled crust"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00004023",
+  "image": "VizWiz_val_00004023.jpg",
+  "question": "What is this book?",
+  "crowd_answers": [
+   "garden primer",
+   "garden primer",
+   "garden primer",
+   "garden primer",
+   "garden primer",
+   "garden primer",
+   "garden primer",
+   "garden primer complete gardeners bible",
+   "garden primer",
+   "garden primer"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003237",
+  "image": "VizWiz_val_00003237.jpg",
+  "question": "What is in this bottle?",
+  "crowd_answers": [
+   "unanswerable",
+   "aspirin",
+   "unanswerable",
+   "vitamins",
+   "unanswerable",
+   "unanswerable",
+   "pills",
+   "aspirin",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001293",
+  "image": "VizWiz_val_00001293.jpg",
+  "question": "Yes this is an hp laptop computer, I need to know where the card reader is in relation to the keyboard. Please be as specific as possible. Thank you.",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "on side",
+   "unanswerable",
+   "i am unable to see card reader sd card reader usually on left corner front edge",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000207",
+  "image": "VizWiz_val_00000207.jpg",
+  "question": "This is probably going to be a long shot in the dark, but I'm trying to fill out a form which requires a captcha, to be solved, and if someone could tell me what the code is, I'd be extremely grateful, thank you.",
+  "crowd_answers": [
+   "unknown",
+   "cannot read code",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00004237",
+  "image": "VizWiz_val_00004237.jpg",
+  "question": "What letters do i enter in to win the prize?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unknow",
+   "ads",
+   "i cannot see captcha text in way",
+   "qog",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001224",
+  "image": "VizWiz_val_00001224.jpg",
+  "question": "Can you tell me what's in this jar please?",
+  "crowd_answers": [
+   "mayonnaise",
+   "salad dressing",
+   "mayonnaise",
+   "salad dressing",
+   "dressing",
+   "dressing",
+   "salad dressing",
+   "salad dressing",
+   "dressing",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002638",
+  "image": "VizWiz_val_00002638.jpg",
+  "question": "What is this item?",
+  "crowd_answers": [
+   "hot pepper sauce",
+   "hot pepper sauce",
+   "hot pepper sauce",
+   "unanswerable",
+   "hot pepper sauce",
+   "jamaican hot pepper sauce",
+   "hot pepper sauce",
+   "pepper sauce",
+   "pepper",
+   "sauce"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003373",
+  "image": "VizWiz_val_00003373.jpg",
+  "question": "Can you tell the information on this bottle, please?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "made passion",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "no",
+   "made passion"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000825",
+  "image": "VizWiz_val_00000825.jpg",
+  "question": "It says books.",
+  "crowd_answers": [
+   "unanswerable",
+   "laptop",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "no",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003231",
+  "image": "VizWiz_val_00003231.jpg",
+  "question": "What is this a bottle of?",
+  "crowd_answers": [
+   "water",
+   "water",
+   "deer park water",
+   "ds",
+   "water",
+   "park",
+   "water",
+   "water",
+   "water",
+   "deer park water"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003011",
+  "image": "VizWiz_val_00003011.jpg",
+  "question": "Is the package yellow or pink?",
+  "crowd_answers": [
+   "pink",
+   "pink",
+   "pink",
+   "pink",
+   "pink",
+   "pink",
+   "pink",
+   "pink",
+   "pink",
+   "pink"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003766",
+  "image": "VizWiz_val_00003766.jpg",
+  "question": "What kind of coffee is this?",
+  "crowd_answers": [
+   "timothy rainforest espresso",
+   "this called timothy coffee espresso",
+   "espresso",
+   "rainforest espresso",
+   "espresso",
+   "timothy rainforest espresso",
+   "espresso",
+   "rainforest espresso",
+   "espresso",
+   "timothy rainforest espresso"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002499",
+  "image": "VizWiz_val_00002499.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "leg",
+   "jeans",
+   "thigh",
+   "pants leg",
+   "arm couch",
+   "pants",
+   "pillow",
+   "unanswerable",
+   "pant leg",
+   "leg"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00004288",
+  "image": "VizWiz_val_00004288.jpg",
+  "question": "How do I make this stuffing mix?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "this front box",
+   "unanswerable",
+   "unanswerable",
+   "stovetop",
+   "unanswerable",
+   "stater stuffing mix"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000033",
+  "image": "VizWiz_val_00000033.jpg",
+  "question": "Can you read the bottle on the screen?",
+  "crowd_answers": [
+   "unanswerable",
+   "no",
+   "no",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "no"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000820",
+  "image": "VizWiz_val_00000820.jpg",
+  "question": "What color is my Mac?",
+  "crowd_answers": [
+   "silver",
+   "white",
+   "beige black",
+   "white",
+   "silver",
+   "silver",
+   "silver",
+   "silver",
+   "white",
+   "silver"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001587",
+  "image": "VizWiz_val_00001587.jpg",
+  "question": "For how long do I cook this in the microwave?",
+  "crowd_answers": [
+   "9 minutes",
+   "5 minutes",
+   "unanswerable",
+   "9 minutes",
+   "unanswerable",
+   "9 min",
+   "unanswerable",
+   "9 minutes",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002601",
+  "image": "VizWiz_val_00002601.jpg",
+  "question": "It's suppose to say on the back of the card what kind of wand that is. What it's made out of and so forth. I just wanted to know what it was. Thanks.",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "something wood 14",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003561",
+  "image": "VizWiz_val_00003561.jpg",
+  "question": "What kind of can food is this?",
+  "crowd_answers": [
+   "salmon",
+   "baby corn",
+   "vegetables",
+   "baby corn",
+   "bamboo shoots",
+   "bamboo shoots",
+   "bamboo shoots",
+   "noodles",
+   "soup",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000896",
+  "image": "VizWiz_val_00000896.jpg",
+  "question": "Yes this is an image from google maps. I need a detailed description of the image. Thank you.",
+  "crowd_answers": [
+   "unanswerable",
+   "looking down small road between 2 brick buildings",
+   "unanswerable",
+   "side street between buildings",
+   "street buildings on either side",
+   "street apartment buildings on both sides",
+   "road between 2 buildings",
+   "small street",
+   "right brick building behind hedge at front trees on side left tan stone building",
+   "street brick building to left hedge more buildings to right"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001028",
+  "image": "VizWiz_val_00001028.jpg",
+  "question": "What exactly does it show on the screen?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "installation window",
+   "notification",
+   "unanswerable",
+   "computer screen",
+   "unknown dialog box",
+   "unanswerable",
+   "unanswerable",
+   "no full screen showing in image"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002836",
+  "image": "VizWiz_val_00002836.jpg",
+  "question": "What is in this can?",
+  "crowd_answers": [
+   "soda",
+   "soup",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "coffee",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000552",
+  "image": "VizWiz_val_00000552.jpg",
+  "question": "Could you tell me exactly what's on this computer screen please and the options?",
+  "crowd_answers": [
+   "command screen",
+   "system recovery window to restart on system failure",
+   "unanswerable",
+   "restore mode",
+   "unanswerable",
+   "unanswerable",
+   "system failure run diagnostics restart",
+   "system recovery",
+   "unanswerable",
+   "system failure screen"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002611",
+  "image": "VizWiz_val_00002611.jpg",
+  "question": "What kind of oatmeal is this and thank you.",
+  "crowd_answers": [
+   "cinnamon spice",
+   "cinnamon spice",
+   "cinnamon spice",
+   "cinnamon spice",
+   "quaker",
+   "quaker cinnamon spice",
+   "cinnamon spice",
+   "quaker",
+   "cinnamon spice",
+   "cinnamon spice"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000046",
+  "image": "VizWiz_val_00000046.jpg",
+  "question": "How big is my TV and what is on the screen, and what is the model number, and what brand is it?",
+  "crowd_answers": [
+   "32 inch sporting event unanswerable for rest",
+   "unanswerable",
+   "unsure",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000291",
+  "image": "VizWiz_val_00000291.jpg",
+  "question": "Looking for properties to rent in my area, what is the condition of the house shown in the image?",
+  "crowd_answers": [
+   "poor",
+   "bad",
+   "extremely poor",
+   "very poor",
+   "destroyed",
+   "demolished",
+   "horrible",
+   "condemned",
+   "bad",
+   "condemned house"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001553",
+  "image": "VizWiz_val_00001553.jpg",
+  "question": "Can you tell me what kind of chips these are?",
+  "crowd_answers": [
+   "cheese chips",
+   "cheetos",
+   "unanswerable",
+   "cheetos",
+   "cheetos",
+   "cheetos",
+   "cheetos",
+   "crunchy cheetos i cant tell if theyre hot original because photo too close",
+   "cheetos",
+   "cheetos"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000303",
+  "image": "VizWiz_val_00000303.jpg",
+  "question": "What letters do I type in to claim the prize?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00004081",
+  "image": "VizWiz_val_00004081.jpg",
+  "question": "An atom of which of these elements most likely forms an ion? Al, Br, Ca or Mg?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "al",
+   "study more",
+   "al",
+   "unanswerable",
+   "ar",
+   "unanswerable",
+   "ca",
+   "some display screen"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001157",
+  "image": "VizWiz_val_00001157.jpg",
+  "question": "What is",
+  "crowd_answers": [
+   "unanswerable",
+   "papers tacked to wall",
+   "unanswerable",
+   "unanswerable",
+   "diagrams",
+   "unanswerable",
+   "dont know",
+   "unanswerable",
+   "unanswerable",
+   "paper"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001576",
+  "image": "VizWiz_val_00001576.jpg",
+  "question": "What color is this?",
+  "crowd_answers": [
+   "pink",
+   "pink",
+   "light pink",
+   "light pink",
+   "flesh tone",
+   "beige",
+   "light pink",
+   "pink",
+   "beige",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000461",
+  "image": "VizWiz_val_00000461.jpg",
+  "question": "What is the model number?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "cannot read numbers print too small",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001129",
+  "image": "VizWiz_val_00001129.jpg",
+  "question": "What letters do I type in to win?",
+  "crowd_answers": [
+   "hko",
+   "hko",
+   "hko",
+   "hko",
+   "hko",
+   "hko",
+   "hko",
+   "hko",
+   "hko",
+   "hko"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003426",
+  "image": "VizWiz_val_00003426.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "water",
+   "water",
+   "natural crystal water",
+   "natures crystal water",
+   "water bottle",
+   "water bottle",
+   "water bottle",
+   "water",
+   "water bottle",
+   "water"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002450",
+  "image": "VizWiz_val_00002450.jpg",
+  "question": "What kind of soup is this?",
+  "crowd_answers": [
+   "unanswerable",
+   "sd",
+   "unanswerable",
+   "unanswerable",
+   "traditional",
+   "traditional",
+   "progresso brand",
+   "progresso",
+   "progresso",
+   "progressive"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001464",
+  "image": "VizWiz_val_00001464.jpg",
+  "question": "What kind of beer is this?",
+  "crowd_answers": [
+   "unanswerable",
+   "cold",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000400",
+  "image": "VizWiz_val_00000400.jpg",
+  "question": "What is written on the paper?",
+  "crowd_answers": [
+   "australia post",
+   "customer address",
+   "australia post",
+   "pull to remove",
+   "australia post pull to remove",
+   "unanswerable",
+   "post",
+   "unanswerable",
+   "austrailia post",
+   "pull to remove"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001765",
+  "image": "VizWiz_val_00001765.jpg",
+  "question": "What is the name of this product?",
+  "crowd_answers": [
+   "sun",
+   "sun",
+   "sun plus oxi",
+   "sun",
+   "sun ox",
+   "sun",
+   "sun plus oxi",
+   "sun laundry soap",
+   "sun plus oxi",
+   "sun ox"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000725",
+  "image": "VizWiz_val_00000725.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "belly",
+   "stomach",
+   "belly",
+   "stomach",
+   "abdomen",
+   "stomach",
+   "that stomach",
+   "back",
+   "abs",
+   "stomach"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001946",
+  "image": "VizWiz_val_00001946.jpg",
+  "question": "Is this a cola?",
+  "crowd_answers": [
+   "no",
+   "no",
+   "no",
+   "unanswerable",
+   "yes",
+   "no",
+   "yes",
+   "no",
+   "yes",
+   "no"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002595",
+  "image": "VizWiz_val_00002595.jpg",
+  "question": "What spice is this?",
+  "crowd_answers": [
+   "garlic salt",
+   "garlic salt",
+   "garlic",
+   "garlic salt",
+   "not clear",
+   "garlic salt",
+   "garlic salt",
+   "garlic salt",
+   "garlic salt",
+   "classic"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001571",
+  "image": "VizWiz_val_00001571.jpg",
+  "question": "What color is it?",
+  "crowd_answers": [
+   "grey",
+   "grey",
+   "white",
+   "grey",
+   "faded black",
+   "grey",
+   "white",
+   "faded black",
+   "grey",
+   "grey"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002013",
+  "image": "VizWiz_val_00002013.jpg",
+  "question": "What is this picture of?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "keyboard",
+   "keyboard",
+   "unanswerable",
+   "finger",
+   "keyboard",
+   "finger"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001215",
+  "image": "VizWiz_val_00001215.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "barbeque sauce",
+   "barbecue sauce",
+   "barbecue sauce",
+   "kc masterpiece hickory",
+   "bbq sauce",
+   "hickory brown sugar",
+   "bbq sauce",
+   "barbeque sauce",
+   "barbecue sauce",
+   "hickory barbecue sauce"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000897",
+  "image": "VizWiz_val_00000897.jpg",
+  "question": "What is the captcha code?",
+  "crowd_answers": [
+   "ja5ce848",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "ja5ce848",
+   "unanswerable",
+   "ja5ce848",
+   "unanswerable",
+   "ja5ce848",
+   "ja5ce848"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001178",
+  "image": "VizWiz_val_00001178.jpg",
+  "question": "What kind of perfume is this?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "i do not see perfume",
+   "unanswerable",
+   "afd",
+   "unanswerable",
+   "green",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000540",
+  "image": "VizWiz_val_00000540.jpg",
+  "question": "What does this say?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unsuitable video",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002617",
+  "image": "VizWiz_val_00002617.jpg",
+  "question": "What kind of coffee is this?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "keurig",
+   "ihop",
+   "unanswerable",
+   "0",
+   "donut shop",
+   "donut shop",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001832",
+  "image": "VizWiz_val_00001832.jpg",
+  "question": "I know this is a medication, but what type?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "ibuprofen",
+   "unanswerable",
+   "aspirin",
+   "asprin",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003286",
+  "image": "VizWiz_val_00003286.jpg",
+  "question": "Can you tell me how much i weigh please?",
+  "crowd_answers": [
+   "1",
+   "1",
+   "unanswerable",
+   "1",
+   "1",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "blank scale",
+   "1"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003087",
+  "image": "VizWiz_val_00003087.jpg",
+  "question": "What is the name of this product?",
+  "crowd_answers": [
+   "unanswerable",
+   "candy",
+   "unanswerable",
+   "unanswerable",
+   "butter",
+   "unanswerable",
+   "unanswerable",
+   "box",
+   "imperial margarine",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003000",
+  "image": "VizWiz_val_00003000.jpg",
+  "question": "Who's the artist?",
+  "crowd_answers": [
+   "bob wills",
+   "bob wills",
+   "bob wills",
+   "bob wills",
+   "bob wills",
+   "bob wills",
+   "bob willis",
+   "bob wills",
+   "bob wills",
+   "artist name bob wills"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002318",
+  "image": "VizWiz_val_00002318.jpg",
+  "question": "when does this expire?",
+  "crowd_answers": [
+   "23.2013",
+   "dec 23 2013",
+   "dec 13 2013",
+   "dec 28 2013",
+   "dec 29 2017",
+   "dec 23 2013",
+   "12 28 13",
+   "december 29 2013",
+   "dec 29 2013",
+   "dec 29 2013"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002091",
+  "image": "VizWiz_val_00002091.jpg",
+  "question": "This appliance is a Black",
+  "crowd_answers": [
+   "white",
+   "unanswerable",
+   "no",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "no",
+   "unanswerable",
+   "unanswerable",
+   "no"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000802",
+  "image": "VizWiz_val_00000802.jpg",
+  "question": "Does it have any writing on it?",
+  "crowd_answers": [
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "no"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003748",
+  "image": "VizWiz_val_00003748.jpg",
+  "question": "What is this can?",
+  "crowd_answers": [
+   "can soup",
+   "chicken soup",
+   "chicken noodle soup",
+   "soup coffee",
+   "campbells soup",
+   "campbells soup",
+   "cambell soup",
+   "soup",
+   "cant see lable",
+   "chicken noodle soup"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002491",
+  "image": "VizWiz_val_00002491.jpg",
+  "question": "How many carbohydrates are in one serving size?",
+  "crowd_answers": [
+   "30 grams",
+   "30g 10%",
+   "30 grams",
+   "30 grams",
+   "30 grams",
+   "unanswerable",
+   "30 g",
+   "30 g",
+   "30",
+   "30 g"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001924",
+  "image": "VizWiz_val_00001924.jpg",
+  "question": "Where is the menu button?",
+  "crowd_answers": [
+   "directly under large volume button on left side",
+   "in middle remote buttons in circle menu button top left these buttons",
+   "top left on circle",
+   "outer circle in middle top left",
+   "outer upper left circle",
+   "top left circle",
+   "up to left arrow buttons",
+   "unanswerable",
+   "left middle",
+   "top"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000719",
+  "image": "VizWiz_val_00000719.jpg",
+  "question": "What are the numbers on this product key?",
+  "crowd_answers": [
+   "unanswerable",
+   "unreadable",
+   "unanswerable",
+   "unanswerable",
+   "unreadable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002276",
+  "image": "VizWiz_val_00002276.jpg",
+  "question": "What brand of chocolate is this?",
+  "crowd_answers": [
+   "dove",
+   "dove",
+   "dove",
+   "dove",
+   "dove",
+   "dove",
+   "dove",
+   "dove",
+   "dove",
+   "dove"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001764",
+  "image": "VizWiz_val_00001764.jpg",
+  "question": "What is this package?",
+  "crowd_answers": [
+   "veggie lasagna",
+   "farmers harvest microwavable meal",
+   "vegetable lasagna",
+   "microwave dinner",
+   "frozen dinner",
+   "food",
+   "microwavable food",
+   "frozen vegetable lasagna",
+   "vegetable lasagna",
+   "farmers harvest veggie lasagne"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003071",
+  "image": "VizWiz_val_00003071.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "advanced color therapy shampoo",
+   "shampoo",
+   "advanced color therapy shampoo",
+   "shampoo",
+   "color therapy shampoo",
+   "shampoo",
+   "color therapy",
+   "shampoo",
+   "ovation advanced color therapy",
+   "color therapy"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000161",
+  "image": "VizWiz_val_00000161.jpg",
+  "question": "What is in this picture?",
+  "crowd_answers": [
+   "tv",
+   "tv screen car on clock other furniture",
+   "car",
+   "living room",
+   "clock television tv stand rug electronic equipment",
+   "tv",
+   "clock television below on low table",
+   "tv",
+   "clock tv basket rug",
+   "television"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001696",
+  "image": "VizWiz_val_00001696.jpg",
+  "question": "What kind of chocolate chips are these?",
+  "crowd_answers": [
+   "market pantry semi sweet",
+   "market pantry",
+   "semi sweet",
+   "unanswerable",
+   "market pantry",
+   "semi sweet",
+   "semi sweet",
+   "generic",
+   "semi sweet",
+   "semi sweet"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003382",
+  "image": "VizWiz_val_00003382.jpg",
+  "question": "What kind of beer is this?",
+  "crowd_answers": [
+   "becks",
+   "not sure",
+   "unanswerable",
+   "becks",
+   "becks",
+   "becks",
+   "becks",
+   "becks",
+   "becks",
+   "beer"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000101",
+  "image": "VizWiz_val_00000101.jpg",
+  "question": "Is their text on this computer screen?",
+  "crowd_answers": [
+   "overy options",
+   "yes",
+   "yes",
+   "yes",
+   "yes recovery options",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001679",
+  "image": "VizWiz_val_00001679.jpg",
+  "question": "What is this item?",
+  "crowd_answers": [
+   "domino confectioners sugar",
+   "confectioners sugar",
+   "dominic confectioners sugar",
+   "domino powdered sugar",
+   "confectioners sugar",
+   "confectioners sugar",
+   "confectioners sugar",
+   "confectioners sugar",
+   "sugar",
+   "confectioners sugar"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00004052",
+  "image": "VizWiz_val_00004052.jpg",
+  "question": "Color is this shirt?",
+  "crowd_answers": [
+   "blue",
+   "blue",
+   "blue",
+   "blue",
+   "blue",
+   "blue",
+   "blue",
+   "blue",
+   "blue",
+   "blue"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002672",
+  "image": "VizWiz_val_00002672.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "i phones",
+   "i phone",
+   "iphone",
+   "phone cases",
+   "phones",
+   "electronics",
+   "iphones",
+   "iphone",
+   "box iphones",
+   "mobile phones"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001944",
+  "image": "VizWiz_val_00001944.jpg",
+  "question": "What is it?",
+  "crowd_answers": [
+   "corgi",
+   "dog",
+   "dog",
+   "dog",
+   "dog",
+   "dog",
+   "dog",
+   "corgi",
+   "corgi",
+   "dog"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002282",
+  "image": "VizWiz_val_00002282.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "chicken",
+   "chicken breast",
+   "chicken breast",
+   "chicken breast",
+   "chicken",
+   "chicken breast",
+   "pesto genovese chicken breast",
+   "chicken breast",
+   "chicken breast",
+   "pesto genovese chicken breast"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00004255",
+  "image": "VizWiz_val_00004255.jpg",
+  "question": "What's in this red envelope?",
+  "crowd_answers": [
+   "unanswerable",
+   "sloppy joes seasoning",
+   "shur fine sloppy joe seasoning",
+   "unsiotable image",
+   "sloppy joe seasoning",
+   "seasoning",
+   "seasoning mix",
+   "sloppy joe seasoning",
+   "sloppy joe seasoning",
+   "sloppy joe seasoning"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002219",
+  "image": "VizWiz_val_00002219.jpg",
+  "question": "What is the picture on this cup?",
+  "crowd_answers": [
+   "cartoon",
+   "cartoon characters",
+   "cartoon",
+   "man looking at bird",
+   "man chicken",
+   "man",
+   "cartoon man",
+   "sketch bird man tree moon",
+   "person animal",
+   "cartoon"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000437",
+  "image": "VizWiz_val_00000437.jpg",
+  "question": "What does this say?",
+  "crowd_answers": [
+   "unanswerable",
+   "box",
+   "nutrition facts",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002658",
+  "image": "VizWiz_val_00002658.jpg",
+  "question": "What is the progress of this operation?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003241",
+  "image": "VizWiz_val_00003241.jpg",
+  "question": "This is Brooklyn Beans coffee, what flavor is it?",
+  "crowd_answers": [
+   "cyclone",
+   "cyclone",
+   "cyclone",
+   "unanswerable",
+   "cyclone",
+   "cyclone",
+   "cyclone flavor",
+   "cyclone",
+   "cyclone",
+   "dark roast extra bold flavor"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000523",
+  "image": "VizWiz_val_00000523.jpg",
+  "question": "What is the app on the top left?",
+  "crowd_answers": [
+   "message",
+   "messages app",
+   "apple messages",
+   "messages",
+   "messages",
+   "messages",
+   "messages",
+   "messages",
+   "messages",
+   "messages"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000986",
+  "image": "VizWiz_val_00000986.jpg",
+  "question": "What is the answer to number 10?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "dont know"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001677",
+  "image": "VizWiz_val_00001677.jpg",
+  "question": "What flavor is this?",
+  "crowd_answers": [
+   "unanswerable",
+   "sumatra",
+   "unanswerable",
+   "coffee",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "french roast"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003303",
+  "image": "VizWiz_val_00003303.jpg",
+  "question": "Ya, I just got this apple on my phone and I'm blind and to find what's in this can. Let's sell it.",
+  "crowd_answers": [
+   "unanswerable",
+   "corn",
+   "no",
+   "whole kernel corn",
+   "corn",
+   "whole corn",
+   "unanswerable",
+   "corn",
+   "unanswerable",
+   "corn"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000041",
+  "image": "VizWiz_val_00000041.jpg",
+  "question": "What is this receipt about and is there a phone number?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unsure",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002022",
+  "image": "VizWiz_val_00002022.jpg",
+  "question": "What's this?",
+  "crowd_answers": [
+   "fireplace",
+   "fireplace",
+   "fireplace",
+   "fireplace",
+   "fireplace",
+   "fireplace",
+   "fireplace",
+   "fireplace",
+   "brick fireplace",
+   "fireplace"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001666",
+  "image": "VizWiz_val_00001666.jpg",
+  "question": "What is the date on this milk?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003988",
+  "image": "VizWiz_val_00003988.jpg",
+  "question": "The title of this book please, thank you.",
+  "crowd_answers": [
+   "daily bread",
+   "daily break words for life",
+   "daily bread",
+   "daily bread",
+   "daily breath",
+   "unanswerable",
+   "daily break",
+   "daily bread words for life",
+   "unanswerable",
+   "daily bread"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001175",
+  "image": "VizWiz_val_00001175.jpg",
+  "question": "What's this picture?",
+  "crowd_answers": [
+   "monitor",
+   "laptop",
+   "television",
+   "computer",
+   "laptop",
+   "television",
+   "flat screen tv",
+   "laptop screen",
+   "television",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002198",
+  "image": "VizWiz_val_00002198.jpg",
+  "question": "What kind of candy is this?",
+  "crowd_answers": [
+   "unanswerable",
+   "strawberry chocolate egg",
+   "strawberry egg",
+   "strawberry egg",
+   "strawberry chocolate egg",
+   "lorras strawberry",
+   "strawberry egg",
+   "strawberry egg",
+   "strawberry egg",
+   "lorras strawberry egg"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003932",
+  "image": "VizWiz_val_00003932.jpg",
+  "question": "How much time is on the display?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unable to see display move right little",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00001596",
+  "image": "VizWiz_val_00001596.jpg",
+  "question": "what color is this haircut?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "orange",
+   "orange",
+   "orange",
+   "blue",
+   "unanswerable",
+   "orange",
+   "orange",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002384",
+  "image": "VizWiz_val_00002384.jpg",
+  "question": "What is in this little bottle?",
+  "crowd_answers": [
+   "nothing",
+   "unanswerable",
+   "unanswerable",
+   "jelly",
+   "unanswerable",
+   "lotion",
+   "cleaner",
+   "unanswerable",
+   "vodka",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001866",
+  "image": "VizWiz_val_00001866.jpg",
+  "question": "Hey, what is this?",
+  "crowd_answers": [
+   "rug",
+   "blanket",
+   "rug",
+   "rug",
+   "unanswerable",
+   "mattress",
+   "blinds",
+   "rug",
+   "unanswerable",
+   "placemat"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000418",
+  "image": "VizWiz_val_00000418.jpg",
+  "question": "What is this magazine?",
+  "crowd_answers": [
+   "medicare coverage 2012",
+   "medicare",
+   "drug coverage",
+   "2012 eoc",
+   "medicare pamphlet",
+   "2012 evidence coverage",
+   "2012 eoc",
+   "evidence coverage",
+   "medicare 2012 evidence coverage",
+   "2012 eoc"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003623",
+  "image": "VizWiz_val_00003623.jpg",
+  "question": "read the instructions for this dip how to prepare it",
+  "crowd_answers": [
+   "no instructions",
+   "wrong side",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "no instructions",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00004201",
+  "image": "VizWiz_val_00004201.jpg",
+  "question": "Could you tell me what this can is please?",
+  "crowd_answers": [
+   "hunt s",
+   "manwich",
+   "manwich",
+   "hunts sloppy joe sauce",
+   "sloppy joe sauce",
+   "manwich",
+   "manwhich bold sloppy joe sauce",
+   "unwich",
+   "manwich",
+   "sloppy joe"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003322",
+  "image": "VizWiz_val_00003322.jpg",
+  "question": "Any copying instructions.",
+  "crowd_answers": [
+   "no",
+   "no",
+   "unanswerable",
+   "no",
+   "no",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "no",
+   "no"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003405",
+  "image": "VizWiz_val_00003405.jpg",
+  "question": "could you tell me the sodium content of the food in this box thank you",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "no",
+   "unanswerable",
+   "no",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "no"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002650",
+  "image": "VizWiz_val_00002650.jpg",
+  "question": "What is this floor made out of?",
+  "crowd_answers": [
+   "carpet",
+   "carpet",
+   "carpet",
+   "carpet",
+   "carpet",
+   "unanswerable",
+   "carpet",
+   "unanswerable",
+   "agtfsfd",
+   "carpet"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003663",
+  "image": "VizWiz_val_00003663.jpg",
+  "question": "is this cup full?",
+  "crowd_answers": [
+   "no",
+   "partially",
+   "no",
+   "half full",
+   "no",
+   "no",
+   "no",
+   "no",
+   "half full",
+   "no"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001286",
+  "image": "VizWiz_val_00001286.jpg",
+  "question": "What are these?",
+  "crowd_answers": [
+   "black vans",
+   "shoes",
+   "shoes",
+   "vans shoes",
+   "vans shoes",
+   "shoes",
+   "shoes",
+   "shoes",
+   "black vans shoes",
+   "shoes"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001296",
+  "image": "VizWiz_val_00001296.jpg",
+  "question": "Who is it?",
+  "crowd_answers": [
+   "unanswerable",
+   "i dont know",
+   "walmart bag in front garage door",
+   "non 1 bag",
+   "unanswerable",
+   "walmart bag by garage door",
+   "garage door",
+   "unanswerable",
+   "just bag",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002379",
+  "image": "VizWiz_val_00002379.jpg",
+  "question": "What is in this can?",
+  "crowd_answers": [
+   "whole kernel sweet corn",
+   "whole kernel sweet corn",
+   "corn",
+   "whole kernel sweet corn",
+   "corn",
+   "sweet corn",
+   "corn",
+   "corn",
+   "corn",
+   "corn"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00004187",
+  "image": "VizWiz_val_00004187.jpg",
+  "question": "What color is this please?",
+  "crowd_answers": [
+   "black white",
+   "leopard print",
+   "animal print black grey white",
+   "brown black",
+   "white black grey animal print",
+   "white grey",
+   "leopard",
+   "bedroom",
+   "white black grey leopard print",
+   "leopard print"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000750",
+  "image": "VizWiz_val_00000750.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "tall buildings",
+   "buildings",
+   "buildings",
+   "city landscape",
+   "downtown city",
+   "buildings",
+   "buildings",
+   "city buildings",
+   "skyscrapers",
+   "city"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003762",
+  "image": "VizWiz_val_00003762.jpg",
+  "question": "What is on this picture? Thank you.",
+  "crowd_answers": [
+   "prokaryotic eukaryotic cells",
+   "prokaryotic eukaryotic cells",
+   "prokaryotic eukaryotic cells",
+   "cells",
+   "prokaryotic eukaryotic cells",
+   "unanswerable",
+   "blood cells",
+   "blood cells",
+   "prokaryotic eukaryotic cells",
+   "flowers"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002299",
+  "image": "VizWiz_val_00002299.jpg",
+  "question": "What color is this table?",
+  "crowd_answers": [
+   "wood",
+   "tan",
+   "brown",
+   "very light sand",
+   "beige",
+   "brown",
+   "light brown",
+   "white",
+   "tan",
+   "brown"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00004284",
+  "image": "VizWiz_val_00004284.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "unanswerable",
+   "sd",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "mirror",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003918",
+  "image": "VizWiz_val_00003918.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "video game",
+   "video game",
+   "basketball game",
+   "video game",
+   "unanswerable",
+   "dvd",
+   "unanswerable",
+   "game",
+   "video game",
+   "dvd"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002983",
+  "image": "VizWiz_val_00002983.jpg",
+  "question": "is there any text on my computer screen?",
+  "crowd_answers": [
+   "warning",
+   "yes blurry",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes",
+   "yes"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001614",
+  "image": "VizWiz_val_00001614.jpg",
+  "question": "What does the thermostat say?",
+  "crowd_answers": [
+   "75",
+   "unanswerable",
+   "unanswerable",
+   "75 degrees",
+   "75 degrees",
+   "75 degrees",
+   "75 degrees",
+   "75 degrees",
+   "75",
+   "75"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003997",
+  "image": "VizWiz_val_00003997.jpg",
+  "question": "What is this?",
+  "crowd_answers": [
+   "remote control",
+   "remote control",
+   "remote",
+   "remote",
+   "tv remote",
+   "remote control",
+   "remote",
+   "remote control",
+   "remote control",
+   "remote"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003780",
+  "image": "VizWiz_val_00003780.jpg",
+  "question": "What does this say?",
+  "crowd_answers": [
+   "nothing",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00002584",
+  "image": "VizWiz_val_00002584.jpg",
+  "question": "Please can you tell me what item this is?",
+  "crowd_answers": [
+   "cereal",
+   "cheerios",
+   "cereal",
+   "cheerios",
+   "unanswerable",
+   "cereal",
+   "honey cheerios",
+   "cheerios now more delicious honey",
+   "honey",
+   "honey"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00002774",
+  "image": "VizWiz_val_00002774.jpg",
+  "question": "What is it?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "cell phone",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "tea"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003418",
+  "image": "VizWiz_val_00003418.jpg",
+  "question": "What kind of meat is this?",
+  "crowd_answers": [
+   "boneless pork roast",
+   "pork",
+   "boneless pork roast",
+   "pork",
+   "pork",
+   "boneless pork roast",
+   "boneless pork roast",
+   "pork roast",
+   "pork roast",
+   "boneless pork roast"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001722",
+  "image": "VizWiz_val_00001722.jpg",
+  "question": "What flavor are these pringles?",
+  "crowd_answers": [
+   "thai sweet chili",
+   "chai sweet chilu",
+   "chili",
+   "thai sweet chili",
+   "thai sweet chili",
+   "thai sweet chili",
+   "thai sweet chili",
+   "prngles flavor",
+   "thai sweet chili",
+   "thai sweet chilli"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00000679",
+  "image": "VizWiz_val_00000679.jpg",
+  "question": "What did that say?",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "religious school paper",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00003376",
+  "image": "VizWiz_val_00003376.jpg",
+  "question": "What is this a picture of?",
+  "crowd_answers": [
+   "eyeglasses",
+   "frames",
+   "glasses",
+   "eye glasses silver frames",
+   "eye glasses",
+   "glasses",
+   "eyeglass frame",
+   "glasses",
+   "glasses",
+   "glasses"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00001378",
+  "image": "VizWiz_val_00001378.jpg",
+  "question": "What color was that?",
+  "crowd_answers": [
+   "grey",
+   "blue",
+   "blue",
+   "blue",
+   "grey",
+   "dark blue",
+   "unanswerable",
+   "blue",
+   "grey",
+   "blue"
+  ],
+  "dataset_answerable": 1
+ },
+ {
+  "id": "00003047",
+  "image": "VizWiz_val_00003047.jpg",
+  "question": "What flavor of coffee is this please? Third times a charm.",
+  "crowd_answers": [
+   "unanswerable",
+   "unanswerable",
+   "tullys",
+   "unanswerable",
+   "unanswerable",
+   "unanswerable",
+   "tully\u0646\u064e\u00bbs",
+   "tullys",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 0
+ },
+ {
+  "id": "00000130",
+  "image": "VizWiz_val_00000130.jpg",
+  "question": "Can you see a bottle in this picture? And if so, what is it?",
+  "crowd_answers": [
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "no",
+   "yes unknown",
+   "no",
+   "unanswerable",
+   "unanswerable"
+  ],
+  "dataset_answerable": 1
+ }
+]

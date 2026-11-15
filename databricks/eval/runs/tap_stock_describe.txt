@@ -1,0 +1,71 @@
+[phone_145345-523.jpg] scene     Person ahead. Person to your right. Chair left, window front, wall right.
+[phone_145351-884.jpg] scene     Person ahead. Table left, paper on table, chair right.
+[phone_145524-934.jpg] scene     Person ahead. Table left, chair right.
+[phone_145540-877.jpg] scene     Person ahead. Window left, blanket below.
+[phone_145545-528.jpg] scene     4 people in view. Laptop left, cans center, phone right.
+[phone_145555-521.jpg] scene     3 people in view. Table ahead, laptops left, cans center, phone right.
+[phone_145702-901.jpg] scene     Person to your left. Person to your right. Table, laptop, cans, phone right.
+[phone_150658-240.jpg] scene     Person to your right. Can left, can center, phone right, ball front, marker center.
+[phone_150839-349.jpg] scene     Person to your right. Person to your left. Laptop left, phone left, blanket right.
+[phone_152201-079.jpg] scene     Person to your right. Person to your left. Laptop left, cans center, phone right.
+[phone_153845-641.jpg] scene     Nothing visible.
+[phone_154719-938.jpg] scene     5 people in view. Wood walls, glass railing, ceiling lights.
+[phone_161411-194.jpg] ONE THING Water bottle.
+[phone_162627-481.jpg] scene     Nothing visible.
+[phone_163804-795.jpg] ONE THING Laptop computer.
+[phone_164103-480.jpg] ONE THING Red Bull Zero can.
+[phone_164602-924.jpg] ONE THING Laptop computer.
+[phone_164624-260.jpg] scene     Person ahead. Laptop ahead, table below.
+[phone_170717-029.jpg] scene     Laptop left, water bottle right.
+[phone_172151-385.jpg] scene     Person ahead. Laptop front, screen left, keyboard below.
+[phone_172928-776.jpg] scene     Person ahead. Laptop left, water bottle right, thermos far right.
+[phone_173109-719.jpg] scene     2 people to your left. Sleeve mask center, bottle right, laptop back.
+[phone_173128-846.jpg] scene     Person to your right. Person to your left. Ceiling above, counter left, floor below.
+[phone_173540-851.jpg] scene     Person to your right. Person to your left. Water bottle center, eye mask front left, laptop back left.
+[phone_173815-330.jpg] scene     Person to your right. Person to your left. Table ahead, laptop left, phone center, bottle right.
+[phone_174203-383.jpg] scene     Nothing visible.
+[phone_180050-620.jpg] scene     Person to your left. Elevator door right, wooden wall left.
+[phone_180558-186.jpg] scene     4 people in view. Cabinet left, counter front, floor below.
+[phone_180602-151.jpg] ONE THING Person.
+[phone_184545-144.jpg] scene     Person ahead. Table right, chair center, floor left.
+[000000042528.jpg] scene     Person to your right. Chair left, phone right.
+[000000046031.jpg] scene     Laptop center, mouse right, keyboard left.
+[000000055022.jpg] scene     2 people to your right. Bike front, bike left, rack right.
+[000000057597.jpg] scene     17 people in view. Soccer ball left, grass below.
+[000000058393.jpg] scene     Person to your right. Person ahead. Ocean ahead, bench below.
+[000000093261.jpg] scene     Person to your left. Person to your right. Kite in front, towel below, sand around.
+[000000099024.jpg] scene     Person to your left. Plastic sheet front, sticks bottom left, scissors bottom right.
+[000000114871.jpg] scene     Banana front, cheese back.
+[000000129054.jpg] scene     Zebras ahead, grass below.
+[000000139077.jpg] scene     Person to your left. TV ahead, cabinet right, stairs left.
+[000000170955.jpg] scene     Person to your right. Statue left, building right.
+[000000171788.jpg] scene     Person ahead. Racket right, ball far right.
+[000000177893.jpg] scene     Bus ahead, lamp right.
+[000000192607.jpg] scene     Person to your right. Truck left, ground right.
+[000000208363.jpg] scene     15 people in view. Pizza boxes left, pizza in hand center, chairs below.
+[000000229747.jpg] ONE THING Airplane.
+[000000232692.jpg] scene     4 people in view. Ramp ahead, water left.
+[000000274460.jpg] scene     15 people in view. Sand in front, surfboards left and right.
+[000000284991.jpg] scene     Person ahead. Window left, bottle center, hand center.
+[000000292060.jpg] scene     Stove left, sink center, fridge right.
+[000000296657.jpg] scene     5 people in view. Grass below, trees behind.
+[000000343803.jpg] scene     Person ahead. Frisbee right, grass left, tree back.
+[000000353051.jpg] scene     Person to your left. Horse right, fence left.
+[000000375493.jpg] scene     Person ahead. Fire hydrant front, grass left.
+[000000397351.jpg] scene     Person to your left. Carrots left, truck right.
+[000000405306.jpg] ONE THING Cat.
+[000000430377.jpg] scene     Person ahead. Person to your left. Skiers ahead, poles left, snow below.
+[000000443303.jpg] ONE THING Cat.
+[000000469828.jpg] scene     Person to your left. Snow ahead, trees right.
+[000000504589.jpg] scene     3 people in view. Sand in front, tree behind.
+[000000513041.jpg] scene     Person to your left. Person to your right. Wine glass left, pizza center, wine glass right.
+[000000520659.jpg] scene     6 people in view. Surfboards left, tent center, grass front.
+[000000529122.jpg] scene     Person ahead. Pastries below, counter right, display case front.
+[000000532481.jpg] scene     Person ahead. Water front, kite left, board center.
+[000000536343.jpg] scene     Bathtub front, wood panels center, shelves right.
+[000000544605.jpg] scene     Pole, sign, wall ahead.
+[000000545100.jpg] scene     3 people in view. Railing left, fence front, buildings right.
+[000000550471.jpg] ONE THING Orange.
+[000000554579.jpg] scene     4 people in view. Dog front, handbag right, skirt left.
+[000000559348.jpg] scene     5 people in view. Field ahead, home plate right, bases left.
+70 descriptions: mean 8.2 words, max 18; the close-up check took a median 118 ms and copied 8 MB of state

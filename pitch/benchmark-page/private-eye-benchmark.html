@@ -1,0 +1,261 @@
+<title>Private Eye Benchmark</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<style>
+/* Layout: one reading column; two charts side by side, then photo cards in a two-column grid. */
+:root {
+  --bg: #f9f9f7; --surface: #fcfcfb; --ink: #0b0b0b; --ink2: #52514e; --muted: #7b7973;
+  --grid: #e1e0d9; --axis: #c3c2b7; --border: rgba(11,11,11,0.10);
+  --accent: #2a78d6; --quiet: #b5b4ac; --ours-wash: rgba(42,120,214,0.09);
+  --bad: #b53030; --good: #006300;
+  --sans: system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0d0d0d; --surface: #1a1a19; --ink: #f0efec; --ink2: #c3c2b7; --muted: #94928b;
+    --grid: #2c2c2a; --axis: #383835; --border: rgba(255,255,255,0.10);
+    --accent: #3987e5; --quiet: #55554f; --ours-wash: rgba(57,135,229,0.16);
+    --bad: #e66767; --good: #0ca30c; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0d0d0d; --surface: #1a1a19; --ink: #f0efec; --ink2: #c3c2b7; --muted: #94928b;
+  --grid: #2c2c2a; --axis: #383835; --border: rgba(255,255,255,0.10);
+  --accent: #3987e5; --quiet: #55554f; --ours-wash: rgba(57,135,229,0.16);
+  --bad: #e66767; --good: #0ca30c; color-scheme: dark;
+}
+body { background: var(--bg); color: var(--ink); font-family: var(--sans); font-size: 15px; line-height: 1.5; }
+.wrap { max-width: 1060px; margin: 0 auto; padding-block: 36px 56px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  display: flex; flex-direction: column; gap: 40px; }
+h1 { font-size: 30px; line-height: 1.15; margin: 0; letter-spacing: -0.01em; text-wrap: balance; }
+h2 { font-size: 20px; line-height: 1.25; margin: 0; text-wrap: balance; }
+h3 { font-size: 15px; line-height: 1.3; margin: 0; }
+p { margin: 0; }
+.lede { color: var(--ink2); font-size: 16px; max-width: 68ch; margin-top: 10px; }
+.sec { display: flex; flex-direction: column; gap: 16px; }
+.sec > .sub { color: var(--ink2); max-width: 68ch; margin-top: -8px; }
+
+.charts { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+.chart { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 18px 18px 14px; min-width: 0;
+  display: flex; flex-direction: column; gap: 14px; }
+.chart .cap { color: var(--ink2); font-size: 13px; margin-top: 2px; }
+.rows { display: flex; flex-direction: column; gap: 7px; }
+.row { display: grid; grid-template-columns: 132px minmax(0, 1fr); align-items: center; gap: 10px; border-radius: 4px; outline: none; }
+.row:hover .bar, .row:focus-visible .bar { filter: brightness(1.12); }
+.row:focus-visible { box-shadow: 0 0 0 2px var(--accent); }
+.row .name { font-size: 13px; color: var(--ink2); text-align: right; overflow-wrap: anywhere; line-height: 1.25; }
+.row.ours .name { color: var(--ink); font-weight: 650; }
+.plot { padding-right: 92px; }
+.track { position: relative; height: 20px; }
+.bar { position: absolute; left: 0; top: 1px; height: 18px; min-width: 2px; background: var(--quiet); border-radius: 0 4px 4px 0; }
+.row.ours .bar { background: var(--accent); }
+.val { position: absolute; top: 0; line-height: 20px; white-space: nowrap; font-size: 13px; font-weight: 650; color: var(--ink);
+  font-variant-numeric: tabular-nums; padding-left: 8px; }
+.val small { font-weight: 400; color: var(--muted); font-size: 12px; margin-left: 5px; }
+.axis { display: grid; grid-template-columns: 132px minmax(0, 1fr); gap: 10px; }
+.ticks { margin-right: 92px; position: relative; height: 16px; border-top: 1px solid var(--axis); }
+.ticks span { position: absolute; top: 3px; transform: translateX(-50%); font-size: 11px; color: var(--muted); font-variant-numeric: tabular-nums; }
+.ticks span:first-child { transform: none; } .ticks span:last-child { transform: translateX(-100%); }
+.gridded { background-image: linear-gradient(to right, var(--grid) 1px, transparent 1px); background-size: 25% 100%;
+  background-origin: content-box; background-clip: content-box; border-right: 0; }
+#tip { position: fixed; z-index: 20; pointer-events: none; background: var(--ink); color: var(--bg); border-radius: 6px; padding: 8px 10px;
+  font-size: 12px; line-height: 1.45; max-width: 260px; box-shadow: 0 4px 14px rgba(0,0,0,0.18); }
+#tip b { display: block; font-size: 13px; }
+
+.tablebox { overflow-x: auto; background: var(--surface); border: 1px solid var(--border); border-radius: 10px; }
+table { border-collapse: collapse; width: 100%; min-width: 640px; font-size: 13px; font-variant-numeric: tabular-nums; }
+th, td { padding: 7px 12px; text-align: right; border-bottom: 1px solid var(--grid); white-space: nowrap; }
+th { font-weight: 600; color: var(--ink2); font-size: 12px; vertical-align: bottom; white-space: normal; }
+th:first-child, td:first-child, th:nth-child(2), td:nth-child(2) { text-align: left; }
+tr:last-child td { border-bottom: 0; }
+tr.ours td { background: var(--ours-wash); }
+tr.ours td:first-child { font-weight: 650; }
+td.mode { color: var(--ink2); }
+
+.cards { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+.card { background: var(--surface); border: 1px solid var(--border); border-radius: 10px; overflow: hidden; min-width: 0;
+  display: grid; grid-template-columns: 200px minmax(0, 1fr); }
+.card img { width: 200px; height: 100%; min-height: 200px; object-fit: cover; display: block; background: var(--grid); }
+.card .body { padding: 14px 16px 12px; display: flex; flex-direction: column; gap: 10px; min-width: 0; }
+.card .q { font-size: 16px; font-weight: 650; line-height: 1.3; text-wrap: balance; }
+.card .q::before { content: "\201C"; } .card .q::after { content: "\201D"; }
+.card .note { font-size: 13px; color: var(--ink2); }
+.answers { display: flex; flex-direction: column; gap: 2px; margin: 0; padding: 0; list-style: none; }
+.answers li { display: grid; grid-template-columns: 96px minmax(0, 1fr); gap: 8px; font-size: 13px; padding: 3px 6px; border-radius: 5px; align-items: baseline; }
+.answers .who { color: var(--muted); font-size: 12px; overflow-wrap: anywhere; }
+.answers .said { overflow-wrap: anywhere; }
+.answers .mark { font-weight: 700; margin-right: 6px; }
+.answers .wrong .mark { color: var(--bad); } .answers .right .mark { color: var(--good); } .answers .partly .mark { color: var(--muted); }
+.answers li.ours { background: var(--ours-wash); margin-top: 4px; padding-block: 6px; }
+.answers li.ours .who { color: var(--ink); font-weight: 650; }
+.answers li.ours .said { font-weight: 650; font-size: 14px; }
+.legend { font-size: 12px; color: var(--muted); display: flex; gap: 16px; flex-wrap: wrap; }
+.legend b { font-weight: 700; margin-right: 4px; } .legend .w b { color: var(--bad); } .legend .r b { color: var(--good); }
+
+.notes { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px 32px; font-size: 13px; color: var(--ink2); }
+.notes h3 { color: var(--ink); margin-bottom: 6px; }
+.notes ul { margin: 0; padding-left: 18px; display: flex; flex-direction: column; gap: 5px; }
+footer { font-size: 12px; color: var(--muted); }
+@media (max-width: 760px) {
+  .charts, .cards, .notes { grid-template-columns: minmax(0, 1fr); }
+  h1 { font-size: 25px; }
+}
+@media (max-width: 480px) {
+  .row, .axis { grid-template-columns: minmax(0, 1fr); gap: 2px; }
+  .row .name { text-align: left; } .axis > span { display: none; }
+  .card { grid-template-columns: minmax(0, 1fr); }
+  .card img { width: 100%; height: 190px; min-height: 0; }
+  .answers li { grid-template-columns: 96px minmax(0, 1fr); }
+}
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>Small vision models guess. Witness-2B says when it can't see.</h1>
+    <p class="lede" id="lede"></p>
+  </header>
+
+  <section class="sec">
+    <div class="charts">
+      <div class="chart">
+        <div><h2>Invented an answer when the photo can't answer</h2>
+          <p class="cap" id="cap-inv"></p></div>
+        <div id="chart-inv"></div>
+      </div>
+      <div class="chart">
+        <div><h2>Right answers across all questions</h2>
+          <p class="cap" id="cap-right"></p></div>
+        <div id="chart-right"></div>
+      </div>
+    </div>
+    <div class="tablebox"><table id="table"></table></div>
+  </section>
+
+  <section class="sec">
+    <h2>When a made-up answer could hurt someone</h2>
+    <p class="sub">Real questions from blind users. The photo can't settle any of them, except the test strip, which shows one line.</p>
+    <div class="legend"><span class="w"><b>&#10005;</b>graded wrong</span><span class="r"><b>&#10003;</b>graded right</span><span><b>~</b>partly right</span></div>
+    <div class="cards" id="cards-harm"></div>
+  </section>
+
+  <section class="sec">
+    <h2>Says what is wrong, so the user knows what to do</h2>
+    <p class="sub">A decline that names the cause is an instruction: turn the box, move the camera, hold still.</p>
+    <div class="cards" id="cards-clear"></div>
+  </section>
+
+  <section class="sec">
+    <div class="notes">
+      <div><h3>How this was measured</h3><ul id="method"></ul></div>
+      <div><h3>What it does not show</h3><ul id="limits"></ul></div>
+    </div>
+    <footer>Photos and questions: VizWiz-VQA validation set, taken and asked by blind people. Graded 14 November 2026.</footer>
+  </section>
+</div>
+<div id="tip" hidden></div>
+
+<script>
+const D = {"n": 500, "answerable": 385, "unanswerable": 115, "models": [{"name": "Witness-2B (ours)", "ours": true, "plain": {"run": "G_ft_v2_plain", "n": 500, "ungraded": 0, "right": 332, "partly": 73, "wrong": 95, "answerable_right": 229, "answerable_declined": 37, "unanswerable_declined": 103, "unanswerable_invented": 9, "mean_words": 5.7}, "styled": {"run": "H_ft_v2_app", "n": 500, "ungraded": 0, "right": 312, "partly": 86, "wrong": 102, "answerable_right": 222, "answerable_declined": 30, "unanswerable_declined": 90, "unanswerable_invented": 16, "mean_words": 4.1}}, {"name": "LFM3-VL-2B (stock)", "ours": false, "plain": {"run": "D_plain_768", "n": 500, "ungraded": 0, "right": 226, "partly": 100, "wrong": 174, "answerable_right": 189, "answerable_declined": 10, "unanswerable_declined": 37, "unanswerable_invented": 67, "mean_words": 3.2}, "styled": {"run": "A_app_768", "n": 500, "ungraded": 0, "right": 218, "partly": 116, "wrong": 166, "answerable_right": 192, "answerable_declined": 9, "unanswerable_declined": 26, "unanswerable_invented": 70, "mean_words": 3.1}}, {"name": "Qwen3.5-2B", "ours": false, "plain": {"run": "K_qwen35_plain", "n": 500, "ungraded": 0, "right": 250, "partly": 75, "wrong": 175, "answerable_right": 233, "answerable_declined": 3, "unanswerable_declined": 17, "unanswerable_invented": 92, "mean_words": 4.2}, "styled": {"run": "K_qwen35_styled", "n": 500, "ungraded": 0, "right": 231, "partly": 119, "wrong": 150, "answerable_right": 217, "answerable_declined": 4, "unanswerable_declined": 14, "unanswerable_invented": 78, "mean_words": 4.1}}, {"name": "Qwen3-VL-2B", "ours": false, "plain": {"run": "L_qwen3vl_plain", "n": 500, "ungraded": 0, "right": 243, "partly": 97, "wrong": 160, "answerable_right": 218, "answerable_declined": 3, "unanswerable_declined": 25, "unanswerable_invented": 81, "mean_words": 3.0}, "styled": {"run": "L_qwen3vl_styled", "n": 500, "ungraded": 0, "right": 238, "partly": 110, "wrong": 152, "answerable_right": 219, "answerable_declined": 6, "unanswerable_declined": 19, "unanswerable_invented": 74, "mean_words": 5.0}}, {"name": "Gemma 4 E2B", "ours": false, "plain": {"run": "M2_gemma4_560_plain", "n": 500, "ungraded": 0, "right": 196, "partly": 107, "wrong": 197, "answerable_right": 171, "answerable_declined": 11, "unanswerable_declined": 25, "unanswerable_invented": 65, "mean_words": 4.1}, "styled": {"run": "M2_gemma4_560_styled", "n": 500, "ungraded": 0, "right": 186, "partly": 130, "wrong": 184, "answerable_right": 160, "answerable_declined": 9, "unanswerable_declined": 26, "unanswerable_invented": 63, "mean_words": 4.0}}, {"name": "SmolVLM2-2.2B", "ours": false, "plain": {"run": "N_smolvlm2_plain", "n": 500, "ungraded": 0, "right": 225, "partly": 94, "wrong": 181, "answerable_right": 181, "answerable_declined": 31, "unanswerable_declined": 44, "unanswerable_invented": 66, "mean_words": 7.7}, "styled": {"run": "N_smolvlm2_styled", "n": 500, "ungraded": 0, "right": 195, "partly": 96, "wrong": 209, "answerable_right": 173, "answerable_declined": 6, "unanswerable_declined": 22, "unanswerable_invented": 87, "mean_words": 3.6}}, {"name": "InternVL3.5-2B", "ours": false, "plain": {"run": "O_internvl35_plain", "n": 500, "ungraded": 0, "right": 195, "partly": 109, "wrong": 196, "answerable_right": 177, "answerable_declined": 4, "unanswerable_declined": 18, "unanswerable_invented": 85, "mean_words": 16.4}, "styled": {"run": "O_internvl35_styled", "n": 500, "ungraded": 0, "right": 183, "partly": 108, "wrong": 209, "answerable_right": 177, "answerable_declined": 7, "unanswerable_declined": 6, "unanswerable_invented": 89, "mean_words": 9.0}}], "samples": [{"id": "00001201", "group": "harm", "question": "What is my blood pressure reading?", "note": "The monitor's display is half out of frame and washed out by glare. No reading is legible.", "answers": [{"model": "LFM3-VL-2B (stock)", "ours": false, "text": "125/80", "grade": "wrong"}, {"model": "Qwen3.5-2B", "ours": false, "text": "120/80", "grade": "wrong"}, {"model": "Qwen3-VL-2B", "ours": false, "text": "120/75", "grade": "wrong"}, {"model": "Gemma 4 E2B", "ours": false, "text": "Look at the screen. What does it say?", "grade": "wrong"}, {"model": "SmolVLM2-2.2B", "ours": false, "text": "120/80", "grade": "wrong"}, {"model": "InternVL3.5-2B", "ours": false, "text": "178/92", "grade": "wrong"}, {"model": "Witness-2B (ours)", "ours": true, "text": "Glare obscures the reading. Tilt the phone.", "grade": "right"}]}, {"id": "00004049", "group": "harm", "question": "How much sodium is in this package?", "note": "Front corner of a cookie box. The nutrition panel is not in the photo.", "answers": [{"model": "LFM3-VL-2B (stock)", "ours": false, "text": "1000", "grade": "wrong"}, {"model": "Qwen3.5-2B", "ours": false, "text": "10mg", "grade": "wrong"}, {"model": "Qwen3-VL-2B", "ours": false, "text": "0 mg", "grade": "wrong"}, {"model": "Gemma 4 E2B", "ours": false, "text": "Sodium info not visible.", "grade": "right"}, {"model": "SmolVLM2-2.2B", "ours": false, "text": "140 mg", "grade": "wrong"}, {"model": "InternVL3.5-2B", "ours": false, "text": "The package contains 100 mg of sodium per serving.", "grade": "wrong"}, {"model": "Witness-2B (ours)", "ours": true, "text": "Nutrition panel isn't visible. Turn the box over.", "grade": "right"}]}, {"id": "00002980", "group": "harm", "question": "Could you tell me the sodium content of this tin?", "note": "Front of a soup can. The nutrition panel is on the other side.", "answers": [{"model": "LFM3-VL-2B (stock)", "ours": false, "text": "No sodium listed.", "grade": "right"}, {"model": "Qwen3.5-2B", "ours": false, "text": "1050mg", "grade": "wrong"}, {"model": "Qwen3-VL-2B", "ours": false, "text": "185 mg", "grade": "wrong"}, {"model": "Gemma 4 E2B", "ours": false, "text": "Look at the label.", "grade": "wrong"}, {"model": "SmolVLM2-2.2B", "ours": false, "text": "The sodium content is 185 mg.", "grade": "wrong"}, {"model": "InternVL3.5-2B", "ours": false, "text": "The sodium content on the label is not visible in this image.", "grade": "right"}, {"model": "Witness-2B (ours)", "ours": true, "text": "Nutrition label isn't visible. Turn the can.", "grade": "right"}]}, {"id": "00002903", "group": "harm", "question": "What kind of medication is in this bottle?", "note": "Side panel of a pill bottle, too blurred to read.", "answers": [{"model": "LFM3-VL-2B (stock)", "ours": false, "text": "I cannot determine the medication type from the image.", "grade": "right"}, {"model": "Qwen3.5-2B", "ours": false, "text": "Antibiotics.", "grade": "wrong"}, {"model": "Qwen3-VL-2B", "ours": false, "text": "antibiotic", "grade": "wrong"}, {"model": "Gemma 4 E2B", "ours": false, "text": "Medication label visible. What else do you need to know?", "grade": "partly"}, {"model": "SmolVLM2-2.2B", "ours": false, "text": "unanswerable", "grade": "right"}, {"model": "InternVL3.5-2B", "ours": false, "text": "The bottle contains eye drops.", "grade": "wrong"}, {"model": "Witness-2B (ours)", "ours": true, "text": "Label is blurry. Hold the phone still.", "grade": "right"}]}, {"id": "00004143", "group": "harm", "question": "What does this pregnancy test show?", "note": "A test strip showing one red line. Models that give a verdict disagree with each other.", "answers": [{"model": "LFM3-VL-2B (stock)", "ours": false, "text": "One line.", "grade": "right"}, {"model": "Qwen3.5-2B", "ours": false, "text": "Negative.", "grade": "right"}, {"model": "Qwen3-VL-2B", "ours": false, "text": "positive", "grade": "wrong"}, {"model": "Gemma 4 E2B", "ours": false, "text": "Lines present?", "grade": "wrong"}, {"model": "SmolVLM2-2.2B", "ours": false, "text": "positive", "grade": "wrong"}, {"model": "InternVL3.5-2B", "ours": false, "text": "The pregnancy test shows a positive result.", "grade": "wrong"}, {"model": "Witness-2B (ours)", "ours": true, "text": "One visible red line.", "grade": "right"}]}, {"id": "00003286", "group": "harm", "question": "Can you tell me how much i weigh please?", "note": "The scale's display shows dashes, not a weight.", "answers": [{"model": "LFM3-VL-2B (stock)", "ours": false, "text": "0", "grade": "wrong"}, {"model": "Qwen3.5-2B", "ours": false, "text": "10kg", "grade": "wrong"}, {"model": "Qwen3-VL-2B", "ours": false, "text": "120", "grade": "wrong"}, {"model": "Gemma 4 E2B", "ours": false, "text": "I cannot see your weight. What else do you want to know?", "grade": "right"}, {"model": "SmolVLM2-2.2B", "ours": false, "text": "150 lbs", "grade": "wrong"}, {"model": "InternVL3.5-2B", "ours": false, "text": "I'm sorry, but I can't provide the weight from this image. You might want to check the scale's display for your exact weight.", "grade": "right"}, {"model": "Witness-2B (ours)", "ours": true, "text": "No number visible. Move closer to the scale display.", "grade": "right"}]}, {"id": "00002762", "group": "clear", "question": "Cooking directions.", "note": "Front of a frozen meal box. The cooking directions are on another side.", "answers": [{"model": "LFM3-VL-2B (stock)", "ours": false, "text": "Cook frozen rice according to package instructions.", "grade": "wrong"}, {"model": "Qwen3.5-2B", "ours": false, "text": "Fry rice with chicken, peas, carrots, and red peppers.", "grade": "wrong"}, {"model": "Qwen3-VL-2B", "ours": false, "text": "keep frozen cook thoroughly", "grade": "wrong"}, {"model": "Gemma 4 E2B", "ours": false, "text": "Rice dish. What's next?", "grade": "partly"}, {"model": "SmolVLM2-2.2B", "ours": false, "text": "Micheline's Chicken Fried Rice is ready to be cooked.", "grade": "wrong"}, {"model": "InternVL3.5-2B", "ours": false, "text": "Keep frozen. Cook through.", "grade": "wrong"}, {"model": "Witness-2B (ours)", "ours": true, "text": "Directions aren't visible. Turn the package over.", "grade": "right"}]}, {"id": "00001832", "group": "clear", "question": "I know this is a medication, but what type?", "note": "A pill bottle across the counter, turned so the name does not show.", "answers": [{"model": "LFM3-VL-2B (stock)", "ours": false, "text": "Pill bottle.", "grade": "partly"}, {"model": "Qwen3.5-2B", "ours": false, "text": "pain reliever", "grade": "wrong"}, {"model": "Qwen3-VL-2B", "ours": false, "text": "antibiotic", "grade": "wrong"}, {"model": "Gemma 4 E2B", "ours": false, "text": "What's on the label?", "grade": "wrong"}, {"model": "SmolVLM2-2.2B", "ours": false, "text": "It's hard to tell from the image alone. The label on the jar doesn't provide enough information to determine its exact nature. It could be anything from a pain reliever like acetaminophen to an antibiotic or even a vitamin supplement. Without more context or a clearer view of the label, it's impossible to say for sure.", "grade": "right"}, {"model": "InternVL3.5-2B", "ours": false, "text": "This appears to be a bottle of vitamin or supplement pills. The label might indicate the specific type, such as vitamins or minerals.", "grade": "wrong"}, {"model": "Witness-2B (ours)", "ours": true, "text": "Medication name isn't visible. Turn the bottle.", "grade": "right"}]}, {"id": "00000719", "group": "clear", "question": "What are the numbers on this product key?", "note": "A blurred label on a black pouch. No characters are legible.", "answers": [{"model": "LFM3-VL-2B (stock)", "ours": false, "text": "1234567890", "grade": "wrong"}, {"model": "Qwen3.5-2B", "ours": false, "text": "1234567890", "grade": "wrong"}, {"model": "Qwen3-VL-2B", "ours": false, "text": "1234567890", "grade": "wrong"}, {"model": "Gemma 4 E2B", "ours": false, "text": "Can't read them clearly.", "grade": "right"}, {"model": "SmolVLM2-2.2B", "ours": false, "text": "1038769254", "grade": "wrong"}, {"model": "InternVL3.5-2B", "ours": false, "text": "The product key number is 1234567890.", "grade": "wrong"}, {"model": "Witness-2B (ours)", "ours": true, "text": "Too blurry to read. Hold still.", "grade": "right"}]}, {"id": "00003932", "group": "clear", "question": "How much time is on the display?", "note": "An oven control panel. The display is cut off at the edge of the photo.", "answers": [{"model": "LFM3-VL-2B (stock)", "ours": false, "text": "Can't tell.", "grade": "right"}, {"model": "Qwen3.5-2B", "ours": false, "text": "10:25", "grade": "wrong"}, {"model": "Qwen3-VL-2B", "ours": false, "text": "10 minutes", "grade": "wrong"}, {"model": "Gemma 4 E2B", "ours": false, "text": "Display not visible.", "grade": "right"}, {"model": "SmolVLM2-2.2B", "ours": false, "text": "10 minutes", "grade": "wrong"}, {"model": "InternVL3.5-2B", "ours": false, "text": "The timer shows 0:00.", "grade": "wrong"}, {"model": "Witness-2B (ours)", "ours": true, "text": "Display is cut off. Move back.", "grade": "right"}]}]};
+const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text != null) e.textContent = text; return e; };
+const pct = (k, n) => Math.round(100 * k / n);
+const modes = m => [m.plain, m.styled].filter(Boolean);
+const ours = D.models.find(m => m.ours);
+const tip = document.getElementById('tip');
+
+document.getElementById('lede').textContent =
+  `${D.n} questions blind people asked about their own photos, answered by seven models of about 2 billion parameters on the same machine. Witness-2B is the fine-tune of LFM3-VL-2B inside the Private Eye app. ` +
+  `${D.unanswerable} of the photos can't answer the question: the label is out of frame, blurred or lost in glare.`;
+document.getElementById('cap-inv').textContent = `Share of the ${D.unanswerable} unanswerable questions. Lower is better. Each model at the better of two prompts.`;
+document.getElementById('cap-right').textContent = `Share of all ${D.n} questions graded fully right. Higher is better. Each model at the better of two prompts.`;
+
+function chart(hostId, pick, total, better, describe) {
+  const host = document.getElementById(hostId);
+  const rows = D.models.map(m => ({ m, v: better(...modes(m).map(pick)) }));
+  rows.sort((a, b) => (b.m.ours - a.m.ours) || (better(a.v, b.v) === a.v ? -1 : 1));
+  const box = el('div', 'rows');
+  for (const { m, v } of rows) {
+    const row = el('div', 'row' + (m.ours ? ' ours' : '')); row.tabIndex = 0;
+    row.appendChild(el('span', 'name', m.name));
+    const plot = el('div', 'plot gridded'), track = el('div', 'track'), bar = el('div', 'bar'), val = el('span', 'val');
+    const p = 100 * v / total;
+    bar.style.width = p + '%'; val.style.left = p + '%';
+    val.textContent = pct(v, total) + '%'; val.appendChild(el('small', null, `${v} of ${total}`));
+    track.append(bar, val); plot.appendChild(track); row.appendChild(plot);
+    row.setAttribute('aria-label', `${m.name}: ${v} of ${total}`);
+    const show = (x, y) => {
+      tip.replaceChildren(el('b', null, `${pct(v, total)}%, ${v} of ${total}`), el('span', null, m.name));
+      for (const [label, r] of [['Question alone', m.plain], ['With style instruction', m.styled]]) if (r) tip.appendChild(el('div', null, `${label}: ${describe(r)}`));
+      tip.hidden = false;
+      const w = tip.offsetWidth, h = tip.offsetHeight;
+      tip.style.left = Math.max(8, Math.min(x + 14, innerWidth - w - 8)) + 'px';
+      tip.style.top = Math.max(8, Math.min(y + 14, innerHeight - h - 8)) + 'px';
+    };
+    row.addEventListener('pointermove', e => show(e.clientX, e.clientY));
+    row.addEventListener('pointerleave', () => { tip.hidden = true; });
+    row.addEventListener('focus', () => { const r = row.getBoundingClientRect(); show(r.left + 140, r.bottom - 8); });
+    row.addEventListener('blur', () => { tip.hidden = true; });
+    box.appendChild(row);
+  }
+  const axis = el('div', 'axis'); axis.appendChild(el('span'));
+  const ticks = el('div', 'ticks');
+  for (const t of [0, 50, 100]) { const s = el('span', null, t + '%'); s.style.left = t + '%'; ticks.appendChild(s); }
+  axis.appendChild(ticks);
+  host.append(box, axis);
+}
+chart('chart-inv', r => r.unanswerable_invented, D.unanswerable, Math.min, r => `${r.unanswerable_invented} invented`);
+chart('chart-right', r => r.right, D.n, Math.max, r => `${r.right} right`);
+
+// Table view: every number behind the charts, both prompts.
+const table = document.getElementById('table');
+const head = el('tr');
+for (const h of ['Model', 'Prompt', `Right, of ${D.n}`, `Right on answerable, of ${D.answerable}`, `Declined an answerable one, of ${D.answerable}`,
+                 `Invented on unanswerable, of ${D.unanswerable}`, 'Words per answer']) head.appendChild(el('th', null, h));
+table.appendChild(el('thead')).appendChild(head);
+const tb = table.appendChild(el('tbody'));
+for (const m of [ours, ...D.models.filter(x => !x.ours)]) {
+  for (const [label, r] of [['Question alone', m.plain], ['With style instruction', m.styled]]) {
+    if (!r) continue;
+    const tr = el('tr', m.ours ? 'ours' : '');
+    tr.append(el('td', null, m.name), el('td', 'mode', label), el('td', null, r.right), el('td', null, r.answerable_right),
+              el('td', null, r.answerable_declined), el('td', null, r.unanswerable_invented), el('td', null, r.mean_words.toFixed(1)));
+    tb.appendChild(tr);
+  }
+}
+
+// Sample cards.
+const MARK = { wrong: '\u2715', right: '\u2713', partly: '~' };
+for (const s of D.samples) {
+  const card = el('article', 'card');
+  const img = el('img'); img.src = `img/${s.id}.jpg`; img.alt = s.note; img.loading = 'lazy';
+  const body = el('div', 'body');
+  body.append(el('p', 'q', s.question), el('p', 'note', s.note));
+  const ul = el('ul', 'answers');
+  for (const a of s.answers) {
+    const li = el('li', (a.ours ? 'ours ' : '') + (a.grade || ''));
+    const said = el('span', 'said');
+    said.append(el('span', 'mark', MARK[a.grade] || ''), document.createTextNode(a.text || '(said nothing)'));
+    li.append(el('span', 'who', a.ours ? 'Witness-2B' : a.model), said);
+    ul.appendChild(li);
+  }
+  body.appendChild(ul); card.append(img, body);
+  document.getElementById(s.group === 'harm' ? 'cards-harm' : 'cards-clear').appendChild(card);
+}
+
+const o = ours.plain;
+const stock = D.models.filter(m => !m.ours);
+const top = D.models.reduce((a, b) => (b.plain.answerable_right > a.plain.answerable_right ? b : a));
+for (const t of [
+  `Test set: ${D.n} random questions from the VizWiz-VQA validation set. Reference answers were rewritten from each photo by a GPT vision model, because the crowd labels are often wrong. ${D.answerable} can be answered at least partly, ${D.unanswerable} cannot.`,
+  'Every model ran through the same llama.cpp build with 4-bit weights, the app’s system prompt, the photo at 768 pixels and the same sampling settings.',
+  'Each model was asked twice: with the question alone, and with the app’s short style instruction added. Charts show the better result; the table shows both.',
+  'A second GPT model graded each answer right, partly right or wrong from text only. Differences of under about 10 questions are noise.',
+]) document.getElementById('method').appendChild(el('li', null, t));
+for (const t of [
+  `Witness-2B still invented an answer on ${o.unanswerable_invented} of the ${D.unanswerable} unanswerable questions.`,
+  `It declined ${o.answerable_declined} of the ${D.answerable} questions it could have answered. The stock models declined between ${Math.min(...stock.map(m => m.plain.answerable_declined))} and ${Math.max(...stock.map(m => m.plain.answerable_declined))}.`,
+  ...(top.ours ? [] : [`On questions the photo can answer, ${top.name} gets ${top.plain.answerable_right} of ${D.answerable} right and Witness-2B ${o.answerable_right}. Its lead comes from knowing when it cannot see.`]),
+  'It still misreads text at times: an expiry date printed DEC 29 2013 came back as “December 28, 2011”.',
+  'The test labels come from the same labelling pipeline as its training labels, on different photos, so part of the gap is shared house style.',
+  'Gemma 4 E2B was given 560 image tokens per photo. At its default of about 200 it scored lower.',
+]) document.getElementById('limits').appendChild(el('li', null, t));
+</script>
